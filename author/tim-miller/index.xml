@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tim Miller | Nir Lipovetzky</title>
+    <link>https://nirlipo.github.io/author/tim-miller/</link>
+      <atom:link href="https://nirlipo.github.io/author/tim-miller/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tim Miller</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nirlipo.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Tim Miller</title>
+      <link>https://nirlipo.github.io/author/tim-miller/</link>
+    </image>
+    
+    <item>
+      <title>What you get is what you see: Decomposing Epistemic Planning using Functional STRIPS</title>
+      <link>https://nirlipo.github.io/publication/hu-2019-you/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/hu-2019-you/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated Hybrid Planning and Programmed Control for Real--Time UAV Maneuvering</title>
+      <link>https://nirlipo.github.io/publication/ramirez-2018-integrated/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/ramirez-2018-integrated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real--Time UAV Maneuvering via Automated Planning in Simulations</title>
+      <link>https://nirlipo.github.io/publication/ramirez-2017-real/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/ramirez-2017-real/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
