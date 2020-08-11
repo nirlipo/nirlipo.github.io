@@ -30,7 +30,7 @@
       <guid>https://nirlipo.github.io/project/ai4edu/</guid>
       <description>&lt;p&gt;We developed a set of 
 &lt;a href=&#34;https://github.com/AI4EDUC/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tools&lt;/a&gt; to run daily competitions in our AI courses at the University of Melbourne and RMIT. Students rely on a version from 
-&lt;a href=&#34;http://ai.berkeley.edu/project_overview.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkley AI Pacman framework&lt;/a&gt;. They use search algoithms, Planning Domain Description Language (PDDL), classical replanning, minimax, reinforcement learning and other approaches for their autonomous agents.&lt;/p&gt;
+&lt;a href=&#34;http://ai.berkeley.edu/project_overview.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkley AI Pacman framework&lt;/a&gt;. They use search algorithms, Planning Domain Description Language (PDDL), classical replanning, minimax, reinforcement learning and other approaches for their autonomous agents.&lt;/p&gt;
 &lt;p&gt;The code to run the competitions have been adapted over different games. This project has been developed with Prof. Sebastian Sardina (RMIT)&lt;/p&gt;
 </description>
     </item>

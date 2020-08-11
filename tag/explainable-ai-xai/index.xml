@@ -5,7 +5,7 @@
     <link>https://nirlipo.github.io/tag/explainable-ai-xai/</link>
       <atom:link href="https://nirlipo.github.io/tag/explainable-ai-xai/index.xml" rel="self" type="application/rss+xml" />
     <description>Explainable AI (XAI)</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 27 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nirlipo.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Explainable AI (XAI)</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Planimation</title>
       <link>https://nirlipo.github.io/project/planimation/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://nirlipo.github.io/project/planimation/</guid>
       <description>&lt;p&gt;Planimation is a modular and extensible open source framework to visualise sequential solutions of planning problems specified in PDDL. We introduce a preliminary declarative PDDL-like animation profile specification, expressive enough to synthesise animations of arbitrary initial states and goals of a benchmark with just a single profile.&lt;/p&gt;
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;

@@ -5,7 +5,7 @@
     <link>https://nirlipo.github.io/tag/width-based-planning/</link>
       <atom:link href="https://nirlipo.github.io/tag/width-based-planning/index.xml" rel="self" type="application/rss+xml" />
     <description>Width Based Planning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nirlipo.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Width Based Planning</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Width Based Planning</title>
       <link>https://nirlipo.github.io/project/width-based-planning/</link>
-      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://nirlipo.github.io/project/width-based-planning/</guid>
       <description>&lt;p&gt;Width Based Planning searches for solutions through a general measure of state novelty. When the dynamics of the problem are given through simulator engines such as the Atari games (ALE), GVGAI, or complex robotic and UaV flight simulators, novelty exploration yields state-of-the-art performance compared to known alternatives such as MCTS. Novelty exploration can be combined as well with the exploitation of goal-based heuristics within a general Best First Width Search. BFWS can solve efficiently classical planning problems even when the action model is hidden, opening exciting opportunities to model beyond declarative action representations.&lt;/p&gt;
 &lt;h1 id=&#34;papers&#34;&gt;Papers:&lt;/h1&gt;

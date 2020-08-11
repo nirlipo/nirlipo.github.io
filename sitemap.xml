@@ -93,6 +93,31 @@
   </url>
   
   <url>
+    <loc>https://nirlipo.github.io/tag/ai-planning/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nirlipo.github.io/project/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nirlipo.github.io/tags/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nirlipo.github.io/tag/width-based-planning/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nirlipo.github.io/project/width-based-planning/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nirlipo.github.io/publication-type/6/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
@@ -120,6 +145,16 @@
   <url>
     <loc>https://nirlipo.github.io/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nirlipo.github.io/tag/explainable-ai-xai/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nirlipo.github.io/project/planimation/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -154,11 +189,6 @@
   
   <url>
     <loc>https://nirlipo.github.io/author/adrian-pearce/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nirlipo.github.io/tag/ai-planning/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -253,11 +283,6 @@
   </url>
   
   <url>
-    <loc>https://nirlipo.github.io/tags/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nirlipo.github.io/tag/teaching/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -288,48 +313,8 @@
   </url>
   
   <url>
-    <loc>https://nirlipo.github.io/tag/ale/</loc>
-    <lastmod>2018-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nirlipo.github.io/project/atari/</loc>
-    <lastmod>2018-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nirlipo.github.io/project/classical-planners/</loc>
     <lastmod>2018-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nirlipo.github.io/tag/deep-reinforcement-learning-rl/</loc>
-    <lastmod>2018-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nirlipo.github.io/project/</loc>
-    <lastmod>2018-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nirlipo.github.io/project/trapper/</loc>
-    <lastmod>2018-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nirlipo.github.io/tag/verification/</loc>
-    <lastmod>2018-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nirlipo.github.io/tag/width-based-planning/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nirlipo.github.io/project/width-based-planning/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -483,17 +468,17 @@
   </url>
   
   <url>
+    <loc>https://nirlipo.github.io/project/trapper/</loc>
+    <lastmod>2016-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nirlipo.github.io/tag/verification/</loc>
+    <lastmod>2016-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nirlipo.github.io/project/ai4edu/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nirlipo.github.io/tag/explainable-ai-xai/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nirlipo.github.io/project/planimation/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -510,6 +495,21 @@
   <url>
     <loc>https://nirlipo.github.io/publication/lipovetzky-2016-traps/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nirlipo.github.io/tag/ale/</loc>
+    <lastmod>2015-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nirlipo.github.io/project/atari/</loc>
+    <lastmod>2015-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nirlipo.github.io/tag/deep-reinforcement-learning-rl/</loc>
+    <lastmod>2015-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
