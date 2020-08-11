@@ -495,6 +495,8 @@ You found me!
 &lt;p&gt;&lt;img src=&#34;https://endeavour.unimelb.edu.au/__data/assets/image/0007/2914621/endeavour-2018-11.jpg&#34; alt=&#34;image&#34;&gt;
 &lt;img src=&#34;https://endeavour.unimelb.edu.au/__data/assets/image/0005/2914691/endeavour-2018-36.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;citing-planimation&#34;&gt;Citing Planimation&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://arxiv.org/abs/2008.04600&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Technical Report - ICAPS 2019 System Demonstration&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Please cite Planimation using&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;@misc{chen_gan_2020_3773027,
   author       = {Chen, Gan and
