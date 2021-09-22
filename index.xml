@@ -7,7 +7,7 @@
     <description>Nir Lipovetzky</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nirlipo.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://nirlipo.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Nir Lipovetzky</title>
       <link>https://nirlipo.github.io/</link>
     </image>
@@ -77,6 +77,30 @@
     </item>
     
     <item>
+      <title>Approximate Novelty Search</title>
+      <link>https://nirlipo.github.io/publication/singh-2021-approximate/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/singh-2021-approximate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Width-Based Backward Search</title>
+      <link>https://nirlipo.github.io/publication/lei-2021-width/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/lei-2021-width/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Planning for Novelty: Width-Based Algorithms for Common Problems in Control, Planning and Reinforcement Learning</title>
+      <link>https://nirlipo.github.io/publication/nir-2021-ijcai/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/nir-2021-ijcai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Assessment of Smoke Contamination in Grapevine Berries and Taint in Wines Due to Bushfires Using a Low-Cost E-Nose and an Artificial Intelligence Approach</title>
       <link>https://nirlipo.github.io/publication/fuentes-2020-assessment/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
@@ -106,8 +130,27 @@
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://nirlipo.github.io/project/width-based-planning/</guid>
       <description>&lt;p&gt;Width Based Planning searches for solutions through a general measure of state novelty. When the dynamics of the problem are given through simulator engines such as the Atari games (ALE), GVGAI, or complex robotic and UaV flight simulators, novelty exploration yields state-of-the-art performance compared to known alternatives such as MCTS. Novelty exploration can be combined as well with the exploitation of goal-based heuristics within a general Best First Width Search. BFWS can solve efficiently classical planning problems even when the action model is hidden, opening exciting opportunities to model beyond declarative action representations.&lt;/p&gt;
+&lt;h1 id=&#34;talks&#34;&gt;Talks:&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Tractable novelty exploration over Continuous and Discrete Sequential Decision Problems, School of Computing and information Systems Seminar, The University of Melbourne, 9-2021
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/-qQ4yPSt16U&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://recorder-v3.slideslive.com/#/share?share=46565&amp;amp;s=8b78bd0a-2b0c-480b-aae2-ee2700d6fc05&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Width-Based Algorithms for Common Problems in Control, Planning and Reinforcement Learning&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://ijcai-21.org/early-career-spotlight-invited-talk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Early Career Spotlight&lt;/a&gt; at IJCAI 2021.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;papers&#34;&gt;Papers:&lt;/h1&gt;
 &lt;p&gt;(Disclaimer: this is not a comprehensive list, please get in touch to add relevant work that has been missed)&lt;/p&gt;
+&lt;p&gt;As position paper `
+&lt;a href=&#34;https://www.ijcai.org/proceedings/2021/0702.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Width-Based Algorithms for Common Problems in Control, Planning and Reinforcement Learning&lt;/a&gt;&#39; was presented as part of the 
+&lt;a href=&#34;https://ijcai-21.org/early-career-spotlight-invited-talk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Early Career Spotlight&lt;/a&gt; at IJCAI 2021.&lt;/p&gt;
 &lt;h1 id=&#34;table-of-contents&#34;&gt;Table of Contents&lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -116,6 +159,8 @@
 &lt;a href=&#34;#classical-planning-over-simulators&#34;&gt;Classical Planning over Simulators&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;#continous-state-simulators&#34;&gt;Continous State Simulators&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;#planning-and-learning&#34;&gt;Planning and Learning&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;#planning-over-factored-simulators-in-functional-strips&#34;&gt;Planning over Factored Simulators in Functional STRIPS&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
@@ -147,6 +192,31 @@
 &lt;a href=&#34;http://people.eng.unimelb.edu.au/nlipovetzky/papers/icaps17-quantified-novelty.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;M. Katz, N. Lipovetzky, D. Moshkovich, A. Tuisov, ICAPS17&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Approximate Novelty computation&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://ojs.aaai.org/index.php/ICAPS/article/view/15980/15791&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A. Singh, J. Segovia, M. Ramirez, N. Lipovetzky ICAPS21&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Action Novelty:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.ijcai.org/proceedings/2021/0576.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A. Tuisov, M. Katz, IJCAI21&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Novelty Decompositions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.aaai.org/AAAI21Papers/AAAI-8289.BonetB.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;B Bonet, H Geffner, AAAI21&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.diva-portal.org/smash/record.jsf?pid=diva2:1578987&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;D Drexler, J Seipp, H Geffner, KR21&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://ojs.aaai.org/index.php/ICAPS/article/download/15999/15810&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;M Junyent, A Jonsson, V Gómez, ICAPS21&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;classical-planning-over-simulators&#34;&gt;Classical Planning over Simulators&lt;/h2&gt;
 &lt;ul&gt;
@@ -172,6 +242,13 @@
 &lt;a href=&#34;https://www.ijcai.org/Proceedings/2020/0578.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Florent Teichteil-Königsbuch, Miquel Ramirez, Nir Lipovetzky, IJCAI20&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;pleanning-and-learning&#34;&gt;Pleanning and Learning&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://ojs.aaai.org/index.php/ICAPS/article/download/3554/3432/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;M Junyent, A Jonsson, V Gómez, ICAPS19&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://ojs.aaai.org/index.php/ICAPS/article/download/15999/15810&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;M Junyent, A Jonsson, V Gómez, ICAPS21&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;planning-over-factored-simulators-in-functional-strips&#34;&gt;Planning over Factored Simulators in Functional STRIPS&lt;/h2&gt;
 &lt;p&gt;Factored simulators accept finite domain variables, and mixed Declarative and Programatic (simulated) dynamics&lt;/p&gt;
@@ -256,7 +333,7 @@ data.head()
 1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;renders as&lt;/p&gt;
-&lt;p&gt;$$f(k;p_0^*) = \begin{cases} p_0^* &amp;amp; \text{if }k=1, \\&lt;br&gt;
+&lt;p&gt;$$f(k;p_0^&lt;em&gt;) = \begin{cases} p_0^&lt;/em&gt; &amp;amp; \text{if }k=1, \\&lt;br&gt;
 1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$&lt;/p&gt;
 &lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
 &lt;p&gt;Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;
@@ -494,7 +571,7 @@ You found me!
 &lt;h3 id=&#34;icaps-2019-best-system-demonstration&#34;&gt;ICAPS 2019 Best System Demonstration&lt;/h3&gt;
 &lt;p&gt;Recipient of the 
 &lt;a href=&#34;https://icaps19.icaps-conference.org/awards&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICAPS 2019 Best system Demo Award&lt;/a&gt;.&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Congratulations to the &lt;a href=&#34;https://twitter.com/cis_unimelb?ref_src=twsrc%5Etfw&#34;&gt;@cis_unimelb&lt;/a&gt; students behind Planimation, an open source framework to visualise sequential solutions of planning problems specified in PDDL, which won the popular vote for best demo at &lt;a href=&#34;https://twitter.com/hashtag/icaps2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#icaps2019&lt;/a&gt; in the US earlier this week! &lt;a href=&#34;https://t.co/3G2U2pE9CY&#34;&gt;pic.twitter.com/3G2U2pE9CY&lt;/a&gt;&lt;/p&gt;&amp;mdash; Melbourne School of Engineering (@engunimelb) &lt;a href=&#34;https://twitter.com/engunimelb/status/1151380531021434880?ref_src=twsrc%5Etfw&#34;&gt;July 17, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Congratulations to the &lt;a href=&#34;https://twitter.com/cis_unimelb?ref_src=twsrc%5Etfw&#34;&gt;@cis_unimelb&lt;/a&gt; students behind Planimation, an open source framework to visualise sequential solutions of planning problems specified in PDDL, which won the popular vote for best demo at &lt;a href=&#34;https://twitter.com/hashtag/icaps2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#icaps2019&lt;/a&gt; in the US earlier this week! &lt;a href=&#34;https://t.co/3G2U2pE9CY&#34;&gt;pic.twitter.com/3G2U2pE9CY&lt;/a&gt;&lt;/p&gt;&amp;mdash; Faculty of Engineering and Information Technology (@engunimelb) &lt;a href=&#34;https://twitter.com/engunimelb/status/1151380531021434880?ref_src=twsrc%5Etfw&#34;&gt;July 17, 2019&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
 &lt;h3 id=&#34;melbourne-school-of-engineering---endeavour-2018&#34;&gt;Melbourne School of Engineering - Endeavour 2018&lt;/h3&gt;
@@ -506,7 +583,7 @@ You found me!
 &lt;p&gt;
 &lt;a href=&#34;https://arxiv.org/abs/2008.04600&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Technical Report - ICAPS 2019 System Demonstration&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Please cite Planimation using&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;@misc{chen_gan_2020_3773027,
+&lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;@article{chen2020planimation,
   author       = {Chen, Gan and
                   Ding, Yi and
                   Edwards, Hugo and
@@ -520,12 +597,8 @@ You found me!
                   Tidhar Gil and
                   Lipovetzky Nir},
   title        = {Planimation},
-  month        = apr,
-  year         = 2020,
-  publisher    = {Zenodo},
-  version      = {ICAPS-2019},
-  doi          = {10.5281/zenodo.3773027},
-  url          = {https://doi.org/10.5281/zenodo.3773027}
+  journal      = {arXiv preprint arXiv:2008.04600},
+  year         = {2020}
 }
 &lt;/code&gt;&lt;/pre&gt;
 </description>
@@ -576,7 +649,8 @@ date: 2019-09-01
 &lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
-&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This post was created with Jupyter. The orginal files can be found at 
+&lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -719,7 +793,7 @@ Three
       <link>https://nirlipo.github.io/publication/haslum-2019-introduction/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://nirlipo.github.io/publication/haslum-2019-introduction/</guid>
-      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;&amp;quot;An important resource for anyone who studies AI planning, regardless of whether they ever use PDDL.&amp;quot; -- Dana Nau, University of Maryland  &lt;a href=&#34;https://twitter.com/hashtag/AI?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#AI&lt;/a&gt;  &lt;a href=&#34;https://t.co/fvSmJ6R7qG&#34;&gt;https://t.co/fvSmJ6R7qG&lt;/a&gt; &lt;a href=&#34;https://t.co/5Rw1D00e5P&#34;&gt;pic.twitter.com/5Rw1D00e5P&lt;/a&gt;&lt;/p&gt;&amp;mdash; Morgan &amp;amp; Claypool (@MorganClaypool) &lt;a href=&#34;https://twitter.com/MorganClaypool/status/1115287393505042432?ref_src=twsrc%5Etfw&#34;&gt;April 8, 2019&lt;/a&gt;&lt;/blockquote&gt;
+      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;&amp;quot;An important resource for anyone who studies AI planning, regardless of whether they ever use PDDL.&amp;quot; -- Dana Nau, University of Maryland  &lt;a href=&#34;https://twitter.com/hashtag/AI?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#AI&lt;/a&gt;  &lt;a href=&#34;https://t.co/fvSmJ6R7qG&#34;&gt;https://t.co/fvSmJ6R7qG&lt;/a&gt; &lt;a href=&#34;https://t.co/5Rw1D00e5P&#34;&gt;pic.twitter.com/5Rw1D00e5P&lt;/a&gt;&lt;/p&gt;&amp;mdash; Morgan &amp;amp; Claypool Publishers (@MorganClaypool) &lt;a href=&#34;https://twitter.com/MorganClaypool/status/1115287393505042432?ref_src=twsrc%5Etfw&#34;&gt;April 8, 2019&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
 </description>
@@ -874,7 +948,7 @@ Three
     <item>
       <title>News</title>
       <link>https://nirlipo.github.io/news/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 +1100</pubDate>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       <guid>https://nirlipo.github.io/news/</guid>
       <description>
 
@@ -885,9 +959,9 @@ Three
 
 
 
-&lt;p&gt;&lt;strong&gt;[13/07/20]&lt;/strong&gt; New paper on &lt;a href=&#34;https://nirlipo.github.io/publication/teichteil-2020-boundary/&#34;&gt;Boundary Extension Features for Width-Based Planning with Simulators on Continuous-State Domains&lt;/a&gt;, published@IJCAI-20.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[12/05/20]&lt;/strong&gt; New paper on &lt;a href=&#34;https://nirlipo.github.io/publication/polyvyanyy-2020-goal/&#34;&gt;Goal Recognition Using Off-The-Shelf Process Mining Techniques&lt;/a&gt;, published@AAMAS-20.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[31/3/20]&lt;/strong&gt; New Book Chapter on &lt;a href=&#34;https://nirlipo.github.io/publication/muise-2020-keps/&#34;&gt;Planning.Domains &lt;/a&gt; published @ Knowledge Engineering Tools and Techniques for AI Planning (KEPS Book)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[01/09/21]&lt;/strong&gt; Early Career Spotlight on &lt;a href=&#34;https://nirlipo.github.io/publication/nir-2021-ijcai/&#34;&gt;Width-Based Algorithms for Common Problems in Control, Planning and Reinforcement Learning&lt;/a&gt;, published@IJCAI-21.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[01/08/21]&lt;/strong&gt; New paper on &lt;a href=&#34;https://nirlipo.github.io/publication/singh-2021-approximate/&#34;&gt;Approximate Novelty Search&lt;/a&gt;, published@ICAPS-21.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[01/08/21]&lt;/strong&gt; New paper on &lt;a href=&#34;https://nirlipo.github.io/publication/lei-2021-width/&#34;&gt;Width-Based Backward Search&lt;/a&gt; published@ICAPS-21&lt;/p&gt;
 
 </description>
     </item>

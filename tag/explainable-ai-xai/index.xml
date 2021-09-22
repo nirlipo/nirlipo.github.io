@@ -7,7 +7,7 @@
     <description>Explainable AI (XAI)</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 27 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nirlipo.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://nirlipo.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Explainable AI (XAI)</title>
       <link>https://nirlipo.github.io/tag/explainable-ai-xai/</link>
     </image>
@@ -36,7 +36,7 @@
 &lt;h3 id=&#34;icaps-2019-best-system-demonstration&#34;&gt;ICAPS 2019 Best System Demonstration&lt;/h3&gt;
 &lt;p&gt;Recipient of the 
 &lt;a href=&#34;https://icaps19.icaps-conference.org/awards&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICAPS 2019 Best system Demo Award&lt;/a&gt;.&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Congratulations to the &lt;a href=&#34;https://twitter.com/cis_unimelb?ref_src=twsrc%5Etfw&#34;&gt;@cis_unimelb&lt;/a&gt; students behind Planimation, an open source framework to visualise sequential solutions of planning problems specified in PDDL, which won the popular vote for best demo at &lt;a href=&#34;https://twitter.com/hashtag/icaps2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#icaps2019&lt;/a&gt; in the US earlier this week! &lt;a href=&#34;https://t.co/3G2U2pE9CY&#34;&gt;pic.twitter.com/3G2U2pE9CY&lt;/a&gt;&lt;/p&gt;&amp;mdash; Melbourne School of Engineering (@engunimelb) &lt;a href=&#34;https://twitter.com/engunimelb/status/1151380531021434880?ref_src=twsrc%5Etfw&#34;&gt;July 17, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Congratulations to the &lt;a href=&#34;https://twitter.com/cis_unimelb?ref_src=twsrc%5Etfw&#34;&gt;@cis_unimelb&lt;/a&gt; students behind Planimation, an open source framework to visualise sequential solutions of planning problems specified in PDDL, which won the popular vote for best demo at &lt;a href=&#34;https://twitter.com/hashtag/icaps2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#icaps2019&lt;/a&gt; in the US earlier this week! &lt;a href=&#34;https://t.co/3G2U2pE9CY&#34;&gt;pic.twitter.com/3G2U2pE9CY&lt;/a&gt;&lt;/p&gt;&amp;mdash; Faculty of Engineering and Information Technology (@engunimelb) &lt;a href=&#34;https://twitter.com/engunimelb/status/1151380531021434880?ref_src=twsrc%5Etfw&#34;&gt;July 17, 2019&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
 &lt;h3 id=&#34;melbourne-school-of-engineering---endeavour-2018&#34;&gt;Melbourne School of Engineering - Endeavour 2018&lt;/h3&gt;
@@ -48,7 +48,7 @@
 &lt;p&gt;
 &lt;a href=&#34;https://arxiv.org/abs/2008.04600&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Technical Report - ICAPS 2019 System Demonstration&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Please cite Planimation using&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;@misc{chen_gan_2020_3773027,
+&lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;@article{chen2020planimation,
   author       = {Chen, Gan and
                   Ding, Yi and
                   Edwards, Hugo and
@@ -62,12 +62,8 @@
                   Tidhar Gil and
                   Lipovetzky Nir},
   title        = {Planimation},
-  month        = apr,
-  year         = 2020,
-  publisher    = {Zenodo},
-  version      = {ICAPS-2019},
-  doi          = {10.5281/zenodo.3773027},
-  url          = {https://doi.org/10.5281/zenodo.3773027}
+  journal      = {arXiv preprint arXiv:2008.04600},
+  year         = {2020}
 }
 &lt;/code&gt;&lt;/pre&gt;
 </description>

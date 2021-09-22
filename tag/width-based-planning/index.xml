@@ -7,7 +7,7 @@
     <description>Width Based Planning</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nirlipo.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://nirlipo.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Width Based Planning</title>
       <link>https://nirlipo.github.io/tag/width-based-planning/</link>
     </image>
@@ -18,8 +18,27 @@
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://nirlipo.github.io/project/width-based-planning/</guid>
       <description>&lt;p&gt;Width Based Planning searches for solutions through a general measure of state novelty. When the dynamics of the problem are given through simulator engines such as the Atari games (ALE), GVGAI, or complex robotic and UaV flight simulators, novelty exploration yields state-of-the-art performance compared to known alternatives such as MCTS. Novelty exploration can be combined as well with the exploitation of goal-based heuristics within a general Best First Width Search. BFWS can solve efficiently classical planning problems even when the action model is hidden, opening exciting opportunities to model beyond declarative action representations.&lt;/p&gt;
+&lt;h1 id=&#34;talks&#34;&gt;Talks:&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Tractable novelty exploration over Continuous and Discrete Sequential Decision Problems, School of Computing and information Systems Seminar, The University of Melbourne, 9-2021
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/-qQ4yPSt16U&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://recorder-v3.slideslive.com/#/share?share=46565&amp;amp;s=8b78bd0a-2b0c-480b-aae2-ee2700d6fc05&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Width-Based Algorithms for Common Problems in Control, Planning and Reinforcement Learning&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://ijcai-21.org/early-career-spotlight-invited-talk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Early Career Spotlight&lt;/a&gt; at IJCAI 2021.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;papers&#34;&gt;Papers:&lt;/h1&gt;
 &lt;p&gt;(Disclaimer: this is not a comprehensive list, please get in touch to add relevant work that has been missed)&lt;/p&gt;
+&lt;p&gt;As position paper `
+&lt;a href=&#34;https://www.ijcai.org/proceedings/2021/0702.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Width-Based Algorithms for Common Problems in Control, Planning and Reinforcement Learning&lt;/a&gt;&#39; was presented as part of the 
+&lt;a href=&#34;https://ijcai-21.org/early-career-spotlight-invited-talk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Early Career Spotlight&lt;/a&gt; at IJCAI 2021.&lt;/p&gt;
 &lt;h1 id=&#34;table-of-contents&#34;&gt;Table of Contents&lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -28,6 +47,8 @@
 &lt;a href=&#34;#classical-planning-over-simulators&#34;&gt;Classical Planning over Simulators&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;#continous-state-simulators&#34;&gt;Continous State Simulators&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;#planning-and-learning&#34;&gt;Planning and Learning&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;#planning-over-factored-simulators-in-functional-strips&#34;&gt;Planning over Factored Simulators in Functional STRIPS&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
@@ -59,6 +80,31 @@
 &lt;a href=&#34;http://people.eng.unimelb.edu.au/nlipovetzky/papers/icaps17-quantified-novelty.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;M. Katz, N. Lipovetzky, D. Moshkovich, A. Tuisov, ICAPS17&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Approximate Novelty computation&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://ojs.aaai.org/index.php/ICAPS/article/view/15980/15791&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A. Singh, J. Segovia, M. Ramirez, N. Lipovetzky ICAPS21&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Action Novelty:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.ijcai.org/proceedings/2021/0576.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A. Tuisov, M. Katz, IJCAI21&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Novelty Decompositions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.aaai.org/AAAI21Papers/AAAI-8289.BonetB.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;B Bonet, H Geffner, AAAI21&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.diva-portal.org/smash/record.jsf?pid=diva2:1578987&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;D Drexler, J Seipp, H Geffner, KR21&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://ojs.aaai.org/index.php/ICAPS/article/download/15999/15810&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;M Junyent, A Jonsson, V Gómez, ICAPS21&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;classical-planning-over-simulators&#34;&gt;Classical Planning over Simulators&lt;/h2&gt;
 &lt;ul&gt;
@@ -84,6 +130,13 @@
 &lt;a href=&#34;https://www.ijcai.org/Proceedings/2020/0578.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Florent Teichteil-Königsbuch, Miquel Ramirez, Nir Lipovetzky, IJCAI20&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;pleanning-and-learning&#34;&gt;Pleanning and Learning&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://ojs.aaai.org/index.php/ICAPS/article/download/3554/3432/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;M Junyent, A Jonsson, V Gómez, ICAPS19&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://ojs.aaai.org/index.php/ICAPS/article/download/15999/15810&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;M Junyent, A Jonsson, V Gómez, ICAPS21&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;planning-over-factored-simulators-in-functional-strips&#34;&gt;Planning over Factored Simulators in Functional STRIPS&lt;/h2&gt;
 &lt;p&gt;Factored simulators accept finite domain variables, and mixed Declarative and Programatic (simulated) dynamics&lt;/p&gt;
