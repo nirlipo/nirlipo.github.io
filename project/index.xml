@@ -134,10 +134,12 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;pleanning-and-learning&#34;&gt;Pleanning and Learning&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;
+&lt;li&gt;IW and Learnt Policies 
 &lt;a href=&#34;https://ojs.aaai.org/index.php/ICAPS/article/download/3554/3432/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;M Junyent, A Jonsson, V Gómez, ICAPS19&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
+&lt;li&gt;Hierarchical Learning 
 &lt;a href=&#34;https://ojs.aaai.org/index.php/ICAPS/article/download/15999/15810&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;M Junyent, A Jonsson, V Gómez, ICAPS21&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Learning symbolic representation with VAE 
+&lt;a href=&#34;https://ojs.aaai.org/index.php/AAAI/article/view/16627&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Dittadi, FK Drachmann, T Bolander&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;planning-over-factored-simulators-in-functional-strips&#34;&gt;Planning over Factored Simulators in Functional STRIPS&lt;/h2&gt;
 &lt;p&gt;Factored simulators accept finite domain variables, and mixed Declarative and Programatic (simulated) dynamics&lt;/p&gt;
