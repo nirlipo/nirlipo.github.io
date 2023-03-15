@@ -888,14 +888,15 @@
 <a href="https://cis.unimelb.edu.au/" target="_blank" rel="noopener">Computing and Information Systems</a>, 
 <a href="https://www.unimelb.edu.au/" target="_blank" rel="noopener">The University of Melbourne</a>. I&rsquo;m a member of the 
 <a href="https://cis.unimelb.edu.au/agentlab/" target="_blank" rel="noopener">Agent Lab group</a> and the 
-<a href="https://fvas.unimelb.edu.au/research/groups/digital-agriculture-food-and-wine" target="_blank" rel="noopener">Digital Agriculture, Food and Wine</a> lab. I completed my PhD at the 
+<a href="https://fvas.unimelb.edu.au/research/groups/digital-agriculture-food-and-wine" target="_blank" rel="noopener">Digital Agriculture, Food and Wine</a> lab.</p>
+<p>My research focuses on how to introduce different approaches to the problem of inference in <strong>sequential decision problems</strong>, as well as applications to <strong>autonomous systems in agriculture</strong>.</p>
+<p>I completed my PhD at the 
 <a href="https://www.upf.edu/web/ai-ml" target="_blank" rel="noopener">Artificial Intelligence and Machine Learning Group</a>, Universitat Pompeu Fabra, under the supervision of Prof. 
 <a href="http://www.dtic.upf.edu/~hgeffner/" target="_blank" rel="noopener">Hector Geffner</a>. I was a research fellow for 3 years under the supervision of Prof. 
 <a href="https://people.eng.unimelb.edu.au/pstuckey/" target="_blank" rel="noopener">Peter Stuckey</a> and Prof. 
 <a href="https://people.eng.unimelb.edu.au/adrianrp/" target="_blank" rel="noopener">Adrian Pearce</a>, working on solving 
 <a href="https://cis.unimelb.edu.au/agentlab/mining/" target="_blank" rel="noopener">Mining Scheduling</a> problems through automated planning, constraint programming and operations research techniques.</p>
 <!-- My interests span across research areas in **AI planning, search, learning, verification, constraint programming, operations research and intention recognition**.  -->
-<p>My research focuses on how to introduce different approaches to the problem of inference in <strong>sequential decision problems</strong>, as well as applications to <strong>autonomous systems</strong>.</p>
 <!-- I'm involved in the development of the Lightweight Automated Planning ToolKiT (LAPKT), aimed to make your life easier if your purpose is to create, use or extend basic to advanced Automated Planners. -->
 
     <div class="row">
@@ -1018,10 +1019,10 @@
 
 
 
-<p><strong>[01/11/21]</strong> New Paper on <a href="/publication/stefan-neurips/">Width-based Lookaheads with Learnt Base Policies and Heuristics Over the Atari-2600 Benchmark</a>, published@NeurIPS-21, selected for a spotlight at the conference (&lt;3% acceptance rate).</p>
-<p><strong>[01/09/21]</strong> Early Career Spotlight on <a href="/publication/nir-2021-ijcai/">Width-Based Algorithms for Common Problems in Control, Planning and Reinforcement Learning</a>, published@IJCAI-21.</p>
-<p><strong>[01/08/21]</strong> New paper on <a href="/publication/singh-2021-approximate/">Approximate Novelty Search</a>, published@ICAPS-21.</p>
-<p><strong>[01/08/21]</strong> New paper on <a href="/publication/lei-2021-width/">Width-Based Backward Search</a> published@ICAPS-21</p>
+<p><strong>[01/03/23]</strong> New Paper on <a href="/publication/gerevini-2023-width/">Width-based search for multi agent privacy-preserving planning</a>, published@AIJ.</p>
+<p><strong>[16/10/22]</strong> New Paper on <a href="/publication/hu-2022-planning/">Planning with Perspectives &ndash; Decomposing Epistemic Planning using Functional STRIPS</a>, published@JAIR</p>
+<p><strong>[01/07/22]</strong> New paper on <a href="/publication/o-2022-sampling/">Sampling from Pre-Images to Learn Heuristic Functions for Classical Planning</a>, published@SOCS-22.</p>
+<p><strong>[01/07/22]</strong> MasterClass on <a href="https://socs2022.unibs.it/privacy/invited-speakers">Width-Based Planning: Searching for Novelty</a> SoCS 2022: The 15th International Symposium on Combinatorial Search.</p>
 
 
     </div>
@@ -1927,7 +1928,7 @@
     
 
   
-  <span >Stefan O&#39;Toole</span>, <span >Nir Lipovetzky</span>, <span >Miquel Ramirez</span>, <span >Adrian Pearce</span>
+  <span >Alfonso E Gerevini</span>, <span >Nir Lipovetzky</span>, <span >Francesco Percassi</span>, <span >Alessandro Saetti</span>, <span >Ivan Serina</span>
   </div>
   
   
@@ -1938,7 +1939,7 @@
     
       
     
-    November 2021
+    January 2023
   </span>
   
 
@@ -1946,7 +1947,7 @@
   <span class="middot-divider"></span>
   <span class="pub-publication">
     
-      <em>Proceedings of the Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS)</em>
+      <em>Artificial Intelligence</em>
     
   </span>
   
@@ -1969,12 +1970,12 @@
   
 
   <h3 class="article-title mb-1 mt-3">
-    <a href="/publication/stefan-neurips/">Width-based Lookaheads with Learnt Base Policies and Heuristics Over the Atari-2600 Benchmark</a>
+    <a href="/publication/gerevini-2023-width/">Width-Based Search for Multi Agent Privacy-Preserving Planning</a>
   </h3>
 
   
   <div class="article-style">
-    <p>We propose new width-based planning and learning algorithms inspired from a careful analysis of the design decisions made by previous width-based planners. The algorithms are applied over the Atari-2600 games and our best performing algorithm, Novelty guided Critical Path Learning (N-CPL), outperforms the previously introduced width-based planning and learning algorithms $\pi$-IW(1), $\pi$-IW(1)+ and $\pi$-HIW(n, 1). Furthermore, we present a taxonomy of the Atari-2600 games according to some of their defining characteristics. This analysis of the games provides further insight into the behaviour and performance of the algorithms introduced. Namely, for games with large branching factors, and games with sparse meaningful rewards, N-CPL outperforms $\pi$-IW, $\pi$-IW(1)+ and $\pi$-HIW(n, 1).</p>
+    <p>In multi-agent planning, preserving the agents' privacy has become an increasingly popular research topic. For preserving the agents' privacy, agents jointly compute a plan that achieves mutual goals by keeping certain information private to the individual agents. Unfortunately, this can severely restrict the accuracy of the heuristic functions used while searching for solutions. It has been recently shown that, for centralized planning, blind search algorithms such as width-based search can solve instances of many existing domains in low polynomial time when they feature atomic goals. Moreover, the performance of goal-oriented search can be improved by combining it with width-based search. In this paper, we investigate the usage of width-based search in the context of (decentralised) collaborative multi-agent privacy-preserving planning, addressing the challenges related to the agents' privacy and performance. In particular, we show that width-based search is a very effective approach over several benchmark domains, even when the search is driven by heuristics that roughly estimate the distance from goal states, computed without using the private information of other involved agents. Moreover, we show that the use of width-based techniques can significantly reduce the number of messages transmitted among the agents, better preserving their privacy and improving their performance. An experimental study presented in the paper analyses the effectiveness of our techniques, and compares them with the state-of-the-art of collaborative multi-agent planning.</p>
   </div>
   
 
@@ -1995,25 +1996,17 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2106.12151" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.sciencedirect.com/science/article/pii/S0004370223000292?dgcid=coauthor" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/stefan-neurips/cite.bib">
+        data-filename="/publication/gerevini-2023-width/cite.bib">
   Cite
 </button>
 
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/stefanotoole/N-CPL" target="_blank" rel="noopener">
-  Code
-</a>
 
 
 
@@ -2067,7 +2060,7 @@
     
 
   
-  <span >Grady Fitzpatrick</span>, <span >Nir Lipovetzky</span>, <span >Michael Papasimeon</span>, <span >Miquel Ramirez</span>, <span >Mor Vered</span>
+  <span >Sigfredo Fuentes</span>, <span >Claudia Gonzalez Viejo</span>, <span >Eden Tongson</span>, <span >Frank R Dunshea</span>, <span >Hai Ho Dac</span>, <span >Nir Lipovetzky</span>
   </div>
   
   
@@ -2078,7 +2071,7 @@
     
       
     
-    October 2021
+    January 2022
   </span>
   
 
@@ -2086,7 +2079,7 @@
   <span class="middot-divider"></span>
   <span class="pub-publication">
     
-      <em>Frontiers in Artificial Intelligence</em>
+      <em>Journal of Agriculture and Food Research</em>
     
   </span>
   
@@ -2109,12 +2102,12 @@
   
 
   <h3 class="article-title mb-1 mt-3">
-    <a href="/publication/grady/">Behaviour Recognition with Kinodynamic Planning Over Continuous Domains</a>
+    <a href="/publication/fuentes-2022-animal/">Animal biometric assessment using non-invasive computer vision and machine learning are good predictors of dairy cows age and welfare: The future of automated veterinary support systems</a>
   </h3>
 
   
   <div class="article-style">
-    <p>We investigate the application of state-of-the-art goal recognition techniques for behaviour recognition over complex continuous domains using model predictive control (MPC) for trajectory generation. We formally define the problem of kinodynamic behaviour recognition and establish a set of baseline behaviours and performance measures in the complex domain of unmanned aerial maneuvers. We evaluate how well our approach performs over a range of standard aerial maneuvers and representative initial configurations of varying complexity. The work also highlights future research directions in compound model-based behaviour recognition and team behaviour recognition where multiple agents may be acting simultaneously.</p>
+    <p>Digitally extracted biometrics from visible videos of farm animals could be used to automatically assess animal welfare, contributing to the future of automated veterinary support systems. This study proposed using non-invasive video acquisition and biometric analysis of dairy cows in a robotic dairy farm (RDF) located at the Dookie campus, The University of Melbourne, Australia. Data extracted from dairy cows were used to develop two machine learning models: a biometrics regression model (Model 1) targeting (i) somatic cell count, (ii) weight, (iii) rumination, and (iv) feed intake and a classification model (Model 2) mapping features from dairy cow&rsquo;s face to predict animal age. Results showed that Model 1 achieved a high correlation coefficient (R = 0.96), slope (b = 0.96), and performance, and Model 2 had high accuracy (98%), low error (2%), and high performance without signs of under or overfitting. Models developed in this study can be used in parallel with other models to assess milk productivity, quality traits, and welfare for RDF and conventional dairy farms.</p>
   </div>
   
 
@@ -2135,14 +2128,14 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.frontiersin.org/article/10.3389/frai.2021.717003" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.sciencedirect.com/science/article/pii/S2666154322001211" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/grady/cite.bib">
+        data-filename="/publication/fuentes-2022-animal/cite.bib">
   Cite
 </button>
 
@@ -2157,10 +2150,6 @@
 
 
 
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.3389/frai.2021.717003" target="_blank" rel="noopener">
-  DOI
-</a>
 
 
 
@@ -2203,7 +2192,7 @@
     
 
   
-  <span >Sigfredo Fuentes</span>, <span >Claudia Gonzalez Viejo</span>, <span >Eden Tongson</span>, <span >Nir Lipovetzky</span>, <span >Frank R Dunshea</span>
+  <span >Zihang Su</span>, <span >Artem Polyvyanyy</span>, <span >Nir Lipovetzky</span>, <span >Sebastian Sardina</span>, <span >Nick van Beest</span>
   </div>
   
   
@@ -2214,7 +2203,271 @@
     
       
     
-    October 2021
+    January 2022
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      <em>Proceedings of the Workshop on Process Management in the AI Era</em>
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <h3 class="article-title mb-1 mt-3">
+    <a href="/publication/su-2022-grace/">GRACE: A Simulator for Continuous Goal Recognition over Changing Environments</a>
+  </h3>
+
+  
+  <div class="article-style">
+    <p>Goal Recognition (GR) is a research problem that studies ways to infer the goal of an intelligent agent based on its observed behavior and knowledge of the environment. A common assumption of GR is that the underlying environment is stationary. However, in many real-world scenarios, it is necessary to recognize agents' goals over extended periods. Therefore, it is reasonable to assume that the environment will change throughout a series of goal recognition tasks. This paper introduces the problem of continuous GR over a changing environment. The solution to this problem is a GR system capable of recognizing agents' goals over an extended period where the environment in which the agents operate changes. To support the evaluation of candidate solutions to this new GR problem, in this paper, we present the Goal Recognition Amidst Changing Environments (GRACE) tool for generating instances of the new problem. Specifically, the tool can be configured to generate GR problems that account for different environmental changes and drifts. GRACE can generate a series of modified environments over discrete time steps and the data induced by agents operating in the environment while completing different goals.</p>
+  </div>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://rest.neptune-prod.its.unimelb.edu.au/server/api/core/bitstreams/77eff318-5f57-4904-9043-f88867c68d09/content" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/su-2022-grace/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+  
+
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span >Sigfredo Fuentes</span>, <span >Ranjith R Unnithan</span>, <span >Eden Tongson</span>, <span >Nir Lipovetzky</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    January 2022
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      <em>MDPI, Basel</em>
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <h3 class="article-title mb-1 mt-3">
+    <a href="/publication/fuentes-2022-implementation/">Implementation of Sensors and Artificial Intelligence for Environmental Hazards Assessment in Urban, Agriculture and Forestry Systems</a>
+  </h3>
+
+  
+  <div class="article-style">
+    <p>The implementation of artificial intelligence (AI), together with robotics, sensors, sensor networks, Internet of Things (IoT), and machine/deep learning modeling, has reached the forefront of research activities, moving towards the goal of increasing the efficiency in a multitude of applications and purposes related to environmental sciences. The development and deployment of AI tools requires specific considerations, approaches, and methodologies for their effective and accurate applications. This Special Issue focused on the applications of AI to environmental systems related to hazard assessment in urban, agriculture, and forestry areas.</p>
+  </div>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.mdpi.com/journal/sensors/special_issues/ISAI" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/fuentes-2022-implementation/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+  
+
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span >Hai Ho Dac</span>, <span >Claudia Gonzalez Viejo</span>, <span >Nir Lipovetzky</span>, <span >Eden Tongson</span>, <span >Frank R Dunshea</span>, <span >Sigfredo Fuentes</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    January 2022
   </span>
   
 
@@ -2245,12 +2498,12 @@
   
 
   <h3 class="article-title mb-1 mt-3">
-    <a href="/publication/fuentes-2021-biometric/">Biometric Physiological Responses from Dairy Cows Measured by Visible Remote Sensing Are Good Predictors of Milk Productivity and Quality through Artificial Intelligence</a>
+    <a href="/publication/dac-2022-livestock/">Livestock Identification Using Deep Learning for Traceability</a>
   </h3>
 
   
   <div class="article-style">
-    <p>New and emerging technologies, especially those based on non-invasive video and thermal infrared cameras, can be readily tested on robotic milking facilities. In this research, implemented non-invasive computer vision methods to estimate cow’s heart rate, respiration rate, and abrupt movements captured using RGB cameras and machine learning modelling to predict eye temperature, milk production and quality are presented. RGB and infrared thermal videos (IRTV) were acquired from cows using a robotic milking facility. Results from 102 different cows with replicates (n = 150) showed that an artificial neural network (ANN) model using only inputs from RGB cameras presented high accuracy (R = 0.96) in predicting eye temperature (°C), using IRTV as ground truth, daily milk productivity (kg-milk-day−1), cow milk productivity (kg-milk-cow−1), milk fat (%) and milk protein (%) with no signs of overfitting. The ANN model developed was deployed using an independent 132 cow samples obtained on different days, which also rendered high accuracy and was similar to the model development (R = 0.93). This model can be easily applied using affordable RGB camera systems to obtain all the proposed targets, including eye temperature, which can also be used to model animal welfare and biotic/abiotic stress. Furthermore, these models can be readily deployed in conventional dairy farms.</p>
+    <p>Farm livestock identification and welfare assessment using non-invasive digital technology have gained interest in agriculture in the last decade, especially for accurate traceability. This study aimed to develop a face recognition system for dairy farm cows using advanced deep-learning models and computer vision techniques. This approach is non-invasive and potentially applicable to other farm animals of importance for identification and welfare assessment. The video analysis pipeline follows standard human face recognition systems made of four significant steps: (i) face detection, (ii) face cropping, (iii) face encoding, and (iv) face lookup. Three deep learning (DL) models were used within the analysis pipeline: (i) face detector, (ii) landmark predictor, and (iii) face encoder. All DL models were finetuned through transfer learning on a dairy cow dataset collected from a robotic dairy farm located in the Dookie campus at The University of Melbourne, Australia. Results showed that the accuracy across videos from 89 different dairy cows achieved an overall accuracy of 84%. The computer program developed may be deployed on edge devices, and it was tested on NVIDIA Jetson Nano board with a camera stream. Furthermore, it could be integrated into welfare assessment previously developed by our research group.</p>
   </div>
   
 
@@ -2271,14 +2524,14 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.mdpi.com/1424-8220/21/20/6844" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.mdpi.com/1424-8220/22/21/8256/pdf?version=1666944685" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/fuentes-2021-biometric/cite.bib">
+        data-filename="/publication/dac-2022-livestock/cite.bib">
   Cite
 </button>
 
@@ -2291,318 +2544,6 @@
 
 
 
-
-
-
-
-
-  </div>
-  
-
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-<div class="card-simple">
-
-  
-    
-
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-  
-  <span >Anubhav Singh</span>, <span >Nir Lipovetzky</span>, <span >Miquel Ramirez</span>, <span >Javier Segovia-Aguas</span>
-  </div>
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    August 2021
-  </span>
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="pub-publication">
-    
-      <em>Proceedings of the International Conference on Automated Planning and Scheduling</em>
-    
-  </span>
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-</div>
-
-  
-
-  
-  
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/publication/singh-2021-approximate/">Approximate Novelty Search</a>
-  </h3>
-
-  
-  <div class="article-style">
-    <p>Width-based search algorithms seek plans by prioritizing states according to a suitably defined measure of novelty, that maps states into a set of novelty categories. Space and time complexity to evaluate state novelty is known to be exponential on the cardinality of the set. We present novel methods to obtain polynomial approximations of novelty and width-based search. First, we approximate novelty computation via random sampling and Bloom filters, reducing the runtime and memory footprint. Second, we approximate the best-first search using an adaptive policy that decides whether to forgo the expansion of nodes in the open list. These two techniques are integrated into existing width-based algorithms, resulting in new planners that perform significantly better than other state-of-the-art planners over benchmarks from the International Planning Competitions.</p>
-  </div>
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ojs.aaai.org/index.php/ICAPS/article/view/15980/15791" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/singh-2021-approximate/cite.bib">
-  Cite
-</button>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/#" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://icaps21.icaps-conference.org/link/posters/index.html?id=187" target="_blank" rel="noopener">
-  Poster
-</a>
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://icaps21.icaps-conference.org/exhibition/index.html?channel=187" target="_blank" rel="noopener">
-  Video
-</a>
-
-
-
-
-
-  </div>
-  
-
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-<div class="card-simple">
-
-  
-    
-
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-  
-  <span >Chao Lei</span>, <span >Nir Lipovetzky</span>
-  </div>
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    August 2021
-  </span>
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="pub-publication">
-    
-      <em>Proceedings of the International Conference on Automated Planning and Scheduling</em>
-    
-  </span>
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-</div>
-
-  
-
-  
-  
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/publication/lei-2021-width/">Width-Based Backward Search</a>
-  </h3>
-
-  
-  <div class="article-style">
-    <p>It has been shown recently that duality mapping is a viable strategy to turn progression (forward search) into regression (backward search), but the experimental results suggest that the dual versions of standard IPCs benchmarks are quite difficult to solve for heuristic search planners. We aim to study the performance of width based planners over regression. Our experiments show that width-based search can solve dual problems efficiently when the goal state is restricted to single fluent, but it becomes challenging when the goal state contains conjunctive fluents. We then show that the backward versions of best-first width search with the evaluation function f5, BFWS(f5), and its polynomial variant, k-BFWS, are not competitive with their forward versions, but can be orthogonal over the IPC benchmarks. Hence, we propose a front-to-end bidirectional search k-BDWS and its front-to-front variant by integrating forward and backward k-BFWS with the additional intersection check between expanded states whose novelty is 1 in the opposite close list. Practical findings on the challenges of regression in classical planning are briefly discussed.</p>
-  </div>
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ojs.aaai.org/index.php/ICAPS/article/view/15965/15776" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/lei-2021-width/cite.bib">
-  Cite
-</button>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/you68681/Width-based_backward_search" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://icaps21.icaps-conference.org/link/posters/index.html?id=123" target="_blank" rel="noopener">
-  Poster
-</a>
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://icaps21.icaps-conference.org/exhibition/index.html?channel=123" target="_blank" rel="noopener">
-  Video
-</a>
 
 
 
@@ -2677,6 +2618,15 @@
 <h4 id="phd">Ph.D.</h4>
 <ul>
 <li>
+<p><code>Ciao Lei</code> [2022 - current]. <strong>co-supervised</strong> with Dr. Kris Ehinger and A/Prof Sigfredo Fuentes, <strong>Topic</strong>: Generalized vision planning problems and their applications in Agriculture.</p>
+</li>
+<li>
+<p><code>Zhiaho Pei</code> [2022 - current]. <strong>co-supervized</strong> with Dr. Angela Rojas, Dr. Fjalar De Haan and Dr. Enayat A. Moallemi, <strong>Topic</strong>: Robust decision making for complex systems.</p>
+</li>
+<li>
+<p><code>Sukai Huang</code> [2022 - current]. <strong>co-supervized</strong> with Prof. Trevor Cohn, <strong>Topic</strong>: NLP and sequential decision problems.</p>
+</li>
+<li>
 <p><code>Guang Hu</code> [2020 - current], <strong>co-supervised</strong> with Dr.Tim Miller. <strong>Topic</strong>: Epistemic Planning and Explanability.</p>
 </li>
 <li>
@@ -2688,24 +2638,31 @@
 <li>
 <p><code>Anubhav Singh</code> [2019 - current], <strong>co-supervized</strong> with Dr. Miquel Ramirez. <strong>Topic</strong>: Planing with polynomial guarantees for bounded computational resources</p>
 </li>
-<li>
-<p><code>Stefan O'Toole</code> [2018 - current], <strong>co-supervized</strong> with Dr. Miquel Ramirez and Prof. Adrian Pearce. <strong>Topic</strong>: Bridging Planning and Reinforcement Learning over continous and discrete dynamics</p>
-</li>
-</ul>
-<h4 id="masters">Masters</h4>
-<ul>
-<li><code>Zhiaho Pei</code> [2021]. <strong>co-supervized</strong> with Angela Rojas, Dr. Fjalar De Haan and Dr. Enayat A. Moallemi, <strong>Topic</strong>: Robust decision making for complex systems</li>
-<li><code>Marco Marasco</code> [2021]. <strong>co-supervized</strong> with Angela Rojas, Dr. Fjalar De Haan and Dr. Enayat A. Moallemi, <strong>Topic</strong>: Adaptive Policy making for systems of electricity provision</li>
-<li><code>Jiayuan Chah</code> [2021]. <strong>co-supervized</strong> with A/Prof Sigfredo Fuentes, <strong>Topic</strong>: FarmBot.io Planning: simulation and integration</li>
-<li><code>Yajing Ma</code> [2021].  <strong>co-supervized</strong> with A/Prof Sigfredo Fuentes, <strong>Topic</strong>: Electronic Nose for pest detection</li>
 </ul>
 <h3 id="alumni">Alumni</h3>
 <h4 id="phd-1">Ph.D.</h4>
 <ul>
-<li><code>Toby Davies</code>, [2013-2017], <strong>co-supervized</strong> with Prof. Adrian Pearce, Prof. Peter Stuckey and Prof. Harald Sondergaard. <strong>Topic</strong>: Learning from Conflict in Multi-Agent, Classical, and Temporal Planning. <strong>First Employment:</strong> Google [2017 - current]. <strong>Best Paper Award</strong> <code>ICAPS (2015)</code>, <strong>Best PhD Thesis</strong>, <code>Melbourne School of Engineering  2018</code></li>
+<li>
+<p><code>Stefan O'Toole</code> [2018 - 2022], <strong>co-supervized</strong> with Dr. Miquel Ramirez and Prof. Adrian Pearce. <strong>Topic</strong>: Bridging Planning and Reinforcement Learning over continous and discrete dynamics <strong>First Employment:</strong> Meta [2022 - current]</p>
+</li>
+<li>
+<p><code>Toby Davies</code>, [2013-2017], <strong>co-supervized</strong> with Prof. Adrian Pearce, Prof. Peter Stuckey and Prof. Harald Sondergaard. <strong>Topic</strong>: Learning from Conflict in Multi-Agent, Classical, and Temporal Planning. <strong>First Employment:</strong> Google [2017 - current]. <strong>Best Paper Award</strong> <code>ICAPS (2015)</code>, <strong>Best PhD Thesis</strong>, <code>Melbourne School of Engineering  2018</code></p>
+</li>
 </ul>
-<h4 id="masters-1">Masters</h4>
+<h4 id="masters">Masters</h4>
 <ul>
+<li>
+<p><code>Zhiaho Pei</code> [2021]. <strong>co-supervized</strong> with Dr. Angela Rojas, Dr. Fjalar De Haan and Dr. Enayat A. Moallemi, <strong>Topic</strong>: Robust decision making for complex systems</p>
+</li>
+<li>
+<p><code>Marco Marasco</code> [2021]. <strong>co-supervized</strong> with Dr. Angela Rojas, Dr. Fjalar De Haan and Dr. Enayat A. Moallemi, <strong>Topic</strong>: Adaptive Policy making for systems of electricity provision</p>
+</li>
+<li>
+<p><code>Jiayuan Chah</code> [2021]. <strong>co-supervized</strong> with A/Prof Sigfredo Fuentes, <strong>Topic</strong>: FarmBot.io Planning: simulation and integration</p>
+</li>
+<li>
+<p><code>Yajing Ma</code> [2021].  <strong>co-supervized</strong> with A/Prof Sigfredo Fuentes, <strong>Topic</strong>: Electronic Nose for pest detection</p>
+</li>
 <li>
 <p><code>Dmitry Grebenyuk</code> [2018-2020], <strong>co-supervised</strong> with Dr. Miquel Ramirez, and Dr. Kris Ehinger. <strong>Topic</strong>: Agnostic Features for generalized policies computed with Deep Reinforcement Learning. <strong>First Employment:</strong> Start-up working on Image Processing using DRL.</p>
 </li>
@@ -2771,7 +2728,22 @@
     
     
       <div class="card experience course">
-        <div class="card-body"><a href="https://ijcai-21.org/early-career-spotlight-invited-talk/" target="_blank" rel="noopener"><h4 class="card-title exp-title text-muted my-0">IJCAI 2021 - Early Career Spotlight</h4></a><div class="card-subtitle my-0 article-metadata"><a href="https://ijcai.org/" target="_blank" rel="noopener">The 30th Joint Conference on Artificial Intelligence</a><span class="middot-divider"></span>
+        <div class="card-body"><a href="https://ijcai-22.org/distinguished-pc-members/" target="_blank" rel="noopener"><h4 class="card-title exp-title text-muted my-0">IJCAI-ECAI 2021 - Distinguished Program Committee</h4></a><div class="card-subtitle my-0 article-metadata"><a href="https://ijcai.org/" target="_blank" rel="noopener">The 31th Joint Conference on Artificial Intelligence</a><span class="middot-divider"></span>
+
+            Aug 2022
+            
+          </div>
+
+          
+            <div class="card-text">The quality of my reviews were ranked in the top 3% out of 3000+ reviewers.</div>
+          
+
+          
+        </div>
+      </div>
+    
+      <div class="card experience course">
+        <div class="card-body"><a href="https://ijcai-21.org/early-career-spotlight-invited-talk/" target="_blank" rel="noopener"><h4 class="card-title exp-title text-muted my-0">IJCAI 2021 - Early Career Spotlight</h4></a><div class="card-subtitle my-0 article-metadata"><a href="https://ijcai.org/" target="_blank" rel="noopener">The 30th International Joint Conference on Artificial Intelligence</a><span class="middot-divider"></span>
 
             Aug 2021
             
@@ -2954,6 +2926,9 @@
 <p>Heuristics and Search for Domain-independent Planning &ndash; Co-Organizer,  <code>ICAPS workshop HSDIP (2015,2016,2017,2018)</code></p>
 </li>
 <li>
+<p>Demonstration track &ndash; Co-Chair <code>AAAI 2023</code></p>
+</li>
+<li>
 <p>Student Abstract track &ndash; Co-Chair, <code>AAAI (2018,2019)</code></p>
 </li>
 <li>
@@ -2962,13 +2937,13 @@
 </ul>
 <h3 id="senior-programme-committee">Senior Programme Committee</h3>
 <ul>
-<li>Association for the Advancement of Artificial Intelligence, <code>AAAI (2020,2021,2022)</code></li>
-<li>International Joint Conferences on Artificial Intelligence <code>IJCAI (2021,2022)</code></li>
+<li>Association for the Advancement of Artificial Intelligence, <code>AAAI (2020,2021,2022,2023)</code></li>
+<li>International Joint Conferences on Artificial Intelligence <code>IJCAI (2021,2023)</code></li>
 </ul>
 <h3 id="programme-committee">Programme Committee</h3>
 <ul>
 <li>
-<p>International Joint Conferences on Artificial Intelligence <code>IJCAI (2011,2013,2015,2017,2018,2020)</code></p>
+<p>International Joint Conferences on Artificial Intelligence <code>IJCAI (2011,2013,2015,2017,2018,2020,2022)</code></p>
 </li>
 <li>
 <p>Association for the Advancement of Artificial Intelligence, <code>AAAI (2013,2015,2016,2017,2018,2019)</code></p>
@@ -2980,7 +2955,7 @@
 <p>International Conference on Automated Planning and Scheduling, <code>ICAPS (2015,2016,2017,2018,2020)</code></p>
 </li>
 <li>
-<p>Symposium on Combinatorial Search <code>SOCS (2020,2021)</code></p>
+<p>Symposium on Combinatorial Search <code>SOCS (2020,2021,2022,2023)</code></p>
 </li>
 </ul>
 <h3 id="reviewer">Reviewer</h3>
@@ -3150,6 +3125,16 @@
       
 
       <div class="tag-cloud">
+        
+          
+          
+          
+          <a href="/tag/decentralised-multi-agent-dma-planning/" style="font-size:0.7rem">&#34;Decentralised Multi-Agent (DMA) planning&#34;</a>
+        
+          
+          
+          
+          <a href="/tag/width-based-search/" style="font-size:0.7rem">&#34;Width-based search&#34;</a>
         
           
           
