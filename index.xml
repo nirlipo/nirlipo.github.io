@@ -77,6 +77,22 @@
     </item>
     
     <item>
+      <title>Goal Recognition with Timing Information</title>
+      <link>https://nirlipo.github.io/publication/zhang-2023-grt/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/zhang-2023-grt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Planning with Multi-agent Belief Using Justified Perspectives</title>
+      <link>https://nirlipo.github.io/publication/hu-2023-pwp/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/hu-2023-pwp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Width-Based Search for Multi Agent Privacy-Preserving Planning</title>
       <link>https://nirlipo.github.io/publication/gerevini-2023-width/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
@@ -1094,6 +1110,8 @@ Three
 
 
 
+&lt;p&gt;&lt;strong&gt;[01/04/23]&lt;/strong&gt; New Paper on &lt;a href=&#34;https://nirlipo.github.io/publication/Hu-2023-pwp/&#34;&gt;Planning with Multi-agent Belief Using Justified Perspectives&lt;/a&gt;, published@ICAPS 2023.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[01/04/23]&lt;/strong&gt; New Paper on &lt;a href=&#34;https://nirlipo.github.io/publication/zhang-2023-grt/&#34;&gt;Goal Recognition with Timing Information&lt;/a&gt;, published@ICAPS 2023.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[01/03/23]&lt;/strong&gt; New Paper on &lt;a href=&#34;https://nirlipo.github.io/publication/gerevini-2023-width/&#34;&gt;Width-based search for multi agent privacy-preserving planning&lt;/a&gt;, published@AIJ.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[16/10/22]&lt;/strong&gt; New Paper on &lt;a href=&#34;https://nirlipo.github.io/publication/hu-2022-planning/&#34;&gt;Planning with Perspectives &amp;ndash; Decomposing Epistemic Planning using Functional STRIPS&lt;/a&gt;, published@JAIR&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[01/07/22]&lt;/strong&gt; New paper on &lt;a href=&#34;https://nirlipo.github.io/publication/o-2022-sampling/&#34;&gt;Sampling from Pre-Images to Learn Heuristic Functions for Classical Planning&lt;/a&gt;, published@SOCS-22.&lt;/p&gt;
