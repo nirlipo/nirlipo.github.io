@@ -35,5 +35,26 @@
 </description>
     </item>
     
+    <item>
+      <title>AI Planning Solvers Online</title>
+      <link>https://nirlipo.github.io/project/paas/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/project/paas/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://nirlipo.github.io/project/paas/featured.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Planning as a service (PaaS) provides an extendable API to deploy planners online in local or cloud servers.&lt;/p&gt;
+&lt;p&gt;The service provides a queue manager to control a set of workers, which can easily be extended with one of several planners available in 
+&lt;a href=&#34;https://github.com/AI-Planning/planutils&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PLANUTILS&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;PaaS is designed to overcome the limitations of the existing online 
+&lt;a href=&#34;solver.planning.domains&#34;&gt;solver.planning.domains&lt;/a&gt; interface and widen the adoption of planning&lt;/p&gt;
+&lt;p&gt;This project has been a collaboration between Queen&amp;rsquo;s University, Canada and The University of Melbourne, Australia. A submission has been made to 
+&lt;a href=&#34;https://icaps23.icaps-conference.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICAPS 2023 System Demonstations&lt;/a&gt; track by Yi Ding, Cam Cunningham, Christian Muise, and Nir Lipovetzky.&lt;/p&gt;
+&lt;h2 id=&#34;demo-video&#34;&gt;Demo Video&lt;/h2&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0;&#34;&gt;&lt;iframe src=&#34;https://www.loom.com/embed/7d72759cd71c47db9032970fddcb3e71&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;h2 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h2&gt;
+&lt;p&gt;This work has been partially funded by AIJ to promote AI Research - ”Enabling Education of AI Planning”&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nirlipo.github.io/project/paas/AIJ_Cover.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
