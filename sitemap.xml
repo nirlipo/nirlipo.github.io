@@ -53,6 +53,21 @@
     <loc>https://nirlipo.github.io/author/tim-miller/</loc>
     <lastmod>2023-03-27T09:17:16+11:00</lastmod>
   </url><url>
+    <loc>https://nirlipo.github.io/tag/ai-planning/</loc>
+    <lastmod>2023-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nirlipo.github.io/project/paas/</loc>
+    <lastmod>2023-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nirlipo.github.io/project/</loc>
+    <lastmod>2023-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nirlipo.github.io/tags/</loc>
+    <lastmod>2023-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nirlipo.github.io/tag/teaching/</loc>
+    <lastmod>2023-04-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nirlipo.github.io/publication-type/2/</loc>
     <lastmod>2023-03-15T17:53:21+11:00</lastmod>
   </url><url>
@@ -74,20 +89,11 @@
     <loc>https://nirlipo.github.io/tag/agriculture/</loc>
     <lastmod>2022-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nirlipo.github.io/tag/ai-planning/</loc>
-    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nirlipo.github.io/project/farmbot/</loc>
     <lastmod>2022-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nirlipo.github.io/tag/iot/</loc>
     <lastmod>2022-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nirlipo.github.io/project/</loc>
-    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nirlipo.github.io/tags/</loc>
-    <lastmod>2023-03-15T17:53:22+11:00</lastmod>
   </url><url>
     <loc>https://nirlipo.github.io/tag/decentralised-multi-agent-dma-planning/</loc>
     <lastmod>2023-03-15T17:53:22+11:00</lastmod>
@@ -299,9 +305,6 @@
     <loc>https://nirlipo.github.io/publication/syed-2019-planimation/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nirlipo.github.io/tag/teaching/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nirlipo.github.io/publication/hu-2019-you/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -405,9 +408,6 @@
     <lastmod>2016-06-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nirlipo.github.io/project/ai4edu/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nirlipo.github.io/project/paas/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nirlipo.github.io/posts/getting-started/</loc>
