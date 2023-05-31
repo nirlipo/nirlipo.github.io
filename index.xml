@@ -77,6 +77,22 @@
     </item>
     
     <item>
+      <title>Comparing AI Planning Algorithms with Humans on the Tower of London Task</title>
+      <link>https://nirlipo.github.io/publication/zhang-2023-cogsci/</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/zhang-2023-cogsci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novelty and Lifted Helpful Actions in Generalized Planning</title>
+      <link>https://nirlipo.github.io/publication/chao-2023-gpp/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/chao-2023-gpp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Goal Recognition with Timing Information</title>
       <link>https://nirlipo.github.io/publication/zhang-2023-grt/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
@@ -89,6 +105,14 @@
       <link>https://nirlipo.github.io/publication/hu-2023-pwp/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://nirlipo.github.io/publication/hu-2023-pwp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning User Preferences for Complex Cobotic Tasks: Meta-Behaviors and Human Groups</title>
+      <link>https://nirlipo.github.io/publication/evella-ieee-ral/</link>
+      <pubDate>Wed, 31 May 2023 11:50:42 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/evella-ieee-ral/</guid>
       <description></description>
     </item>
     
@@ -1131,6 +1155,9 @@ Three
 
 
 
+&lt;p&gt;&lt;strong&gt;[06/23]&lt;/strong&gt; New IEEE Robotics and Automation Letters on &lt;a href=&#34;https://nirlipo.github.io/publication/evella-ieee-ral/&#34;&gt;Learning User Preferences for Complex Cobotic Tasks: Meta-Behaviors and Human Groups&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[05/23]&lt;/strong&gt; New CogSci-23 Paper on &lt;a href=&#34;https://nirlipo.github.io/publication/zhang-2023-cogsci/&#34;&gt;Comparing AI Planning Algorithms with Humans on the Tower of London Task&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[05/23]&lt;/strong&gt; New SoCS-23 Paper on &lt;a href=&#34;https://nirlipo.github.io/publication/chao-2023-gpp/&#34;&gt;Novelty and Lifted Helpful Actions in Generalized Planning&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[04/23]&lt;/strong&gt; New ICAPS-23 Paper on &lt;a href=&#34;https://nirlipo.github.io/publication/hu-2023-pwp/&#34;&gt;Planning with Multi-agent Belief Using Justified Perspectives&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[04/23]&lt;/strong&gt; New ICAPS-23 Paper  on &lt;a href=&#34;https://nirlipo.github.io/publication/zhang-2023-grt/&#34;&gt;Goal Recognition with Timing Information&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[03/23]&lt;/strong&gt; New AIJ Paper on &lt;a href=&#34;https://nirlipo.github.io/publication/gerevini-2023-width/&#34;&gt;Width-based search for multi agent privacy-preserving planning&lt;/a&gt;&lt;/p&gt;

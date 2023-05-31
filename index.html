@@ -1027,11 +1027,11 @@
 
 
 
+<p><strong>[06/23]</strong> New IEEE Robotics and Automation Letters on <a href="/publication/evella-ieee-ral/">Learning User Preferences for Complex Cobotic Tasks: Meta-Behaviors and Human Groups</a></p>
+<p><strong>[05/23]</strong> New CogSci-23 Paper on <a href="/publication/zhang-2023-cogsci/">Comparing AI Planning Algorithms with Humans on the Tower of London Task</a></p>
+<p><strong>[05/23]</strong> New SoCS-23 Paper on <a href="/publication/chao-2023-gpp/">Novelty and Lifted Helpful Actions in Generalized Planning</a></p>
 <p><strong>[04/23]</strong> New ICAPS-23 Paper on <a href="/publication/hu-2023-pwp/">Planning with Multi-agent Belief Using Justified Perspectives</a></p>
 <p><strong>[04/23]</strong> New ICAPS-23 Paper  on <a href="/publication/zhang-2023-grt/">Goal Recognition with Timing Information</a></p>
-<p><strong>[03/23]</strong> New AIJ Paper on <a href="/publication/gerevini-2023-width/">Width-based search for multi agent privacy-preserving planning</a></p>
-<p><strong>[10/22]</strong> New JAIR Paper on <a href="/publication/hu-2022-planning/">Planning with Perspectives &ndash; Decomposing Epistemic Planning using Functional STRIPS</a></p>
-<p><strong>[07/22]</strong> New SOCS-22 paper on <a href="/publication/o-2022-sampling/">Sampling from Pre-Images to Learn Heuristic Functions for Classical Planning</a></p>
 
 
     </div>
@@ -2023,7 +2023,7 @@
     
 
   
-  <span >Guang Hu</span>, <span >Tim Miller</span>, <span >Nir Lipovetzky</span>
+  <span >Chenyuan Zhang</span>, <span >Charles Kemp</span>, <span >Nir Lipovetzky</span>
   </div>
   
   
@@ -2042,7 +2042,7 @@
   <span class="middot-divider"></span>
   <span class="pub-publication">
     
-      <em>Proceedings of the International Conference on Automated Planning and Scheduling</em>
+      <em>Proceedings of the Annual Meeting of the Cognitive Science Society (CogSci)</em>
     
   </span>
   
@@ -2065,12 +2065,12 @@
   
 
   <h3 class="article-title mb-1 mt-3">
-    <a href="/publication/hu-2023-pwp/">Planning with Multi-agent Belief Using Justified Perspectives</a>
+    <a href="/publication/zhang-2023-cogsci/">Comparing AI Planning Algorithms with Humans on the Tower of London Task</a>
   </h3>
 
   
   <div class="article-style">
-    <p>Epistemic planning plays an important role in multi-agent and human-agent interaction domains.  Most existing works solve multi-agent epistemic planning problems by either pre-compiling them into classical planning problems; or, using explicit actions and their effects to encode Kripke-based semantics.  A recent approach called Planning with Perspectives (PWP) delegates epistemic reasoning in planning to external functions using F-STRIPS, keeping the search within the planning algorithm and lazily evaluating epistemic formulae. Although PWP is expressive and efficient, it models S5 epistemic logic and does not support belief, including false belief.  In this paper, we extend the PWP model to handle multi-agent belief by following the intuition that agents believe something they have seen until they see otherwise. We call this justified perspectives. We formalise this notion of multi-agent belief based on the definition of knowledge in PWP. Using experiments on existing epistemic and doxastic planning benchmarks, we show that our belief planner can solve benchmarks more efficiently than the state-of-the-art baseline, and can model some problems that are infeasible to model using propositional-based approaches.</p>
+    <p>Understanding problem solving or planning has been a shared challenge for both AI and cognitive science since the birth of both fields. We explore the extent to which modern planners from the field of AI can account for human performance on the Tower of London (TOL) task, a close relative of the Tower of Hanoi problem that has been extensively studied by psychologists. We characterize the task using the Planning Domain Definition Language (PDDL) and evaluate an adaptive online planner and a family of well-known planners, including online planners, optimal planners and satisficing planners. Each planner is evaluated based on its ability to predict the actions and planning times of participants in a new behavioral experiment. Our results suggest that participants use a range of strategies but that an adaptive lookahead planner provides the best overall account of both human actions and human planning times. This finding is consistent with the view that humans differ from standard AI planners by integrating a mechanism for evidence accumulation.</p>
   </div>
   
 
@@ -2091,14 +2091,146 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/hu-2023-pwp/Belief_with_PWP.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/zhang-2023-cogsci/cogsci_camera_ready.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/hu-2023-pwp/cite.bib">
+        data-filename="/publication/zhang-2023-cogsci/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+  
+
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span >Chao Lei</span>, <span >Nir Lipovetzky</span>, <span >Ehinger Krista</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    July 2023
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      <em>Proceedings of the International Symposium on Combinatorial Search, SoCS</em>
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <h3 class="article-title mb-1 mt-3">
+    <a href="/publication/chao-2023-gpp/">Novelty and Lifted Helpful Actions in Generalized Planning</a>
+  </h3>
+
+  
+  <div class="article-style">
+    <p>It has been shown recently that successful techniques in classical planning, such as goal-oriented heuristics and landmarks, can improve the ability to compute planning programs for generalized planning (GP) problems. In this work, we introduce the notion of action novelty rank, which computes novelty with respect to a planning program, and propose novelty-based generalized planning solvers, which prune a newly generated planning program if its most frequent action repetition is greater than a given bound $v$, implemented by novelty-based best-first search BFS(v) and its progressive variant PGP(v). Besides, we introduce lifted helpful actions in GP derived from action schemes, and propose new evaluation functions and structural program restrictions to scale up the search. Our experiments show that the new algorithms BFS(v) and PGP(v) outperform the state-of-the-art in GP over the standard generalized planning benchmarks.  Practical findings on the above-mentioned methods in generalized planning are briefly discussed.</p>
+  </div>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/chao-2023-gpp/SoCS.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/chao-2023-gpp/cite.bib">
   Cite
 </button>
 
@@ -2287,7 +2419,7 @@
     
 
   
-  <span >Alfonso E Gerevini</span>, <span >Nir Lipovetzky</span>, <span >Francesco Percassi</span>, <span >Alessandro Saetti</span>, <span >Ivan Serina</span>
+  <span >Guang Hu</span>, <span >Tim Miller</span>, <span >Nir Lipovetzky</span>
   </div>
   
   
@@ -2298,7 +2430,7 @@
     
       
     
-    January 2023
+    July 2023
   </span>
   
 
@@ -2306,7 +2438,7 @@
   <span class="middot-divider"></span>
   <span class="pub-publication">
     
-      <em>Artificial Intelligence</em>
+      <em>Proceedings of the International Conference on Automated Planning and Scheduling</em>
     
   </span>
   
@@ -2329,12 +2461,12 @@
   
 
   <h3 class="article-title mb-1 mt-3">
-    <a href="/publication/gerevini-2023-width/">Width-Based Search for Multi Agent Privacy-Preserving Planning</a>
+    <a href="/publication/hu-2023-pwp/">Planning with Multi-agent Belief Using Justified Perspectives</a>
   </h3>
 
   
   <div class="article-style">
-    <p>In multi-agent planning, preserving the agents' privacy has become an increasingly popular research topic. For preserving the agents' privacy, agents jointly compute a plan that achieves mutual goals by keeping certain information private to the individual agents. Unfortunately, this can severely restrict the accuracy of the heuristic functions used while searching for solutions. It has been recently shown that, for centralized planning, blind search algorithms such as width-based search can solve instances of many existing domains in low polynomial time when they feature atomic goals. Moreover, the performance of goal-oriented search can be improved by combining it with width-based search. In this paper, we investigate the usage of width-based search in the context of (decentralised) collaborative multi-agent privacy-preserving planning, addressing the challenges related to the agents' privacy and performance. In particular, we show that width-based search is a very effective approach over several benchmark domains, even when the search is driven by heuristics that roughly estimate the distance from goal states, computed without using the private information of other involved agents. Moreover, we show that the use of width-based techniques can significantly reduce the number of messages transmitted among the agents, better preserving their privacy and improving their performance. An experimental study presented in the paper analyses the effectiveness of our techniques, and compares them with the state-of-the-art of collaborative multi-agent planning.</p>
+    <p>Epistemic planning plays an important role in multi-agent and human-agent interaction domains.  Most existing works solve multi-agent epistemic planning problems by either pre-compiling them into classical planning problems; or, using explicit actions and their effects to encode Kripke-based semantics.  A recent approach called Planning with Perspectives (PWP) delegates epistemic reasoning in planning to external functions using F-STRIPS, keeping the search within the planning algorithm and lazily evaluating epistemic formulae. Although PWP is expressive and efficient, it models S5 epistemic logic and does not support belief, including false belief.  In this paper, we extend the PWP model to handle multi-agent belief by following the intuition that agents believe something they have seen until they see otherwise. We call this justified perspectives. We formalise this notion of multi-agent belief based on the definition of knowledge in PWP. Using experiments on existing epistemic and doxastic planning benchmarks, we show that our belief planner can solve benchmarks more efficiently than the state-of-the-art baseline, and can model some problems that are infeasible to model using propositional-based approaches.</p>
   </div>
   
 
@@ -2355,14 +2487,14 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.sciencedirect.com/science/article/pii/S0004370223000292?dgcid=coauthor" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/hu-2023-pwp/Belief_with_PWP.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/gerevini-2023-width/cite.bib">
+        data-filename="/publication/hu-2023-pwp/cite.bib">
   Cite
 </button>
 
@@ -2419,7 +2551,7 @@
     
 
   
-  <span >Stefan O&#39;Toole</span>, <span >Miquel Ramirez</span>, <span >Nir Lipovetzky</span>, <span >Adrian R Pearce</span>
+  <span >Elena M. Vella</span>, <span >Airlie Chapman</span>, <span >Nir Lipovetzky</span>
   </div>
   
   
@@ -2430,7 +2562,7 @@
     
       
     
-    January 2022
+    May 2023
   </span>
   
 
@@ -2438,7 +2570,7 @@
   <span class="middot-divider"></span>
   <span class="pub-publication">
     
-      <em>Proceedings of the International Symposium on Combinatorial Search</em>
+      <em>IEEE Robotics and Automation Letters</em>
     
   </span>
   
@@ -2461,12 +2593,12 @@
   
 
   <h3 class="article-title mb-1 mt-3">
-    <a href="/publication/o-2022-sampling/">Sampling from Pre-Images to Learn Heuristic Functions for Classical Planning</a>
+    <a href="/publication/evella-ieee-ral/">Learning User Preferences for Complex Cobotic Tasks: Meta-Behaviors and Human Groups</a>
   </h3>
 
   
   <div class="article-style">
-    <p>We introduce a new algorithm, Regression based Supervised Learning (RSL), for learning per instance Neural Network (NN) defined heuristic functions for classical planning problems. RSL uses regression to select relevant sets of states at a range of different distances from the goal. RSL then formulates a Supervised Learning problem to obtain the parameters that define the NN heuristic, using the selected states labeled with exact or estimated distances to goal states. Our experimental study shows that RSL outperforms, in terms of coverage, previous classical planning NN heuristics functions while requiring a fraction of the training time.</p>
+    <p>In complex tasks (beyond a single targeted controller) requiring robots to collaborate with multiple human users, two challenges arise: complex tasks are often composed of multiple behaviors which can only be evaluated as a collective (a meta-behavior) and user preferences often differ between individuals, yet successful interactions are expected across groups. To address these challenges, we formulate a set-wise preference learning problem, and validate a cost function that captures human group preferences for complex collaborative robotic tasks (cobotics). We develop a sparse optimization formulation to introduce a distinctiveness metric that aggregates individuals with similar preference profiles. Analysis of anonymized unlabelled preferences provides further insight into group preferences. Identification of the mode average most-preferred meta-behavior and minimum covariance bound allows us to analyze group cohesion. A user study with 43 participants is used to validate group preference profiles.</p>
   </div>
   
 
@@ -2487,14 +2619,14 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/pdf/2207.03336.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/document/10132500" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/o-2022-sampling/cite.bib">
+        data-filename="/publication/evella-ieee-ral/cite.bib">
   Cite
 </button>
 
@@ -2510,137 +2642,9 @@
 
 
 
-
-
-  </div>
-  
-
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-<div class="card-simple">
-
-  
-    
-
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-  
-  <span >Sigfredo Fuentes</span>, <span >Claudia Gonzalez Viejo</span>, <span >Eden Tongson</span>, <span >Frank R Dunshea</span>, <span >Hai Ho Dac</span>, <span >Nir Lipovetzky</span>
-  </div>
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    January 2022
-  </span>
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="pub-publication">
-    
-      <em>Journal of Agriculture and Food Research</em>
-    
-  </span>
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-</div>
-
-  
-
-  
-  
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/publication/fuentes-2022-animal/">Animal biometric assessment using non-invasive computer vision and machine learning are good predictors of dairy cows age and welfare: The future of automated veterinary support systems</a>
-  </h3>
-
-  
-  <div class="article-style">
-    <p>Digitally extracted biometrics from visible videos of farm animals could be used to automatically assess animal welfare, contributing to the future of automated veterinary support systems. This study proposed using non-invasive video acquisition and biometric analysis of dairy cows in a robotic dairy farm (RDF) located at the Dookie campus, The University of Melbourne, Australia. Data extracted from dairy cows were used to develop two machine learning models: a biometrics regression model (Model 1) targeting (i) somatic cell count, (ii) weight, (iii) rumination, and (iv) feed intake and a classification model (Model 2) mapping features from dairy cow&rsquo;s face to predict animal age. Results showed that Model 1 achieved a high correlation coefficient (R = 0.96), slope (b = 0.96), and performance, and Model 2 had high accuracy (98%), low error (2%), and high performance without signs of under or overfitting. Models developed in this study can be used in parallel with other models to assess milk productivity, quality traits, and welfare for RDF and conventional dairy farms.</p>
-  </div>
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.sciencedirect.com/science/article/pii/S2666154322001211" target="_blank" rel="noopener">
-  PDF
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/LRA.2023.3279619" target="_blank" rel="noopener">
+  DOI
 </a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/fuentes-2022-animal/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
