@@ -60,6 +60,13 @@
 &lt;img src=&#34;./sp1.jpg&#34; alt=&#34;image&#34;&gt;
 &lt;img src=&#34;./sp2.jpg&#34; alt=&#34;image&#34;&gt;
 &lt;img src=&#34;./sp3.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;farmbot-e-nose-senosr-integration&#34;&gt;Farm.Bot E-nose senosr integration&lt;/h2&gt;
+&lt;p&gt;Watch the video below for a 3 minutes introduction about the new Farm.bot E-nose.&lt;/p&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/haKIpkQ0OBE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+ &amp;ndash;&amp;gt;&lt;/p&gt;
 &lt;h2 id=&#34;farmbot-unity-simulator&#34;&gt;Farm.Bot Unity Simulator&lt;/h2&gt;
 &lt;p&gt;The Unity Simulator controlled by AI Planners was developed as a Master research project by Jiayuan during the COVID period, while we didn&amp;rsquo;t have access to the physical platform.&lt;/p&gt;
 
@@ -256,12 +263,13 @@
 &lt;/div&gt;
 
 &lt;p&gt;Planimation is an open-source program which visualises solutions to Planning Problems. It is an executable Unity architecture in a browser.&lt;/p&gt;
-&lt;p&gt;Watch the video below for a 2 minutes introduction about Planimation.&lt;/p&gt;
+&lt;!-- Watch the video below for a 2 minutes introduction about Planimation.
+
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/Cj2rWdt1YQU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-
+ --&gt;
 &lt;h2 id=&#34;awards&#34;&gt;Awards&lt;/h2&gt;
 &lt;h3 id=&#34;icaps-2019-best-system-demonstration&#34;&gt;ICAPS 2019 Best System Demonstration&lt;/h3&gt;
 &lt;p&gt;Recipient of the 
