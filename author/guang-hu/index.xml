@@ -7,7 +7,7 @@
     <description>Guang Hu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nirlipo.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Guang Hu</title>
       <link>https://nirlipo.github.io/author/guang-hu/</link>
     </image>
@@ -25,6 +25,14 @@
       <link>https://nirlipo.github.io/publication/hu-2022-planning/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://nirlipo.github.io/publication/hu-2022-planning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What you get is what you see: Decomposing Epistemic Planning using Functional STRIPS - Masters Thesis</title>
+      <link>https://nirlipo.github.io/publication/guang-master/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/guang-master/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dmitry Grebenyuk | Nir Lipovetzky</title>
+    <link>https://nirlipo.github.io/author/dmitry-grebenyuk/</link>
+      <atom:link href="https://nirlipo.github.io/author/dmitry-grebenyuk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dmitry Grebenyuk</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Dmitry Grebenyuk</title>
+      <link>https://nirlipo.github.io/author/dmitry-grebenyuk/</link>
+    </image>
+    
+    <item>
+      <title>Learning to Generalise through Features - Masters Thesis</title>
+      <link>https://nirlipo.github.io/publication/dmitry-master/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/dmitry-master/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | Nir Lipovetzky</title>
+    <link>https://nirlipo.github.io/publication-type/7/</link>
+      <atom:link href="https://nirlipo.github.io/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>7</title>
+      <link>https://nirlipo.github.io/publication-type/7/</link>
+    </image>
+    
+    <item>
+      <title>The Intersection of Planning and Learning through Cost-to-go Approximations, Imitation and Symbolic Regression</title>
+      <link>https://nirlipo.github.io/publication/stefan-phdthesis/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/stefan-phdthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploratory Modelling and Reinforcement Learning of Merit-Order Electricity Markets - Masters Thesis</title>
+      <link>https://nirlipo.github.io/publication/marco-master/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/marco-master/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Planning Automation on Farmbot: The Classical Planning Approach - Masters Thesis</title>
+      <link>https://nirlipo.github.io/publication/jiayuan-master/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/jiayuan-master/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning For Robust Decision-Making Under Deep Uncertainty - Masters Thesis</title>
+      <link>https://nirlipo.github.io/publication/zhihao-master/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/zhihao-master/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Generalise through Features - Masters Thesis</title>
+      <link>https://nirlipo.github.io/publication/dmitry-master/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/dmitry-master/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pest Detection in Wheat by Integrating a Low-cost Electronic nose and Machine Learning Modelling - Masters Thesis</title>
+      <link>https://nirlipo.github.io/publication/yajing-master/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/yajing-master/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What you get is what you see: Decomposing Epistemic Planning using Functional STRIPS - Masters Thesis</title>
+      <link>https://nirlipo.github.io/publication/guang-master/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/guang-master/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Width-Based Backward Search - Master Thesis</title>
+      <link>https://nirlipo.github.io/publication/chao-master/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/chao-master/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning from Conflict in Multi-Agent, Classical, and Temporal Planning</title>
+      <link>https://nirlipo.github.io/publication/toby-phdthesis/</link>
+      <pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/toby-phdthesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

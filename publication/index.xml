@@ -7,7 +7,7 @@
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 26 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nirlipo.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>https://nirlipo.github.io/publication/</link>
     </image>
@@ -45,6 +45,38 @@
     </item>
     
     <item>
+      <title>Approximate Novelty Search - IPC-10</title>
+      <link>https://nirlipo.github.io/publication/anu-ipc-10-ap/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/anu-ipc-10-ap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forward Backward Novelty Search</title>
+      <link>https://nirlipo.github.io/publication/anu-ipc-10-fb/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/anu-ipc-10-fb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grounding Schematic Representation with GRINGO for Width-based Search</title>
+      <link>https://nirlipo.github.io/publication/anu-ipc-10-gringo/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/anu-ipc-10-gringo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IPC Learning Track: Novelty-Based Generalized Planning</title>
+      <link>https://nirlipo.github.io/publication/lei-ipc-10/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/lei-ipc-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Learning User Preferences for Complex Cobotic Tasks: Meta-Behaviors and Human Groups</title>
       <link>https://nirlipo.github.io/publication/evella-ieee-ral/</link>
       <pubDate>Wed, 31 May 2023 11:50:42 +0000</pubDate>
@@ -57,6 +89,14 @@
       <link>https://nirlipo.github.io/publication/gerevini-2023-width/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://nirlipo.github.io/publication/gerevini-2023-width/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Intersection of Planning and Learning through Cost-to-go Approximations, Imitation and Symbolic Regression</title>
+      <link>https://nirlipo.github.io/publication/stefan-phdthesis/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/stefan-phdthesis/</guid>
       <description></description>
     </item>
     
@@ -141,6 +181,30 @@
     </item>
     
     <item>
+      <title>Exploratory Modelling and Reinforcement Learning of Merit-Order Electricity Markets - Masters Thesis</title>
+      <link>https://nirlipo.github.io/publication/marco-master/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/marco-master/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Planning Automation on Farmbot: The Classical Planning Approach - Masters Thesis</title>
+      <link>https://nirlipo.github.io/publication/jiayuan-master/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/jiayuan-master/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning For Robust Decision-Making Under Deep Uncertainty - Masters Thesis</title>
+      <link>https://nirlipo.github.io/publication/zhihao-master/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/zhihao-master/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Approximate Novelty Search</title>
       <link>https://nirlipo.github.io/publication/singh-2021-approximate/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
@@ -161,6 +225,38 @@
       <link>https://nirlipo.github.io/publication/nir-2021-ijcai/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://nirlipo.github.io/publication/nir-2021-ijcai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Generalise through Features - Masters Thesis</title>
+      <link>https://nirlipo.github.io/publication/dmitry-master/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/dmitry-master/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pest Detection in Wheat by Integrating a Low-cost Electronic nose and Machine Learning Modelling - Masters Thesis</title>
+      <link>https://nirlipo.github.io/publication/yajing-master/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/yajing-master/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What you get is what you see: Decomposing Epistemic Planning using Functional STRIPS - Masters Thesis</title>
+      <link>https://nirlipo.github.io/publication/guang-master/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/guang-master/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Width-Based Backward Search - Master Thesis</title>
+      <link>https://nirlipo.github.io/publication/chao-master/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/chao-master/</guid>
       <description></description>
     </item>
     
@@ -203,6 +299,7 @@
       <guid>https://nirlipo.github.io/publication/haslum-2019-introduction/</guid>
       <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;&amp;quot;An important resource for anyone who studies AI planning, regardless of whether they ever use PDDL.&amp;quot; -- Dana Nau, University of Maryland  &lt;a href=&#34;https://twitter.com/hashtag/AI?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#AI&lt;/a&gt;  &lt;a href=&#34;https://t.co/fvSmJ6R7qG&#34;&gt;https://t.co/fvSmJ6R7qG&lt;/a&gt; &lt;a href=&#34;https://t.co/5Rw1D00e5P&#34;&gt;pic.twitter.com/5Rw1D00e5P&lt;/a&gt;&lt;/p&gt;&amp;mdash; Morgan &amp;amp; Claypool Publishers (@MorganClaypool) &lt;a href=&#34;https://twitter.com/MorganClaypool/status/1115287393505042432?ref_src=twsrc%5Etfw&#34;&gt;April 8, 2019&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
 
 </description>
     </item>
@@ -292,6 +389,14 @@
       <link>https://nirlipo.github.io/publication/lipovetzky-2018-pacman/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://nirlipo.github.io/publication/lipovetzky-2018-pacman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning from Conflict in Multi-Agent, Classical, and Temporal Planning</title>
+      <link>https://nirlipo.github.io/publication/toby-phdthesis/</link>
+      <pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/toby-phdthesis/</guid>
       <description></description>
     </item>
     

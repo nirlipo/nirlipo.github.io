@@ -7,7 +7,7 @@
     <description>Nir Lipovetzky</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nirlipo.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Nir Lipovetzky</title>
       <link>https://nirlipo.github.io/</link>
     </image>
@@ -109,6 +109,38 @@
     </item>
     
     <item>
+      <title>Approximate Novelty Search - IPC-10</title>
+      <link>https://nirlipo.github.io/publication/anu-ipc-10-ap/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/anu-ipc-10-ap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forward Backward Novelty Search</title>
+      <link>https://nirlipo.github.io/publication/anu-ipc-10-fb/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/anu-ipc-10-fb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grounding Schematic Representation with GRINGO for Width-based Search</title>
+      <link>https://nirlipo.github.io/publication/anu-ipc-10-gringo/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/anu-ipc-10-gringo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IPC Learning Track: Novelty-Based Generalized Planning</title>
+      <link>https://nirlipo.github.io/publication/lei-ipc-10/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/lei-ipc-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Learning User Preferences for Complex Cobotic Tasks: Meta-Behaviors and Human Groups</title>
       <link>https://nirlipo.github.io/publication/evella-ieee-ral/</link>
       <pubDate>Wed, 31 May 2023 11:50:42 +0000</pubDate>
@@ -142,6 +174,14 @@
       <link>https://nirlipo.github.io/publication/gerevini-2023-width/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://nirlipo.github.io/publication/gerevini-2023-width/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Intersection of Planning and Learning through Cost-to-go Approximations, Imitation and Symbolic Regression</title>
+      <link>https://nirlipo.github.io/publication/stefan-phdthesis/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/stefan-phdthesis/</guid>
       <description></description>
     </item>
     
@@ -277,6 +317,30 @@
     </item>
     
     <item>
+      <title>Exploratory Modelling and Reinforcement Learning of Merit-Order Electricity Markets - Masters Thesis</title>
+      <link>https://nirlipo.github.io/publication/marco-master/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/marco-master/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Planning Automation on Farmbot: The Classical Planning Approach - Masters Thesis</title>
+      <link>https://nirlipo.github.io/publication/jiayuan-master/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/jiayuan-master/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning For Robust Decision-Making Under Deep Uncertainty - Masters Thesis</title>
+      <link>https://nirlipo.github.io/publication/zhihao-master/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/zhihao-master/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Approximate Novelty Search</title>
       <link>https://nirlipo.github.io/publication/singh-2021-approximate/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
@@ -297,6 +361,38 @@
       <link>https://nirlipo.github.io/publication/nir-2021-ijcai/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://nirlipo.github.io/publication/nir-2021-ijcai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Generalise through Features - Masters Thesis</title>
+      <link>https://nirlipo.github.io/publication/dmitry-master/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/dmitry-master/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pest Detection in Wheat by Integrating a Low-cost Electronic nose and Machine Learning Modelling - Masters Thesis</title>
+      <link>https://nirlipo.github.io/publication/yajing-master/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/yajing-master/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What you get is what you see: Decomposing Epistemic Planning using Functional STRIPS - Masters Thesis</title>
+      <link>https://nirlipo.github.io/publication/guang-master/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/guang-master/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Width-Based Backward Search - Master Thesis</title>
+      <link>https://nirlipo.github.io/publication/chao-master/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/chao-master/</guid>
       <description></description>
     </item>
     
@@ -718,18 +814,6 @@ You found me!
 {{&amp;lt; /spoiler &amp;gt;}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;spoiler &#34; &gt;
-  &lt;p&gt;
-    &lt;a class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; href=&#34;#spoiler-1&#34; role=&#34;button&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;spoiler-1&#34;&gt;
-      Click to view the spoiler
-    &lt;/a&gt;
-  &lt;/p&gt;
-  &lt;div class=&#34;collapse card &#34; id=&#34;spoiler-1&#34;&gt;
-    &lt;div class=&#34;card-body&#34;&gt;
-      You found me!
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
 &lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
 &lt;p&gt;Academic enables you to use a wide range of 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/#icons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;icons from &lt;em&gt;Font Awesome&lt;/em&gt; and &lt;em&gt;Academicons&lt;/em&gt;&lt;/a&gt; in addition to 
@@ -777,6 +861,7 @@ You found me!
 &lt;a href=&#34;https://icaps19.icaps-conference.org/awards&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICAPS 2019 Best system Demo Award&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Congratulations to the &lt;a href=&#34;https://twitter.com/cis_unimelb?ref_src=twsrc%5Etfw&#34;&gt;@cis_unimelb&lt;/a&gt; students behind Planimation, an open source framework to visualise sequential solutions of planning problems specified in PDDL, which won the popular vote for best demo at &lt;a href=&#34;https://twitter.com/hashtag/icaps2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#icaps2019&lt;/a&gt; in the US earlier this week! &lt;a href=&#34;https://t.co/3G2U2pE9CY&#34;&gt;pic.twitter.com/3G2U2pE9CY&lt;/a&gt;&lt;/p&gt;&amp;mdash; Faculty of Engineering and Information Technology (@engunimelb) &lt;a href=&#34;https://twitter.com/engunimelb/status/1151380531021434880?ref_src=twsrc%5Etfw&#34;&gt;July 17, 2019&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
 
 &lt;h3 id=&#34;melbourne-school-of-engineering---endeavour-2018&#34;&gt;Melbourne School of Engineering - Endeavour 2018&lt;/h3&gt;
 &lt;p&gt;
@@ -913,13 +998,13 @@ $$&lt;/p&gt;
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
 &lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One 
+One
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt; 
+&lt;strong&gt;Two&lt;/strong&gt;
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-Three 
+Three
 &lt;/span&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
@@ -1000,6 +1085,7 @@ Three
       <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;&amp;quot;An important resource for anyone who studies AI planning, regardless of whether they ever use PDDL.&amp;quot; -- Dana Nau, University of Maryland  &lt;a href=&#34;https://twitter.com/hashtag/AI?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#AI&lt;/a&gt;  &lt;a href=&#34;https://t.co/fvSmJ6R7qG&#34;&gt;https://t.co/fvSmJ6R7qG&lt;/a&gt; &lt;a href=&#34;https://t.co/5Rw1D00e5P&#34;&gt;pic.twitter.com/5Rw1D00e5P&lt;/a&gt;&lt;/p&gt;&amp;mdash; Morgan &amp;amp; Claypool Publishers (@MorganClaypool) &lt;a href=&#34;https://twitter.com/MorganClaypool/status/1115287393505042432?ref_src=twsrc%5Etfw&#34;&gt;April 8, 2019&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
+
 </description>
     </item>
     
@@ -1053,6 +1139,7 @@ Three
 &lt;a href=&#34;http://lapkt.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LAPKT&lt;/a&gt; and deployed as solver in the cloud. 
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Quite proud of something today. In 2015 I launched &lt;a href=&#34;https://t.co/DpTk3PQKYn&#34;&gt;https://t.co/DpTk3PQKYn&lt;/a&gt; -- a set of services for my area of research, including a remote solver for researchers to use.&lt;br&gt;&lt;br&gt;Roughly 5 years after going live, we just passed the 1 million solver call mark.&lt;br&gt;&lt;br&gt;1/n &lt;a href=&#34;https://t.co/YArjEkuoqA&#34;&gt;pic.twitter.com/YArjEkuoqA&lt;/a&gt;&lt;/p&gt;&amp;mdash; Christian Muise (@cjmuise) &lt;a href=&#34;https://twitter.com/cjmuise/status/1263538966046916608?ref_src=twsrc%5Etfw&#34;&gt;May 21, 2020&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
 &lt;/p&gt;
 &lt;p&gt;Several AI Planners have been awarded in  &lt;strong&gt;International Planning Competitions&lt;/strong&gt; (IPC):&lt;/p&gt;
 &lt;ul&gt;
@@ -1174,6 +1261,14 @@ Three
 &lt;p&gt;&lt;strong&gt;[07/22]&lt;/strong&gt; MasterClass on &lt;a href=&#34;https://socs2022.unibs.it/privacy/invited-speakers&#34;&gt;Width-Based Planning: Searching for Novelty&lt;/a&gt; SoCS 2022: The 15th International Symposium on Combinatorial Search&lt;/p&gt;
 
 </description>
+    </item>
+    
+    <item>
+      <title>Learning from Conflict in Multi-Agent, Classical, and Temporal Planning</title>
+      <link>https://nirlipo.github.io/publication/toby-phdthesis/</link>
+      <pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/toby-phdthesis/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -1315,7 +1410,7 @@ Three
 
 
 
-&lt;figure id=&#34;figure-academic-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+&lt;figure&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; data-caption=&#34;Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34;&gt;

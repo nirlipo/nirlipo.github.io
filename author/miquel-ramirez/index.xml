@@ -5,12 +5,36 @@
     <link>https://nirlipo.github.io/author/miquel-ramirez/</link>
       <atom:link href="https://nirlipo.github.io/author/miquel-ramirez/index.xml" rel="self" type="application/rss+xml" />
     <description>Miquel Ramirez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nirlipo.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Miquel Ramirez</title>
       <link>https://nirlipo.github.io/author/miquel-ramirez/</link>
     </image>
+    
+    <item>
+      <title>Approximate Novelty Search - IPC-10</title>
+      <link>https://nirlipo.github.io/publication/anu-ipc-10-ap/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/anu-ipc-10-ap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forward Backward Novelty Search</title>
+      <link>https://nirlipo.github.io/publication/anu-ipc-10-fb/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/anu-ipc-10-fb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grounding Schematic Representation with GRINGO for Width-based Search</title>
+      <link>https://nirlipo.github.io/publication/anu-ipc-10-gringo/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/anu-ipc-10-gringo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sampling from Pre-Images to Learn Heuristic Functions for Classical Planning</title>
