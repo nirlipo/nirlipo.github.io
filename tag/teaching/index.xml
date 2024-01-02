@@ -21,8 +21,11 @@
 &lt;p&gt;Planning as a service (PaaS) provides an extendable API to deploy planners online in local or cloud servers.&lt;/p&gt;
 &lt;p&gt;The service provides a queue manager to control a set of workers, which can easily be extended with one of several planners available in 
 &lt;a href=&#34;https://github.com/AI-Planning/planutils&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PLANUTILS&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;PaaS is designed to overcome the limitations of the existing online 
-&lt;a href=&#34;solver.planning.domains&#34;&gt;solver.planning.domains&lt;/a&gt; interface and widen the adoption of planning&lt;/p&gt;
+&lt;p&gt;PaaS is designed to overcome the limitations of the Legacy online 
+&lt;a href=&#34;solver.planning.domains/legacy&#34;&gt;solver.planning.domains&lt;/a&gt; interface and widen the adoption of planning. The current API is has been exposed through 
+&lt;a href=&#34;http://paas-uom.org:5001/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://paas-uom.org:5001/&lt;/a&gt; and currently deployed packages are listed here: 
+&lt;a href=&#34;https://paas-uom.org:5001/package&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://paas-uom.org:5001/package&lt;/a&gt;. The solvers can be used through the 
+&lt;a href=&#34;https://editor.planning.domains/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://editor.planning.domains/&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;demo-video&#34;&gt;Demo Video&lt;/h2&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0;&#34;&gt;&lt;iframe src=&#34;https://www.loom.com/embed/7d72759cd71c47db9032970fddcb3e71&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;h2 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h2&gt;

@@ -5,12 +5,28 @@
     <link>https://nirlipo.github.io/author/artem-polyvyanyy/</link>
       <atom:link href="https://nirlipo.github.io/author/artem-polyvyanyy/index.xml" rel="self" type="application/rss+xml" />
     <description>Artem Polyvyanyy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Artem Polyvyanyy</title>
       <link>https://nirlipo.github.io/author/artem-polyvyanyy/</link>
     </image>
+    
+    <item>
+      <title>Data-Driven Goal Recognition in Transhumeral Prostheses Using Process Mining Techniques</title>
+      <link>https://nirlipo.github.io/publication/su-2023-data/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/su-2023-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast and accurate data-driven goal recognition using process mining techniques</title>
+      <link>https://nirlipo.github.io/publication/su-2023-fast/</link>
+      <pubDate>Mon, 02 Oct 2023 12:17:47 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/su-2023-fast/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>GRACE: A Simulator for Continuous Goal Recognition over Changing Environments</title>

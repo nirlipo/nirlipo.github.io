@@ -77,6 +77,30 @@
     </item>
     
     <item>
+      <title>Data-Driven Goal Recognition in Transhumeral Prostheses Using Process Mining Techniques</title>
+      <link>https://nirlipo.github.io/publication/su-2023-data/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/su-2023-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast and accurate data-driven goal recognition using process mining techniques</title>
+      <link>https://nirlipo.github.io/publication/su-2023-fast/</link>
+      <pubDate>Mon, 02 Oct 2023 12:17:47 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/su-2023-fast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diverse, Top-k, and Top-Quality Planning Over Simulators</title>
+      <link>https://nirlipo.github.io/publication/benke-2023-diverse/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/benke-2023-diverse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Comparing AI Planning Algorithms with Humans on the Tower of London Task</title>
       <link>https://nirlipo.github.io/publication/zhang-2023-cogsci/</link>
       <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
@@ -141,6 +165,14 @@
     </item>
     
     <item>
+      <title>Planning as a Service</title>
+      <link>https://nirlipo.github.io/publication/paas-demo/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/paas-demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Learning User Preferences for Complex Cobotic Tasks: Meta-Behaviors and Human Groups</title>
       <link>https://nirlipo.github.io/publication/evella-ieee-ral/</link>
       <pubDate>Wed, 31 May 2023 11:50:42 +0000</pubDate>
@@ -157,8 +189,11 @@
 &lt;p&gt;Planning as a service (PaaS) provides an extendable API to deploy planners online in local or cloud servers.&lt;/p&gt;
 &lt;p&gt;The service provides a queue manager to control a set of workers, which can easily be extended with one of several planners available in 
 &lt;a href=&#34;https://github.com/AI-Planning/planutils&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PLANUTILS&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;PaaS is designed to overcome the limitations of the existing online 
-&lt;a href=&#34;solver.planning.domains&#34;&gt;solver.planning.domains&lt;/a&gt; interface and widen the adoption of planning&lt;/p&gt;
+&lt;p&gt;PaaS is designed to overcome the limitations of the Legacy online 
+&lt;a href=&#34;solver.planning.domains/legacy&#34;&gt;solver.planning.domains&lt;/a&gt; interface and widen the adoption of planning. The current API is has been exposed through 
+&lt;a href=&#34;http://paas-uom.org:5001/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://paas-uom.org:5001/&lt;/a&gt; and currently deployed packages are listed here: 
+&lt;a href=&#34;https://paas-uom.org:5001/package&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://paas-uom.org:5001/package&lt;/a&gt;. The solvers can be used through the 
+&lt;a href=&#34;https://editor.planning.domains/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://editor.planning.domains/&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;demo-video&#34;&gt;Demo Video&lt;/h2&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0;&#34;&gt;&lt;iframe src=&#34;https://www.loom.com/embed/7d72759cd71c47db9032970fddcb3e71&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;h2 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h2&gt;
@@ -190,13 +225,19 @@
       <link>https://nirlipo.github.io/project/farmbot/</link>
       <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://nirlipo.github.io/project/farmbot/</guid>
-      <description>&lt;p&gt;Farm.bot is an open-source 3-axis cartesian robot. We are using this platform at the Parkville campus to study the development of new sensors for agriculture, automate the experiments, and develop algorithms that autonomously monitor plants&#39; physiology and actuate to maintain a set of targets. We have developed a unity simulator, and integrated AI planners to automatically synthesise high level controllers.&lt;/p&gt;
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/867793437&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Farm.bot is an open-source 3-axis cartesian robot. We are using this platform at the Parkville campus to study the development of new sensors for agriculture, automate the experiments, and develop algorithms that autonomously monitor plants&#39; physiology and actuate to maintain a set of targets. We have developed a unity simulator, and integrated AI planners to automatically synthesise high level controllers.&lt;/p&gt;
 &lt;p&gt;Key Characteristics:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;3-axis cartesian robot&lt;/li&gt;
 &lt;li&gt;Open Source Hardware and Software&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;./mecheng.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;!-- ![image](./mecheng.jpg) --&gt;
 &lt;p&gt;Current Research Objectives:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Integration of AI Planning algorithms to generate goal oriented Farm.bot behaviours&lt;/li&gt;
@@ -206,11 +247,18 @@
 &lt;img src=&#34;./farmbotUnity.png&#34; alt=&#34;image&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;We aim to create automated and replicable lab experiments with the platform.&lt;/p&gt;
+&lt;h2 id=&#34;media-releases&#34;&gt;Media Releases&lt;/h2&gt;
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Melbourne researchers have made one giant leap towards making long-term space exploration a reality. Their latest tasty breakthrough uses FarmBots, with the aim of producing nutritious food for astronauts in space | &lt;a href=&#34;https://twitter.com/SophieEJacobsen?ref_src=twsrc%5Etfw&#34;&gt;@SophieEJacobsen&lt;/a&gt; &lt;a href=&#34;https://t.co/OrzaqROv2K&#34;&gt;pic.twitter.com/OrzaqROv2K&lt;/a&gt;&lt;/p&gt;&amp;mdash; 10 News First Melbourne (@10NewsFirstMelb) &lt;a href=&#34;https://twitter.com/10NewsFirstMelb/status/1731574345405714657?ref_src=twsrc%5Etfw&#34;&gt;December 4, 2023&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+
+&lt;a href=&#34;https://pursuit.unimelb.edu.au/articles/you-can-t-explore-the-solar-system-on-an-empty-stomach&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;./pursuit.png&#34; alt=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;student-precinct&#34;&gt;Student Precinct&lt;/h2&gt;
 &lt;p&gt;The Student Precinct has supported our lab at CIS and FVAS to support interdisciplinary student projects.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./studprecinct.jpg&#34; alt=&#34;image&#34;&gt;
-&lt;img src=&#34;./sp1.jpg&#34; alt=&#34;image&#34;&gt;
-&lt;img src=&#34;./sp2.jpg&#34; alt=&#34;image&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;./studprecinct.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;!-- ![image](./sp1.jpg) --&gt;
+&lt;p&gt;&lt;img src=&#34;./sp2.jpg&#34; alt=&#34;image&#34;&gt;
 &lt;img src=&#34;./sp3.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;farmbot-e-nose-senosr-integration&#34;&gt;Farm.Bot E-nose senosr integration&lt;/h2&gt;
 &lt;p&gt;Watch the video below for a 3 minutes introduction about the new Farm.bot E-nose.&lt;/p&gt;
@@ -230,7 +278,7 @@
 &lt;p&gt;Likn to the 
 &lt;a href=&#34;https://github.com/The-Kharsair-Empire/ROSfarm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github codebase&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Jiayuan&amp;rsquo;s Master Thesis is 
-&lt;a href=&#34;./MCompSci100Thesis_JiayuanChang.pdf&#34;&gt;availabe online as a PDF&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://nirlipo.github.io/publication/jiayuan-master/&#34;&gt;availabe online as a PDF&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;interested-in-working-with-the-farmbots&#34;&gt;Interested in working with the Farm.bots?&lt;/h2&gt;
 &lt;p&gt;Reach out to Dr. Nir Lipovetzky and A/prof. Sigfredo Fuentes.&lt;/p&gt;
 </description>
@@ -1250,6 +1298,11 @@ Three
 
 
 
+&lt;p&gt;&lt;strong&gt;[12/23]&lt;/strong&gt; &lt;em&gt;TV Channel 10 News&lt;/em&gt; featured &lt;a href=&#34;https://twitter.com/10newsfirstmelb/status/1731574345405714657&#34;&gt;the collaborative projects on plants for Space&lt;/a&gt; as well as a new  &lt;a href=&#34;https://vimeo.com/867793437&#34;&gt;short video&lt;/a&gt; released by The University of Melbourne&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[12/23]&lt;/strong&gt; &lt;em&gt;Pursuit media&lt;/em&gt; article &lt;a href=&#34;https://pursuit.unimelb.edu.au/articles/you-can-t-explore-the-solar-system-on-an-empty-stomach&#34;&gt;You can&amp;rsquo;t explore the solar system on an empty stomach&lt;/a&gt;, featuring the integration of new sensors over &lt;a href=&#34;projects/farmbot&#34;&gt;Farm.bots&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[11/23]&lt;/strong&gt; New ICPM-23 Paper on &lt;a href=&#34;https://nirlipo.github.io/publication/su-2023-data/&#34;&gt;Data-Driven Goal Recognition in Transhumeral Prostheses Using Process Mining Techniques&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[10/23]&lt;/strong&gt; New AIJ Paper on &lt;a href=&#34;https://nirlipo.github.io/publication/su-2023-fast/&#34;&gt;Fast and accurate data-driven goal recognition using process mining techniques&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[09/23]&lt;/strong&gt; New ECAI-23 Paper on &lt;a href=&#34;https://nirlipo.github.io/publication/benke-2023-diverse/&#34;&gt;Diverse, Top-k, and Top-Quality Planning Over Simulators&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[06/23]&lt;/strong&gt; New IEEE Robotics and Automation Letters on &lt;a href=&#34;https://nirlipo.github.io/publication/evella-ieee-ral/&#34;&gt;Learning User Preferences for Complex Cobotic Tasks: Meta-Behaviors and Human Groups&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[05/23]&lt;/strong&gt; New CogSci-23 Paper on &lt;a href=&#34;https://nirlipo.github.io/publication/zhang-2023-cogsci/&#34;&gt;Comparing AI Planning Algorithms with Humans on the Tower of London Task&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[05/23]&lt;/strong&gt; New SoCS-23 Paper on &lt;a href=&#34;https://nirlipo.github.io/publication/chao-2023-gpp/&#34;&gt;Novelty and Lifted Helpful Actions in Generalized Planning&lt;/a&gt;&lt;/p&gt;
@@ -1258,7 +1311,7 @@ Three
 &lt;p&gt;&lt;strong&gt;[03/23]&lt;/strong&gt; New AIJ Paper on &lt;a href=&#34;https://nirlipo.github.io/publication/gerevini-2023-width/&#34;&gt;Width-based search for multi agent privacy-preserving planning&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[10/22]&lt;/strong&gt; New JAIR Paper on &lt;a href=&#34;https://nirlipo.github.io/publication/hu-2022-planning/&#34;&gt;Planning with Perspectives &amp;ndash; Decomposing Epistemic Planning using Functional STRIPS&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[07/22]&lt;/strong&gt; New SOCS-22 paper on &lt;a href=&#34;https://nirlipo.github.io/publication/o-2022-sampling/&#34;&gt;Sampling from Pre-Images to Learn Heuristic Functions for Classical Planning&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[07/22]&lt;/strong&gt; MasterClass on &lt;a href=&#34;https://socs2022.unibs.it/privacy/invited-speakers&#34;&gt;Width-Based Planning: Searching for Novelty&lt;/a&gt; SoCS 2022: The 15th International Symposium on Combinatorial Search&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[07/22]&lt;/strong&gt; MasterClass on &lt;a href=&#34;https://socs2022.unibs.it/privacy/invited-speakers&#34;&gt;Width-Based Planning: Searching for Novelty&lt;/a&gt; @ SoCS 2022: The 15th International Symposium on Combinatorial Search&lt;/p&gt;
 
 </description>
     </item>

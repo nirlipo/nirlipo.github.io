@@ -5,12 +5,20 @@
     <link>https://nirlipo.github.io/author/lyndon-benke/</link>
       <atom:link href="https://nirlipo.github.io/author/lyndon-benke/index.xml" rel="self" type="application/rss+xml" />
     <description>Lyndon Benke</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Lyndon Benke</title>
       <link>https://nirlipo.github.io/author/lyndon-benke/</link>
     </image>
+    
+    <item>
+      <title>Diverse, Top-k, and Top-Quality Planning Over Simulators</title>
+      <link>https://nirlipo.github.io/publication/benke-2023-diverse/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/benke-2023-diverse/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Integrated Hybrid Planning and Programmed Control for Real--Time UAV Maneuvering</title>
