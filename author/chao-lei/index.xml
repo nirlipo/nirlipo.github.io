@@ -5,12 +5,20 @@
     <link>https://nirlipo.github.io/author/chao-lei/</link>
       <atom:link href="https://nirlipo.github.io/author/chao-lei/index.xml" rel="self" type="application/rss+xml" />
     <description>Chao Lei</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Chao Lei</title>
       <link>https://nirlipo.github.io/author/chao-lei/</link>
     </image>
+    
+    <item>
+      <title>Generalized Planning for the Abstraction and Reasoning Corpus</title>
+      <link>https://nirlipo.github.io/publication/lei-2024-generalized/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/lei-2024-generalized/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Novelty and Lifted Helpful Actions in Generalized Planning</title>

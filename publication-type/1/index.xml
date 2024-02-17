@@ -5,12 +5,20 @@
     <link>https://nirlipo.github.io/publication-type/1/</link>
       <atom:link href="https://nirlipo.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>1</title>
       <link>https://nirlipo.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Generalized Planning for the Abstraction and Reasoning Corpus</title>
+      <link>https://nirlipo.github.io/publication/lei-2024-generalized/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/lei-2024-generalized/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Data-Driven Goal Recognition in Transhumeral Prostheses Using Process Mining Techniques</title>
