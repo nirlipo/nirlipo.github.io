@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>admin | Nir Lipovetzky</title>
+    <title>Admin | Nir Lipovetzky</title>
     <link>https://nirlipo.github.io/author/admin/</link>
       <atom:link href="https://nirlipo.github.io/author/admin/index.xml" rel="self" type="application/rss+xml" />
-    <description>admin</description>
+    <description>Admin</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>admin</title>
+      <title>Admin</title>
       <link>https://nirlipo.github.io/author/admin/</link>
     </image>
     
@@ -20,7 +20,7 @@
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;png&#34; src=&#34;https://nirlipo.github.io/posts/jupyter/index_1_0.png&#34;&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
 &lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;Welcome to Academic!

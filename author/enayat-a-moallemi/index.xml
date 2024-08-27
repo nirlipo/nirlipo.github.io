@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Enayat a Moallemi | Nir Lipovetzky</title>
+    <link>https://nirlipo.github.io/author/enayat-a-moallemi/</link>
+      <atom:link href="https://nirlipo.github.io/author/enayat-a-moallemi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Enayat a Moallemi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Enayat a Moallemi</title>
+      <link>https://nirlipo.github.io/author/enayat-a-moallemi/</link>
+    </image>
+    
+    <item>
+      <title>Reinforcement learning for decision-making under deep uncertainty</title>
+      <link>https://nirlipo.github.io/publication/pei-2024-reinforcement/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/pei-2024-reinforcement/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

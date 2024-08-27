@@ -5,12 +5,41 @@
     <link>https://nirlipo.github.io/posts/</link>
       <atom:link href="https://nirlipo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <description>service</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>service</title>
       <link>https://nirlipo.github.io/posts/</link>
     </image>
+    
+    <item>
+      <title>Human AI research wins Pragnesh Jay Modi Best Paper Award</title>
+      <link>https://nirlipo.github.io/posts/aamas24/</link>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/posts/aamas24/</guid>
+      <description>&lt;p&gt;PhD student 
+&lt;a href=&#34;https://cis.unimelb.edu.au/people/students/chenyuan-zhang&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chenyuan Zhang,&lt;/a&gt; under the supervision of 
+&lt;a href=&#34;https://findanexpert.unimelb.edu.au/profile/565558-nir-lipovetzky&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Associate Professor Nir Lipovetzky&lt;/a&gt;, from the School of Computing and Information Systems, and a colleague from the School of Psychological Sciences, Professor Charles Kemp, has won the prestigious 
+&lt;a href=&#34;https://www.aamas2024-conference.auckland.ac.nz/awards/best-paper-awards/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Best Student Paper Award&lt;/a&gt; at the 
+&lt;a href=&#34;https://www.aamas2024-conference.auckland.ac.nz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2024 International Conference on Autonomous Agents and Multi-Agent Systems&lt;/a&gt; (AAMAS).&lt;/p&gt;
+&lt;p&gt;AAMAS is the largest and most influential conference in the area of agents and multiagent systems. The conference aims to bring together researchers and practitioners in all areas of agent technology and to provide a single, high-profile, internationally renowned forum for research in the theory and practice of autonomous agents and multiagent systems. AAMAS is the flagship conference of the non-profit 
+&lt;a href=&#34;https://www.ifaamas.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Foundation for Autonomous Agents and Multiagent Systems&lt;/a&gt; (IFAAMAS).&lt;/p&gt;
+&lt;p&gt;Chenyuan&amp;rsquo;s paper, &amp;ldquo;Human Goal Recognition as Bayesian Inference: Investigating the Impact of Actions, Timing and Goal Solvability,&amp;rdquo; was selected from over 1,000 submissions, of which only 200 were accepted for presentation. Among the three finalist papers, Chenyuan&amp;rsquo;s work was ultimately honoured with the Pragnesh Jay Modi Best Paper Award at the conference banquet.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;This recognition is a significant milestone in our ongoing efforts to advance the field of goal recognition and AI, and we look forward to continued progress and collaboration,&amp;rdquo; Chenyuan said.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;png&#34; src=&#34;https://nirlipo.github.io/posts/aamas24/AAMAS-2024.png&#34;&gt; &lt;em&gt;General Chair Jaime Simão Sichman, Program Chair Natasha Alechina, Associate Professor Nir Lipovetzky, General Chair Mehdi Dastani, Program Chair Virginia Dignum and Chenyuan Zhang. (Picture: Supplied)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Chenyuan&amp;rsquo;s study involves analysing human responses to goal-recognition problems within the Sokoban domain, which is a puzzle video game in which the player pushes boxes around in a warehouse, trying to get them to storage locations.&lt;/p&gt;
+&lt;p&gt;Goal recognition is a fundamental cognitive process that enables individuals to infer intentions based on available cues. Traditional goal recognition algorithms typically rely solely on observed actions. However, this research leverages a 
+&lt;a href=&#34;https://www.sciencedirect.com/topics/computer-science/bayesian-framework&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bayesian framework&lt;/a&gt; to explore how actions, timing and goal solvability collectively influence goal recognition.&lt;/p&gt;
+&lt;p&gt;Findings revealed that while actions are deemed most crucial, the timing of these actions and the solvability of goals also play significant roles, particularly when actions alone do not provide sufficient information. This nuanced understanding allowed the development of a goal recognition model that aligns more closely with human inference processes than existing algorithms.&lt;/p&gt;
+&lt;p&gt;The paper provides new insights into human goal recognition and marks a significant step toward creating AI models that exhibit more human-like cognitive abilities.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;This achievement is also a testament to the power of interdisciplinary collaboration, bringing together expertise from the School of Psychological Sciences and the field of artificial intelligence at the School of Computing and Information Systems. It underscores the potential of cross-Faculty partnerships to drive innovative research and yield groundbreaking results,&amp;rdquo; Associate Professor Lipovetzky said.&lt;/p&gt;
+&lt;p&gt;We extend our heartfelt congratulations to Chenyuan for this remarkable achievement!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Read Chenyuan&amp;rsquo;s full paper here:&lt;/strong&gt; 
+&lt;a href=&#34;https://nirlipo.github.io/publication/zhang-2024-human&#34;&gt;Abstract &amp;amp; PDF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Appeared @ UoM:&lt;/strong&gt;
+&lt;a href=&#34;https://staff.unimelb.edu.au/engineering/news&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; FEIT eBulletin news&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Writing technical content in Academic</title>
@@ -261,7 +290,7 @@ You found me!
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;png&#34; src=&#34;https://nirlipo.github.io/posts/jupyter/index_1_0.png&#34;&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
 &lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;Welcome to Academic!
@@ -330,7 +359,7 @@ date: 2019-09-01
 &lt;li&gt;⬆️ &lt;strong&gt;Updating?&lt;/strong&gt; View the 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and 
 &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;❤️ &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
+&lt;li&gt;&amp;#x2764;&amp;#xfe0f; &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
 &lt;ul&gt;
 &lt;li&gt;☕️ 
 &lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Donate a coffee&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
@@ -340,7 +369,7 @@ date: 2019-09-01
 &lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Decorate your laptop or journal with an Academic &lt;strong&gt;sticker&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;👕 
 &lt;a href=&#34;https://academic.threadless.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wear the &lt;strong&gt;T-shirt&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👩‍💻 
+&lt;li&gt;&amp;#x1f469;&amp;zwj;&amp;#x1f4bb; 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/contribute/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Contribute&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;

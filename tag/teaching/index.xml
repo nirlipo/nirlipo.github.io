@@ -17,7 +17,7 @@
       <link>https://nirlipo.github.io/project/paas/</link>
       <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://nirlipo.github.io/project/paas/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://nirlipo.github.io/project/paas/poster.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;https://nirlipo.github.io/project/paas/poster.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Planning as a service (PaaS) provides an extendable API to deploy planners online in local or cloud servers.&lt;/p&gt;
 &lt;p&gt;The service provides a queue manager to control a set of workers, which can easily be extended with one of several planners available in 
 &lt;a href=&#34;https://github.com/AI-Planning/planutils&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PLANUTILS&lt;/a&gt;.&lt;/p&gt;
@@ -32,7 +32,7 @@
 &lt;p&gt;This project has been a collaboration between Queen&amp;rsquo;s University, Canada and The University of Melbourne, Australia. A submission has been made to 
 &lt;a href=&#34;https://icaps23.icaps-conference.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICAPS 2023 System Demonstations&lt;/a&gt; track by Yi Ding, Cam Cunningham, Christian Muise, and Nir Lipovetzky.&lt;/p&gt;
 &lt;p&gt;This work has been partially funded by AIJ to promote AI Research - ”Enabling Education of AI Planning”&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://nirlipo.github.io/project/paas/AIJ_Cover.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;https://nirlipo.github.io/project/paas/AIJ_Cover.jpg&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     

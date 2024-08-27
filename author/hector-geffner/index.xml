@@ -77,14 +77,6 @@
     </item>
     
     <item>
-      <title>Width and serialization of classical planning problems</title>
-      <link>https://nirlipo.github.io/publication/lipovetzky-2012-width/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://nirlipo.github.io/publication/lipovetzky-2012-width/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Computing Infinite Plans for LTL Goals Using a Classical Planner</title>
       <link>https://nirlipo.github.io/publication/patrizi-2011-computing/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
@@ -97,30 +89,6 @@
       <link>https://nirlipo.github.io/publication/lipovetzky-2011-searching/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       <guid>https://nirlipo.github.io/publication/lipovetzky-2011-searching/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Inference and decomposition in planning using causal consistent chains</title>
-      <link>https://nirlipo.github.io/publication/lipovetzky-2009-inference/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://nirlipo.github.io/publication/lipovetzky-2009-inference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Path-based heuristic (preliminary version)</title>
-      <link>https://nirlipo.github.io/publication/lipovetzky-2009-path/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://nirlipo.github.io/publication/lipovetzky-2009-path/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C3: Planning with consistent causal chains</title>
-      <link>https://nirlipo.github.io/publication/lipovetzky-2008-c-3/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://nirlipo.github.io/publication/lipovetzky-2008-c-3/</guid>
       <description></description>
     </item>
     

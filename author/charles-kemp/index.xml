@@ -5,12 +5,20 @@
     <link>https://nirlipo.github.io/author/charles-kemp/</link>
       <atom:link href="https://nirlipo.github.io/author/charles-kemp/index.xml" rel="self" type="application/rss+xml" />
     <description>Charles Kemp</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 26 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Charles Kemp</title>
       <link>https://nirlipo.github.io/author/charles-kemp/</link>
     </image>
+    
+    <item>
+      <title>Human Goal Recognition as Bayesian Inference: Investigating the Impact of Actions, Timing, and Goal Solvability</title>
+      <link>https://nirlipo.github.io/publication/zhang-2024-human/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/zhang-2024-human/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Comparing AI Planning Algorithms with Humans on the Tower of London Task</title>

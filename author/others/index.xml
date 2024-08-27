@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title> others | Nir Lipovetzky</title>
+    <title> Others | Nir Lipovetzky</title>
     <link>https://nirlipo.github.io/author/others/</link>
       <atom:link href="https://nirlipo.github.io/author/others/index.xml" rel="self" type="application/rss+xml" />
-    <description> others</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <description> Others</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title> others</title>
+      <title> Others</title>
       <link>https://nirlipo.github.io/author/others/</link>
     </image>
+    
+    <item>
+      <title>Model AI Assignments 2024</title>
+      <link>https://nirlipo.github.io/publication/neller-2024-model/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/neller-2024-model/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Agent-based simulation of Holocene monsoon precipitation patterns and hunter-gatherer population dynamics in semi-arid environments</title>

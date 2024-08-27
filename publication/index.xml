@@ -5,7 +5,7 @@
     <link>https://nirlipo.github.io/publication/</link>
       <atom:link href="https://nirlipo.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
@@ -13,10 +13,42 @@
     </image>
     
     <item>
+      <title>Adaptive goal recognition using process mining techniques</title>
+      <link>https://nirlipo.github.io/publication/su-2024-adaptive/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/su-2024-adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human Goal Recognition as Bayesian Inference: Investigating the Impact of Actions, Timing, and Goal Solvability</title>
+      <link>https://nirlipo.github.io/publication/zhang-2024-human/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/zhang-2024-human/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement learning for decision-making under deep uncertainty</title>
+      <link>https://nirlipo.github.io/publication/pei-2024-reinforcement/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/pei-2024-reinforcement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Generalized Planning for the Abstraction and Reasoning Corpus</title>
       <link>https://nirlipo.github.io/publication/lei-2024-generalized/</link>
       <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://nirlipo.github.io/publication/lei-2024-generalized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model AI Assignments 2024</title>
+      <link>https://nirlipo.github.io/publication/neller-2024-model/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/neller-2024-model/</guid>
       <description></description>
     </item>
     
