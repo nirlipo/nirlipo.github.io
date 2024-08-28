@@ -114,6 +114,14 @@
     </item>
     
     <item>
+      <title>Count-Based Novelty Exploration in Classical Planning - Master Thesis</title>
+      <link>https://nirlipo.github.io/publication/giacomo-master/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/giacomo-master/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Human Goal Recognition as Bayesian Inference: Investigating the Impact of Actions, Timing, and Goal Solvability</title>
       <link>https://nirlipo.github.io/publication/zhang-2024-human/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
@@ -126,6 +134,22 @@
       <link>https://nirlipo.github.io/publication/pei-2024-reinforcement/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       <guid>https://nirlipo.github.io/publication/pei-2024-reinforcement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lazy Constraint Generation and Tractable Approximations for Large-scale Planning Problems</title>
+      <link>https://nirlipo.github.io/publication/anu-phdthesis/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/anu-phdthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Planning and Goal Recognition in Humans and Machines</title>
+      <link>https://nirlipo.github.io/publication/chenyuan-phdthesis/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/chenyuan-phdthesis/</guid>
       <description></description>
     </item>
     

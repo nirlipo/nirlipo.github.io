@@ -5,12 +5,20 @@
     <link>https://nirlipo.github.io/author/anubhav-singh/</link>
       <atom:link href="https://nirlipo.github.io/author/anubhav-singh/index.xml" rel="self" type="application/rss+xml" />
     <description>Anubhav Singh</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Anubhav Singh</title>
       <link>https://nirlipo.github.io/author/anubhav-singh/</link>
     </image>
+    
+    <item>
+      <title>Lazy Constraint Generation and Tractable Approximations for Large-scale Planning Problems</title>
+      <link>https://nirlipo.github.io/publication/anu-phdthesis/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/anu-phdthesis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Approximate Novelty Search - IPC-10</title>

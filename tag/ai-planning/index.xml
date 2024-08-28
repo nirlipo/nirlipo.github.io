@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AI Planning | Nir Lipovetzky</title>
+    <title>AI Planning, | Nir Lipovetzky</title>
     <link>https://nirlipo.github.io/tag/ai-planning/</link>
       <atom:link href="https://nirlipo.github.io/tag/ai-planning/index.xml" rel="self" type="application/rss+xml" />
-    <description>AI Planning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <description>AI Planning,</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 02 Jun 2013 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>AI Planning</title>
+      <title>AI Planning,</title>
       <link>https://nirlipo.github.io/tag/ai-planning/</link>
     </image>
     
     <item>
-      <title>AI Planning Solvers Online</title>
-      <link>https://nirlipo.github.io/project/paas/</link>
-      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://nirlipo.github.io/project/paas/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;https://nirlipo.github.io/project/paas/poster.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Planning as a service (PaaS) provides an extendable API to deploy planners online in local or cloud servers.&lt;/p&gt;
-&lt;p&gt;The service provides a queue manager to control a set of workers, which can easily be extended with one of several planners available in 
-&lt;a href=&#34;https://github.com/AI-Planning/planutils&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PLANUTILS&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;PaaS is designed to overcome the limitations of the Legacy online 
-&lt;a href=&#34;solver.planning.domains/legacy&#34;&gt;solver.planning.domains&lt;/a&gt; interface and widen the adoption of planning. The current API is has been exposed through 
+      <title>Linear Temporal Logic, Planning and Synthesis</title>
+      <link>https://nirlipo.github.io/project/ltl/</link>
+      <pubDate>Sun, 02 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/project/ltl/</guid>
+      <description>&lt;p&gt;In this project we showed how to compute infinte plans for LTL goals. Infinite plans are akin to the problem of control synteshis. Given an LTL formula, the tools developed encodes the LTL goal formula as Deterministic Buchi Automata states. The Automata is encoded along with the allowed transitions of the agent in the Planning Domain Description Language (PDDL). The problem becomes a fully observable non-deterministic planning problem (FOND) or a classical problem, depending on whether the environment can act non-deterministically.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
+r.planning.domains/legacy&#34;&gt;solver.planning.domains&lt;/a&gt; interface and widen the adoption of planning. The current API is has been exposed through 
 &lt;a href=&#34;http://paas-uom.org:5001/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://paas-uom.org:5001/&lt;/a&gt; and currently deployed packages are listed here: 
 &lt;a href=&#34;https://paas-uom.org:5001/package&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://paas-uom.org:5001/package&lt;/a&gt;. The solvers can be used through the 
 &lt;a href=&#34;https://editor.planning.domains/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://editor.planning.domains/&lt;/a&gt;.&lt;/p&gt;
