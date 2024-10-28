@@ -65,23 +65,23 @@
 &lt;p&gt;Classical &lt;strong&gt;Width Definition&lt;/strong&gt;, Iterative Width (&lt;strong&gt;IW&lt;/strong&gt;), Serialized IW (&lt;strong&gt;SIW&lt;/strong&gt;), &lt;strong&gt;SIW+&lt;/strong&gt;, and &lt;strong&gt;DFS+&lt;/strong&gt; algorithms&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;http://people.eng.unimelb.edu.au/nlipovetzky/papers/classical-width-ecai12.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;N. Lipovetzky and H. Geffner, ECAI12&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://nirlipo.github.io/publication/lipovetzky-2012-width/width-ecai-12.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;N. Lipovetzky and H. Geffner, ECAI12&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://people.eng.unimelb.edu.au/nlipovetzky/papers/aiaccess_nirlipo.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PhD. Thesis, Nir Lipovetzky, 2012&lt;/a&gt;, 
+&lt;a href=&#34;https://nirlipo.github.io/publication/lipovetzky-2014-structure/aiaccess_nirlipo.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PhD. Thesis, Nir Lipovetzky, 2012&lt;/a&gt;, 
 &lt;a href=&#34;http://www.icaps-conference.org/index.php/Main/Awards&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICAPS Best dissertation Award 2013&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://people.eng.unimelb.edu.au/nlipovetzky/papers/width_ecai14.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;N. Lipovetzky and H. Geffner, ECAI14&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://nirlipo.github.io/publication/lipovetzky-2014-width/width-ecai-14.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;N. Lipovetzky and H. Geffner, ECAI14&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Best First Width Search (&lt;strong&gt;BFWS&lt;/strong&gt;)&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14862/14161&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;N. Lipovetzky and H. Geffner, AAAI17&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://nirlipo.github.io/publication/lipovetzky-2017-best/bfws-aaai-17.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;N. Lipovetzky and H. Geffner, AAAI17&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Polynomial BFWS planner  
-&lt;a href=&#34;http://people.eng.unimelb.edu.au/nlipovetzky/papers/icaps17-polytime-BFWS.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;N. Lipovetzky and H. Geffner, ICAPS17&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://nirlipo.github.io/publication/lipovetzky-2017-polynomial/poly-bfws-icaps-17.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;N. Lipovetzky and H. Geffner, ICAPS17&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;BFWS and quantified heuristic novelty measures 
-&lt;a href=&#34;http://people.eng.unimelb.edu.au/nlipovetzky/papers/icaps17-quantified-novelty.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;M. Katz, N. Lipovetzky, D. Moshkovich, A. Tuisov, ICAPS17&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://nirlipo.github.io/publication/katz-2017-adapting/icaps17-quantified-novelty.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;M. Katz, N. Lipovetzky, D. Moshkovich, A. Tuisov, ICAPS17&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -102,7 +102,7 @@
 &lt;p&gt;Novelty Decompositions&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://www.aaai.org/AAAI21Papers/AAAI-8289.BonetB.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;B Bonet, H Geffner, AAAI21&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://bonetblai.github.io/reports/AAAI21-width.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;B Bonet, H Geffner, AAAI21&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.diva-portal.org/smash/record.jsf?pid=diva2:1578987&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;D Drexler, J Seipp, H Geffner, KR21&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
@@ -115,11 +115,11 @@
 &lt;li&gt;IW over &lt;strong&gt;Atari&lt;/strong&gt; Simulator (ALE)
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;http://people.eng.unimelb.edu.au/nlipovetzky/papers/iw-atari-ijcai-2015.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;N. Lipovetzky, M. Ramirez, and H. Geffner, IJCAI15&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://nirlipo.github.io/publication/lipovetzky-2105-classical/iw-atari-ijcai-2015.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;N. Lipovetzky, M. Ramirez, and H. Geffner, IJCAI15&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;http://www.ijcai.org/Proceedings/16/Papers/460.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A. Shleyfman, A. Tuisov, and C. Domshlak, IJCAI16&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14920/14194&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Y. Jinnai and A. Fukunaga, AAAI17&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://jinnaiyuu.github.io/pdf/papers/AAAI-17%20Jinnai-Fukunaga.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Y. Jinnai and A. Fukunaga, AAAI17&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://arxiv.org/pdf/1801.03354&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;W. Bandres, B. Bonet, H. Geffner, AAAI18&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -148,25 +148,27 @@
 &lt;p&gt;Factored simulators accept finite domain variables, and mixed Declarative and Programatic (simulated) dynamics&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;BFWS with &lt;strong&gt;simulators&lt;/strong&gt; and &lt;strong&gt;Functional STRIPS&lt;/strong&gt; (FSTRIPS) - 
-&lt;a href=&#34;http://people.eng.unimelb.edu.au/nlipovetzky/papers/ijcai17-planning-with-simulators.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;G. Francès, M. Ramirez, N. Lipovetzky, and H. Geffner, IJCAI17&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://nirlipo.github.io/publication/frances-2017-purely/ijcai17-planning-with-simulators.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;G. Francès, M. Ramirez, N. Lipovetzky, and H. Geffner, IJCAI17&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Task and Motion&lt;/strong&gt; Planning - 
 &lt;a href=&#34;https://arxiv.org/pdf/1706.06927.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;J. Ferrer-Mestres, G. Francès, and H. Geffner, ARXIV17&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;UaV &lt;strong&gt;Hybrid Control&lt;/strong&gt; - 
-&lt;a href=&#34;https://people.eng.unimelb.edu.au/nlipovetzky/papers/aamas18-uav.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;M. Ramirez, M. Papasimeon, N. Lipovetzky, L. Benke, T. Miller, A. Pearce, E. Scala, M. Zamani, AAMAS18&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://nirlipo.github.io/publication/ramirez-2018-integrated/aamas18-uav.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;M. Ramirez, M. Papasimeon, N. Lipovetzky, L. Benke, T. Miller, A. Pearce, E. Scala, M. Zamani, AAMAS18&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;BFWS online POMDP for &lt;strong&gt;Transparent Planning&lt;/strong&gt; - 
-&lt;a href=&#34;https://people.eng.unimelb.edu.au/nlipovetzky/papers/aamas18-transparent-planning.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A. MacNally, N. Lipovetzky, M. Ramirez, A. Pearce, AAMAS18&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://nirlipo.github.io/publication/macnally-2018-action/aamas18-transparent-planning.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A. MacNally, N. Lipovetzky, M. Ramirez, A. Pearce, AAMAS18&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;mdp-over-simulators&#34;&gt;MDP over Simulators&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;IW over &lt;strong&gt;General Videogame&lt;/strong&gt; Competition (GVGAI) - 
-&lt;a href=&#34;http://www.aaai.org/ocs/index.php/AIIDE/AIIDE15/paper/download/11540/11350&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;T. Geffner and H. Geffner, AAIDE15&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://ojs.aaai.org/index.php/AIIDE/article/download/12786/12634&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;T. Geffner and H. Geffner, AAIDE15&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;multi-agent-descentralised-and-privacy-preserving-planning&#34;&gt;Multi Agent Descentralised and Privacy Preserving Planning&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Descentralised Best First Width Search (&lt;strong&gt;MA-BFWS&lt;/strong&gt;) 
-&lt;a href=&#34;https://aaai.org/ojs/index.php/ICAPS/article/view/3472/3340&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AE Gerevini, N Lipovetzky, F Percassi, A Saetti, I Serina, ICAPS2019&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://ojs.aaai.org/index.php/ICAPS/article/view/3472&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AE Gerevini, N Lipovetzky, F Percassi, A Saetti, I Serina, ICAPS2019&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Novelty Communication filtering&lt;/strong&gt; for Strong Privacy Preserving Planning 
-&lt;a href=&#34;https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/view/18331&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AE Gerevini, N Lipovetzky, N Peli, F Percassi, A Saetti, I Serina, SoCS2019&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://ojs.aaai.org/index.php/SOCS/article/download/18505/18296&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AE Gerevini, N Lipovetzky, N Peli, F Percassi, A Saetti, I Serina, SoCS2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Width-based search for multi agent privacy-preserving planning&lt;/strong&gt; 
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0004370223000292?dgcid=coauthor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AE Gerevini, N Lipovetzky, F Percassi, A Saetti, I Serina, AIJ 2023&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;width-based-algorithms-in-action&#34;&gt;Width Based Algorithms in Action&lt;/h1&gt;
 &lt;h2 id=&#34;arcade-learning-environment&#34;&gt;Arcade Learning Environment&lt;/h2&gt;
