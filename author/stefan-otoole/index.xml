@@ -1,28 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Stefan O’Toole | Nir Lipovetzky</title>
+    <title>Stefan O&#39;Toole | Nir Lipovetzky</title>
     <link>https://nirlipo.github.io/author/stefan-otoole/</link>
       <atom:link href="https://nirlipo.github.io/author/stefan-otoole/index.xml" rel="self" type="application/rss+xml" />
-    <description>Stefan O’Toole</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <description>Stefan O&#39;Toole</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Stefan O’Toole</title>
+      <title>Stefan O&#39;Toole</title>
       <link>https://nirlipo.github.io/author/stefan-otoole/</link>
     </image>
     
     <item>
-      <title>Width-Based Lookaheads Augmented with Base Policies for Stochastic Shortest Paths</title>
-      <link>https://nirlipo.github.io/publication/o-2019-width/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://nirlipo.github.io/publication/o-2019-width/</guid>
+      <title>The Intersection of Planning and Learning through Cost-to-go Approximations, Imitation and Symbolic Regression</title>
+      <link>https://nirlipo.github.io/publication/stefan-phdthesis/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/stefan-phdthesis/</guid>
       <description></description>
-    </item>
-    
-  </channel>
-</rss>
-tion>
     </item>
     
     <item>
