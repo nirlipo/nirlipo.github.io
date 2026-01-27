@@ -5,12 +5,44 @@
     <link>https://nirlipo.github.io/publication-type/2/</link>
       <atom:link href="https://nirlipo.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>2</title>
       <link>https://nirlipo.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Applying Organizational Mining to Discover Agent Systems from Event Data</title>
+      <link>https://nirlipo.github.io/publication/shen-2025-applying/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/shen-2025-applying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MetaPilot: A DRL-Based Controller for Dynamic Adaptation to Shifting Scheduling Objectives in HPC Systems</title>
+      <link>https://nirlipo.github.io/publication/wang-2025-metapilot/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/wang-2025-metapilot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Process Mining over Sensor Data: Goal Recognition for Powered Transhumeral Prostheses</title>
+      <link>https://nirlipo.github.io/publication/su-2025-process/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/su-2025-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing HPC Scheduling: A Hierarchical Reinforcement Learning Approach for Intelligent Job Selection and Allocation</title>
+      <link>https://nirlipo.github.io/publication/wang-2025-optimizing/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/wang-2025-optimizing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Adaptive goal recognition using process mining techniques</title>

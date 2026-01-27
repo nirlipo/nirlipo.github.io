@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lingfei Wang | Nir Lipovetzky</title>
+    <link>https://nirlipo.github.io/author/lingfei-wang/</link>
+      <atom:link href="https://nirlipo.github.io/author/lingfei-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lingfei Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Lingfei Wang</title>
+      <link>https://nirlipo.github.io/author/lingfei-wang/</link>
+    </image>
+    
+    <item>
+      <title>MetaPilot: A DRL-Based Controller for Dynamic Adaptation to Shifting Scheduling Objectives in HPC Systems</title>
+      <link>https://nirlipo.github.io/publication/wang-2025-metapilot/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/wang-2025-metapilot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating RL-Based Scheduler Adaptation with Transfer Learning in Evolving HPC Architectures</title>
+      <link>https://nirlipo.github.io/publication/wang-2025-accelerating/</link>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/wang-2025-accelerating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing HPC Scheduling: A Hierarchical Reinforcement Learning Approach for Intelligent Job Selection and Allocation</title>
+      <link>https://nirlipo.github.io/publication/wang-2025-optimizing/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/wang-2025-optimizing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

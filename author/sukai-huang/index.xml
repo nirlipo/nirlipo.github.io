@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sukai Huang | Nir Lipovetzky</title>
+    <link>https://nirlipo.github.io/author/sukai-huang/</link>
+      <atom:link href="https://nirlipo.github.io/author/sukai-huang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sukai Huang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Sukai Huang</title>
+      <link>https://nirlipo.github.io/author/sukai-huang/</link>
+    </image>
+    
+    <item>
+      <title>Chasing Progress, Not Perfection: Revisiting Strategies for End-to-End LLM Plan Generation</title>
+      <link>https://nirlipo.github.io/publication/huang-2025-chasing/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/huang-2025-chasing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Dark Side of Rich Rewards: Understanding and Mitigating Noise in VLM Rewards</title>
+      <link>https://nirlipo.github.io/publication/huang-2024-dark/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/huang-2024-dark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Natural Language in Sequential Decision Problems</title>
+      <link>https://nirlipo.github.io/publication/sukai-phdthesis/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/sukai-phdthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Planning in the Dark: LLM-Symbolic Planning Pipeline without Experts</title>
+      <link>https://nirlipo.github.io/publication/huang-2025-planning/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/huang-2025-planning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

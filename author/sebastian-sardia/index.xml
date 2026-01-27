@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sebastian Sardia | Nir Lipovetzky</title>
+    <link>https://nirlipo.github.io/author/sebastian-sardia/</link>
+      <atom:link href="https://nirlipo.github.io/author/sebastian-sardia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sebastian Sardia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Sebastian Sardia</title>
+      <link>https://nirlipo.github.io/author/sebastian-sardia/</link>
+    </image>
+    
+    <item>
+      <title>Process Mining over Sensor Data: Goal Recognition for Powered Transhumeral Prostheses</title>
+      <link>https://nirlipo.github.io/publication/su-2025-process/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/su-2025-process/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

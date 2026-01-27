@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yanchuan Chang | Nir Lipovetzky</title>
+    <link>https://nirlipo.github.io/author/yanchuan-chang/</link>
+      <atom:link href="https://nirlipo.github.io/author/yanchuan-chang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yanchuan Chang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Yanchuan Chang</title>
+      <link>https://nirlipo.github.io/author/yanchuan-chang/</link>
+    </image>
+    
+    <item>
+      <title>Planning-Driven Programming: A Large Language Model Programming Workflow</title>
+      <link>https://nirlipo.github.io/publication/lei-2025-planning/</link>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/lei-2025-planning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

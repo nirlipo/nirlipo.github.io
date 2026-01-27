@@ -5,12 +5,28 @@
     <link>https://nirlipo.github.io/author/krista-a-ehinger/</link>
       <atom:link href="https://nirlipo.github.io/author/krista-a-ehinger/index.xml" rel="self" type="application/rss+xml" />
     <description>Krista a Ehinger</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Krista a Ehinger</title>
       <link>https://nirlipo.github.io/author/krista-a-ehinger/</link>
     </image>
+    
+    <item>
+      <title>Planning-Driven Programming: A Large Language Model Programming Workflow</title>
+      <link>https://nirlipo.github.io/publication/lei-2025-planning/</link>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/lei-2025-planning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State-Based Disassembly Planning</title>
+      <link>https://nirlipo.github.io/publication/lei-2025-state/</link>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/lei-2025-state/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Generalized Planning for the Abstraction and Reasoning Corpus</title>

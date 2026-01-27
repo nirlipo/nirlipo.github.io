@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiajia Song | Nir Lipovetzky</title>
+    <link>https://nirlipo.github.io/author/jiajia-song/</link>
+      <atom:link href="https://nirlipo.github.io/author/jiajia-song/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jiajia Song</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Jiajia Song</title>
+      <link>https://nirlipo.github.io/author/jiajia-song/</link>
+    </image>
+    
+    <item>
+      <title>On the Complexity of Computing the Planning Width</title>
+      <link>https://nirlipo.github.io/publication/song-2025-complexity/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/song-2025-complexity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Computational Complexity of Partial Satisfaction Planning</title>
+      <link>https://nirlipo.github.io/publication/song-2025-partial/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/song-2025-partial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

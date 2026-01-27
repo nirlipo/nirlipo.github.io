@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qingtan Shen | Nir Lipovetzky</title>
+    <link>https://nirlipo.github.io/author/qingtan-shen/</link>
+      <atom:link href="https://nirlipo.github.io/author/qingtan-shen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qingtan Shen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Qingtan Shen</title>
+      <link>https://nirlipo.github.io/author/qingtan-shen/</link>
+    </image>
+    
+    <item>
+      <title>Applying Organizational Mining to Discover Agent Systems from Event Data</title>
+      <link>https://nirlipo.github.io/publication/shen-2025-applying/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/shen-2025-applying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agent System Event Data: Concepts, Dimensions, Applications</title>
+      <link>https://nirlipo.github.io/publication/shen-2024-agent/</link>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/shen-2024-agent/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Muhammad Bilal | Nir Lipovetzky</title>
+    <link>https://nirlipo.github.io/author/muhammad-bilal/</link>
+      <atom:link href="https://nirlipo.github.io/author/muhammad-bilal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Muhammad Bilal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 14 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Muhammad Bilal</title>
+      <link>https://nirlipo.github.io/author/muhammad-bilal/</link>
+    </image>
+    
+    <item>
+      <title>Beyond Success: Quantifying Demonstration Quality in Learning from Demonstration</title>
+      <link>https://nirlipo.github.io/publication/bilal-2024-beyond/</link>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/bilal-2024-beyond/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,28 @@
     <link>https://nirlipo.github.io/author/denny-oetomo/</link>
       <atom:link href="https://nirlipo.github.io/author/denny-oetomo/index.xml" rel="self" type="application/rss+xml" />
     <description>Denny Oetomo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Denny Oetomo</title>
       <link>https://nirlipo.github.io/author/denny-oetomo/</link>
     </image>
+    
+    <item>
+      <title>Process Mining over Sensor Data: Goal Recognition for Powered Transhumeral Prostheses</title>
+      <link>https://nirlipo.github.io/publication/su-2025-process/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/su-2025-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond Success: Quantifying Demonstration Quality in Learning from Demonstration</title>
+      <link>https://nirlipo.github.io/publication/bilal-2024-beyond/</link>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/bilal-2024-beyond/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Data-Driven Goal Recognition in Transhumeral Prostheses Using Process Mining Techniques</title>

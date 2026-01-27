@@ -5,12 +5,28 @@
     <link>https://nirlipo.github.io/publication-type/7/</link>
       <atom:link href="https://nirlipo.github.io/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
     <description>7</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>7</title>
       <link>https://nirlipo.github.io/publication-type/7/</link>
     </image>
+    
+    <item>
+      <title>Integrating Natural Language in Sequential Decision Problems</title>
+      <link>https://nirlipo.github.io/publication/sukai-phdthesis/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/sukai-phdthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&#34;Seen Is Believing&#34;: Modeling and Solving Epistemic Planning Problems using Justified Perspectives</title>
+      <link>https://nirlipo.github.io/publication/guang-phdthesis/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/guang-phdthesis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Count-Based Novelty Exploration in Classical Planning - Master Thesis</title>

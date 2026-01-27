@@ -5,12 +5,20 @@
     <link>https://nirlipo.github.io/author/guang-hu/</link>
       <atom:link href="https://nirlipo.github.io/author/guang-hu/index.xml" rel="self" type="application/rss+xml" />
     <description>Guang Hu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Guang Hu</title>
       <link>https://nirlipo.github.io/author/guang-hu/</link>
     </image>
+    
+    <item>
+      <title>&#34;Seen Is Believing&#34;: Modeling and Solving Epistemic Planning Problems using Justified Perspectives</title>
+      <link>https://nirlipo.github.io/publication/guang-phdthesis/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/guang-phdthesis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Planning with Multi-agent Belief Using Justified Perspectives</title>

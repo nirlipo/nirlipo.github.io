@@ -5,12 +5,36 @@
     <link>https://nirlipo.github.io/author/artem-polyvyanyy/</link>
       <atom:link href="https://nirlipo.github.io/author/artem-polyvyanyy/index.xml" rel="self" type="application/rss+xml" />
     <description>Artem Polyvyanyy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Artem Polyvyanyy</title>
       <link>https://nirlipo.github.io/author/artem-polyvyanyy/</link>
     </image>
+    
+    <item>
+      <title>Applying Organizational Mining to Discover Agent Systems from Event Data</title>
+      <link>https://nirlipo.github.io/publication/shen-2025-applying/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/shen-2025-applying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Process Mining over Sensor Data: Goal Recognition for Powered Transhumeral Prostheses</title>
+      <link>https://nirlipo.github.io/publication/su-2025-process/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/su-2025-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agent System Event Data: Concepts, Dimensions, Applications</title>
+      <link>https://nirlipo.github.io/publication/shen-2024-agent/</link>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/shen-2024-agent/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Adaptive goal recognition using process mining techniques</title>

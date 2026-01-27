@@ -77,6 +77,142 @@
     </item>
     
     <item>
+      <title>Applying Organizational Mining to Discover Agent Systems from Event Data</title>
+      <link>https://nirlipo.github.io/publication/shen-2025-applying/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/shen-2025-applying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MetaPilot: A DRL-Based Controller for Dynamic Adaptation to Shifting Scheduling Objectives in HPC Systems</title>
+      <link>https://nirlipo.github.io/publication/wang-2025-metapilot/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/wang-2025-metapilot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chasing Progress, Not Perfection: Revisiting Strategies for End-to-End LLM Plan Generation</title>
+      <link>https://nirlipo.github.io/publication/huang-2025-chasing/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/huang-2025-chasing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Complexity of Computing the Planning Width</title>
+      <link>https://nirlipo.github.io/publication/song-2025-complexity/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/song-2025-complexity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Dark Side of Rich Rewards: Understanding and Mitigating Noise in VLM Rewards</title>
+      <link>https://nirlipo.github.io/publication/huang-2024-dark/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/huang-2024-dark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Natural Language in Sequential Decision Problems</title>
+      <link>https://nirlipo.github.io/publication/sukai-phdthesis/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/sukai-phdthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Computational Complexity of Partial Satisfaction Planning</title>
+      <link>https://nirlipo.github.io/publication/song-2025-partial/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/song-2025-partial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Planning-Driven Programming: A Large Language Model Programming Workflow</title>
+      <link>https://nirlipo.github.io/publication/lei-2025-planning/</link>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/lei-2025-planning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating RL-Based Scheduler Adaptation with Transfer Learning in Evolving HPC Architectures</title>
+      <link>https://nirlipo.github.io/publication/wang-2025-accelerating/</link>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/wang-2025-accelerating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&#34;Seen Is Believing&#34;: Modeling and Solving Epistemic Planning Problems using Justified Perspectives</title>
+      <link>https://nirlipo.github.io/publication/guang-phdthesis/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/guang-phdthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Process Mining over Sensor Data: Goal Recognition for Powered Transhumeral Prostheses</title>
+      <link>https://nirlipo.github.io/publication/su-2025-process/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/su-2025-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing HPC Scheduling: A Hierarchical Reinforcement Learning Approach for Intelligent Job Selection and Allocation</title>
+      <link>https://nirlipo.github.io/publication/wang-2025-optimizing/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/wang-2025-optimizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Planning in the Dark: LLM-Symbolic Planning Pipeline without Experts</title>
+      <link>https://nirlipo.github.io/publication/huang-2025-planning/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/huang-2025-planning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State-Based Disassembly Planning</title>
+      <link>https://nirlipo.github.io/publication/lei-2025-state/</link>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/lei-2025-state/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agent System Event Data: Concepts, Dimensions, Applications</title>
+      <link>https://nirlipo.github.io/publication/shen-2024-agent/</link>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/shen-2024-agent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond Success: Quantifying Demonstration Quality in Learning from Demonstration</title>
+      <link>https://nirlipo.github.io/publication/bilal-2024-beyond/</link>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/bilal-2024-beyond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Count-based Novelty Exploration in Classical Planning</title>
+      <link>https://nirlipo.github.io/publication/rosa-2024-count/</link>
+      <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/rosa-2024-count/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Count-Based Novelty Exploration in Classical Planning - Master Thesis</title>
       <link>https://nirlipo.github.io/publication/giacomo-master/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
@@ -154,18 +290,18 @@
     </item>
     
     <item>
-      <title>Generalized Planning for the Abstraction and Reasoning Corpus</title>
-      <link>https://nirlipo.github.io/publication/lei-2024-generalized/</link>
-      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://nirlipo.github.io/publication/lei-2024-generalized/</guid>
+      <title>Model AI Assignments 2024</title>
+      <link>https://nirlipo.github.io/publication/neller-2024-model/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/neller-2024-model/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Model AI Assignments 2024</title>
-      <link>https://nirlipo.github.io/publication/neller-2024-model/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://nirlipo.github.io/publication/neller-2024-model/</guid>
+      <title>Generalized Planning for the Abstraction and Reasoning Corpus</title>
+      <link>https://nirlipo.github.io/publication/lei-2024-generalized/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/lei-2024-generalized/</guid>
       <description></description>
     </item>
     
@@ -1415,6 +1551,29 @@ $$&lt;/p&gt;
 
 
 
+&lt;p&gt;&lt;strong&gt;[12/25]&lt;/strong&gt; The Melbourne summer of AI &amp;amp; reasoning &amp;ndash; We organised 
+&lt;a href=&#34;https://icaps25.icaps-conference.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICAPS 2025&lt;/a&gt; in Melbourne co-located with KR and CPAIOR&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[12/25]&lt;/strong&gt; New Information Systems paper on 
+&lt;a href=&#34;https://nirlipo.github.io/publication/shen-2025-applying/&#34;&gt;Applying Organizational Mining to Discover Agent Systems from Event Data&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[11/25]&lt;/strong&gt; Summer school lecture on 
+&lt;a href=&#34;https://opss25.pathfinding.ai/program&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Classical Planning and PDDL&lt;/a&gt; at 
+&lt;a href=&#34;https://opss25.pathfinding.ai/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OPS-S 2025&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[11/25]&lt;/strong&gt; New ICAPS paper on 
+&lt;a href=&#34;https://nirlipo.github.io/publication/huang-2025-chasing/&#34;&gt;Chasing Progress, Not Perfection: Revisiting Strategies for End-to-End LLM Plan Generation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[11/25]&lt;/strong&gt; New ICAPS workshop paper on 
+&lt;a href=&#34;https://nirlipo.github.io/publication/song-2025-complexity/&#34;&gt;On the Complexity of Computing the Planning Width&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[11/25]&lt;/strong&gt; New papers on RL Scheduling for HPC Systems 
+&lt;a href=&#34;https://nirlipo.github.io/publication/wang-2025-metapilot/&#34;&gt;1&lt;/a&gt;, 
+&lt;a href=&#34;https://nirlipo.github.io/publication/wang-2025-accelerating/&#34;&gt;2&lt;/a&gt;,
+&lt;a href=&#34;https://nirlipo.github.io/publication/wang-2025-optimizing/&#34;&gt;3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[09/25]&lt;/strong&gt; New ECAI paper on 
+&lt;a href=&#34;https://nirlipo.github.io/publication/song-2025-partial/&#34;&gt;On the Computational Complexity of Partial Satisfaction Planning&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[07/25]&lt;/strong&gt; New ACL paper on 
+&lt;a href=&#34;https://nirlipo.github.io/publication/lei-2025-planning/&#34;&gt;Planning-Driven Programming: A Large Language Model Programming Workflow&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[07/25]&lt;/strong&gt; New Information Systems paper on 
+&lt;a href=&#34;https://nirlipo.github.io/publication/su-2025-process/&#34;&gt;Process Mining over Sensor Data: Goal Recognition for Powered Transhumeral Prostheses&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[04/25]&lt;/strong&gt; New AAAI paper on 
+&lt;a href=&#34;https://nirlipo.github.io/publication/huang-2025-planning/&#34;&gt;Planning in the Dark: LLM-Symbolic Planning Pipeline without Experts&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[8/24]&lt;/strong&gt; New ECAI-24 Paper on 
 &lt;a href=&#34;https://arxiv.org/abs/2408.13719&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Count-based Novelty Exploration in Classical Planning&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[5/24]&lt;/strong&gt; New AAMAS-24 &lt;strong&gt;Best-Student Paper Award&lt;/strong&gt; on 
