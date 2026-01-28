@@ -5,12 +5,20 @@
     <link>https://nirlipo.github.io/author/lingfei-wang/</link>
       <atom:link href="https://nirlipo.github.io/author/lingfei-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Lingfei Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Lingfei Wang</title>
       <link>https://nirlipo.github.io/author/lingfei-wang/</link>
     </image>
+    
+    <item>
+      <title>Job Scheduling in High Performance Computing Clusters with Deep Reinforcement Learning</title>
+      <link>https://nirlipo.github.io/publication/lingfei-phdthesis/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/lingfei-phdthesis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MetaPilot: A DRL-Based Controller for Dynamic Adaptation to Shifting Scheduling Objectives in HPC Systems</title>

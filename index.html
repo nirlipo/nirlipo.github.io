@@ -2004,6 +2004,144 @@
 
 
   
+  <span><a href="/author/lingfei-wang/">Lingfei Wang</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    December 2025
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      The University of Melbourne
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <h3 class="article-title mb-1 mt-3">
+    <a href="/publication/lingfei-phdthesis/">Job Scheduling in High Performance Computing Clusters with Deep Reinforcement Learning</a>
+  </h3>
+
+  
+  <div class="article-style">
+    <p><p>High Performance Computing (HPC) systems are designed to execute large-scale computational workloads by leveraging parallel processing across multiple compute nodes. These systems support a wide range of applications, including scientific simulations, engineering design, and artificial intelligence, where tasks usually require substantial computational power and execution time. Efficient job scheduling in HPC environments is essential to ensure timely job completion and effective resource utilization. In HPC scheduling, two important components are the job queue and the computing cluster. The job queue holds jobs submitted by users, each describing the resources it needs — such as CPU cores, GPUs, memory, and expected runtime — before it can run. The computing cluster is the pool of available hardware resources that can be assigned to these jobs. Since resources are limited and jobs arrive over time with varying demands, the scheduler must continuously decide which jobs to run and how to allocate resources to them. This process, known as job scheduling, involves both selecting jobs from the queue and assigning suitable resources across the cluster. These decisions must respect system constraints, such as resource availability and job placement requirements, and aim to utilize resources well while maintaining job waiting time as low as possible.</p>
+<p>Traditional HPC schedulers often rely on simple heuristics like First-Come-First-Served (FCFS) or Shortest Job First (SJF), which are easy to implement but can lead to poor resource utilization and job starvation under dynamic workloads. Meta-heuristic algorithms have been used to improve decision quality by exploring a broader solution space, but they are computationally costly and require careful tuning. Supervised machine learning methods have also been applied to predict job priorities, offering better scheduling decisions than fixed heuristics. However, they depend on labeled datasets and struggle to adapt to real-time system changes. In contrast, Deep Reinforcement Learning (DRL) enables a scheduler to learn scheduling policies through interaction with the system, using performance feedback to improve decisions over time. It does not rely on labeled data or predefined heuristics, and instead learns to optimize long-term scheduling outcomes by exploring and evaluating different actions in varied system states. This makes DRL well-suited for handling dynamic workloads, complex resource constraints, and changing system conditions in HPC environments. However, applying DRL to HPC scheduling introduces several key challenges. First, designing an effective job selector is difficult due to the unbounded and dynamic nature of the job queue. As jobs continuously arrive and depart, the number of scheduling actions and the information required to represent each job can vary significantly over time. This makes it challenging to define a consistent and scalable state representation and to construct a manageable action space for the agent. Second, job selection and resource allocation are often handled separately, which can result in poor coordination and inefficient scheduling. Addressing this requires a unified DRL framework that jointly considers both decisions. Third, scheduling objectives — such as minimizing job waiting time and maximizing resource utilization — can conflict and shift depending on workload intensity and system state, requiring the scheduler to dynamically adjust its priorities. Fourth, as HPC systems are upgraded, modified, or newly developed, changes in hardware architecture can alter the structure and semantics of the system state used by DRL-based schedulers. These changes affect how job and resource features are represented and interpreted, making it difficult to directly reuse DRL models trained in previous environments without adaptation.</p>
+<p>In particular, this thesis makes the following contributions to DRL-based HPC scheduling. Develops a DRL-based job selector designed to handle unbounded job queues and support efficient backfilling. Presents a hierarchical DRL scheduler that jointly manages job selection and resource allocation in HPC environments. Introduces a dynamic controller that adjusts scheduling objectives based on real-time system conditions. Proposes a transfer learning framework that enables DRL schedulers to adapt efficiently to evolving HPC architectures.</p>
+</p>
+  </div>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/lingfei-phdthesis/lingfei_phd_thesis.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/lingfei-phdthesis/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+  
+
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
   <span><a href="/author/lingfei-wang/">Lingfei Wang</a></span>, <span><a href="/author/maria-a-rodriguez/">Maria A Rodriguez</a></span>, <span><a href="/author/nir-lipovetzky/">Nir Lipovetzky</a></span>
 
   </div>
@@ -2369,141 +2507,6 @@
 
       
     
-      
-        
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-<div class="card-simple">
-
-  
-    
-
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-
-
-  
-  <span><a href="/author/sukai-huang/">Sukai Huang</a></span>, <span><a href="/author/shu-wei-liu/">Shu-Wei Liu</a></span>, <span><a href="/author/nir-lipovetzky/">Nir Lipovetzky</a></span>, <span><a href="/author/trevor-cohn/">Trevor Cohn</a></span>
-
-  </div>
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    September 2025
-  </span>
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="pub-publication">
-    
-      <em>ICAPS 2025 Workshop on Planning and Reinforcement Learning (PRL)</em>
-    
-  </span>
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-</div>
-
-  
-
-  
-  
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/publication/huang-2024-dark/">The Dark Side of Rich Rewards: Understanding and Mitigating Noise in VLM Rewards</a>
-  </h3>
-
-  
-  <div class="article-style">
-    <p>While Vision-Language Models (VLMs) are increasingly used to generate reward signals for training embodied agents to follow instructions, our research reveals that agents guided by VLM rewards often underperform compared to those employing only intrinsic (exploration-driven) rewards, contradicting expectations set by recent work. We hypothesize that false positive rewards &ndash; instances where unintended trajectories are incorrectly rewarded &ndash; are more detrimental than false negatives. Our analysis confirms this hypothesis, revealing that the widely used cosine similarity metric is prone to false positive reward estimates. To address this, we introduce BiMI (Binary Mutual Information), a novel reward function designed to mitigate noise. BiMI significantly enhances learning efficiency across diverse and challenging embodied navigation environments. Our findings offer a nuanced understanding of how different types of reward noise impact agent learning and highlight the importance of addressing multimodal reward signal noise when training embodied agents.</p>
-  </div>
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/pdf/2409.15922" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/huang-2024-dark/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  </div>
-  
-
-</div>
-
-      
-    
 
     
     <div class="see-all">
@@ -2586,9 +2589,6 @@
 <li>
 <p><code>Zhiaho Pei</code> [2022 - current]. <strong>co-supervized</strong> with Dr. Angela Rojas, Dr. Fjalar De Haan and Dr. Enayat A. Moallemi, <strong>Topic</strong>: Robust decision making for complex systems</p>
 </li>
-<li>
-<p><code>Lingfei Wang</code> [2021 - current], <strong>co-supervised</strong> with Dr.Maria Rodriguez. <strong>Topic</strong>: Scheduling and Learning for High Performance Computing (HPC)</p>
-</li>
 </ul>
 <h3 id="alumni">Alumni</h3>
 <h4 id="phd-1">Ph.D.</h4>
@@ -2596,6 +2596,10 @@
 <li>
 <p><code>Sukai Huang</code> [2022 - 2025]. <strong>co-supervized</strong> with Prof. Trevor Cohn,  <strong>Thesis</strong>: 
 <a href="publication/sukai-phdthesis/">Integrating Natural Language in Sequential Decision Problems</a> <strong>First Employment:</strong> Post-Doc @ Monash University [2025- current]</p>
+</li>
+<li>
+<p><code>Lingfei Wang</code> [2021 - 2025], <strong>co-supervised</strong> with Dr.Maria Rodriguez. <strong>Thesis</strong>: 
+<a href="publication/lingfei-phdthesis/">Job Scheduling in High Performance Computing Clusters with Deep Reinforcement Learning</a> <strong>First Employment:</strong> TBA</p>
 </li>
 <li>
 <p><code>Guang Hu</code> [2021 - 2025], <strong>co-supervised</strong> with Dr.Tim Miller. <strong>Thesis</strong>: 

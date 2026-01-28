@@ -5,12 +5,20 @@
     <link>https://nirlipo.github.io/publication-type/7/</link>
       <atom:link href="https://nirlipo.github.io/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
     <description>7</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>7</title>
       <link>https://nirlipo.github.io/publication-type/7/</link>
     </image>
+    
+    <item>
+      <title>Job Scheduling in High Performance Computing Clusters with Deep Reinforcement Learning</title>
+      <link>https://nirlipo.github.io/publication/lingfei-phdthesis/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/lingfei-phdthesis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Integrating Natural Language in Sequential Decision Problems</title>
