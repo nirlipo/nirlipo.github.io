@@ -5,7 +5,7 @@
     <link>https://nirlipo.github.io/</link>
       <atom:link href="https://nirlipo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Nir Lipovetzky</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Nir Lipovetzky</title>
@@ -55,28 +55,6 @@
     </item>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://nirlipo.github.io/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://nirlipo.github.io/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Applying Organizational Mining to Discover Agent Systems from Event Data</title>
       <link>https://nirlipo.github.io/publication/shen-2025-applying/</link>
       <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
@@ -98,6 +76,15 @@
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://nirlipo.github.io/publication/wang-2025-metapilot/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Model-Based Reasoning in Large Language Models: A Planning Perspective</title>
+      <link>https://nirlipo.github.io/talk/icaps25-lm4plan/</link>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/talk/icaps25-lm4plan/</guid>
+      <description>&lt;p&gt;Video and workshop details are available via the links above.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -641,6 +628,15 @@
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://nirlipo.github.io/publication/zhihao-master/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Tractable novelty exploration over Continuous and Discrete Sequential Decision Problems</title>
+      <link>https://nirlipo.github.io/talk/tractable-novelty-exploration/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/talk/tractable-novelty-exploration/</guid>
+      <description>&lt;p&gt;Video available via the link above.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1415,6 +1411,15 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Best-First Width Search for Multi Agent Privacy-preserving Planning</title>
+      <link>https://nirlipo.github.io/talk/best-first-width-multi-agent/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/talk/best-first-width-multi-agent/</guid>
+      <description>&lt;p&gt;Video available via the link above.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Novelty Messages Filtering for Multi Agent Privacy-preserving Planning</title>
       <link>https://nirlipo.github.io/publication/gerevini-2019-novelty/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -1567,6 +1572,11 @@ $$&lt;/p&gt;
 
 
 
+&lt;p&gt;&lt;strong&gt;[02/26]&lt;/strong&gt; Invited talk at 
+&lt;a href=&#34;https://llmforplanning.github.io/ICAPS25/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LM4Plan @ ICAPS 2025&lt;/a&gt; on 
+&lt;a href=&#34;https://nirlipo.github.io/talk/icaps25-lm4plan/&#34;&gt;Towards Model-Based Reasoning in Large Language Models: A Planning Perspective&lt;/a&gt; (
+&lt;a href=&#34;https://www.youtube.com/watch?v=pzFLQuD27Bg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;youtube&lt;/a&gt;, 
+&lt;a href=&#34;https://nirlipo.github.io/talk/icaps25-lm4plan/slides.pdf&#34;&gt;slides&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[12/25]&lt;/strong&gt; The Melbourne summer of AI &amp;amp; reasoning &amp;ndash; We organised 
 &lt;a href=&#34;https://icaps25.icaps-conference.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICAPS 2025&lt;/a&gt; in Melbourne co-located with KR and CPAIOR&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[12/25]&lt;/strong&gt; New Information Systems paper on 
@@ -1979,6 +1989,15 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Planning for Mining Operations with Time and Resource Constraints</title>
+      <link>https://nirlipo.github.io/talk/planning-mining-operations/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/talk/planning-mining-operations/</guid>
+      <description>&lt;p&gt;Video available via the link above.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Structure and inference in classical planning</title>
       <link>https://nirlipo.github.io/publication/lipovetzky-2014-structure/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
@@ -2012,6 +2031,15 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Structure and Inference In Classical Planning</title>
+      <link>https://nirlipo.github.io/talk/structure-inference-classical-planning/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/talk/structure-inference-classical-planning/</guid>
+      <description>&lt;p&gt;Video available via the link above.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Width and serialization of classical planning problems</title>
       <link>https://nirlipo.github.io/publication/lipovetzky-2012-width/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
@@ -2041,6 +2069,15 @@ $$&lt;/p&gt;
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>https://nirlipo.github.io/publication/lipovetzky-2009-inference/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Inference and Decomposition in Planning Using Causal Consistent Chains</title>
+      <link>https://nirlipo.github.io/talk/inference-decomposition-causal-consistent-chains/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/talk/inference-decomposition-causal-consistent-chains/</guid>
+      <description>&lt;p&gt;Video available via the link above.&lt;/p&gt;
+</description>
     </item>
     
     <item>

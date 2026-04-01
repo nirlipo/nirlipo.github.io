@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reinforcement-Learning | Nir Lipovetzky</title>
+    <link>https://nirlipo.github.io/tag/reinforcement-learning/</link>
+      <atom:link href="https://nirlipo.github.io/tag/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reinforcement-Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Reinforcement-Learning</title>
+      <link>https://nirlipo.github.io/tag/reinforcement-learning/</link>
+    </image>
+    
+    <item>
+      <title>Tractable novelty exploration over Continuous and Discrete Sequential Decision Problems</title>
+      <link>https://nirlipo.github.io/talk/tractable-novelty-exploration/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/talk/tractable-novelty-exploration/</guid>
+      <description>&lt;p&gt;Video available via the link above.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

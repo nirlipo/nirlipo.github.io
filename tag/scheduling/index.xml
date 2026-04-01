@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scheduling | Nir Lipovetzky</title>
+    <link>https://nirlipo.github.io/tag/scheduling/</link>
+      <atom:link href="https://nirlipo.github.io/tag/scheduling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Scheduling</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Scheduling</title>
+      <link>https://nirlipo.github.io/tag/scheduling/</link>
+    </image>
+    
+    <item>
+      <title>Planning for Mining Operations with Time and Resource Constraints</title>
+      <link>https://nirlipo.github.io/talk/planning-mining-operations/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/talk/planning-mining-operations/</guid>
+      <description>&lt;p&gt;Video available via the link above.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

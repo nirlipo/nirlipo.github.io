@@ -11,15 +11,6 @@
     <loc>https://nirlipo.github.io/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://nirlipo.github.io/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nirlipo.github.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nirlipo.github.io/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nirlipo.github.io/publication-type/2/</loc>
     <lastmod>2026-01-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -30,6 +21,9 @@
     <lastmod>2026-01-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nirlipo.github.io/authors/</loc>
+    <lastmod>2026-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nirlipo.github.io/</loc>
     <lastmod>2026-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nirlipo.github.io/author/nir-lipovetzky/</loc>
@@ -61,6 +55,24 @@
   </url><url>
     <loc>https://nirlipo.github.io/publication/wang-2025-metapilot/</loc>
     <lastmod>2026-01-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nirlipo.github.io/tag/invited-talk/</loc>
+    <lastmod>2025-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nirlipo.github.io/tag/llm/</loc>
+    <lastmod>2025-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nirlipo.github.io/tag/planning/</loc>
+    <lastmod>2025-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nirlipo.github.io/talk/</loc>
+    <lastmod>2025-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nirlipo.github.io/tags/</loc>
+    <lastmod>2025-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nirlipo.github.io/talk/icaps25-lm4plan/</loc>
+    <lastmod>2025-11-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nirlipo.github.io/publication-type/1/</loc>
     <lastmod>2026-01-27T00:00:00+00:00</lastmod>
@@ -347,9 +359,6 @@
     <loc>https://nirlipo.github.io/project/</loc>
     <lastmod>2023-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nirlipo.github.io/tags/</loc>
-    <lastmod>2023-04-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nirlipo.github.io/tag/teaching/</loc>
     <lastmod>2023-04-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -470,6 +479,18 @@
     <loc>https://nirlipo.github.io/publication/zhihao-master/</loc>
     <lastmod>2023-12-28T14:26:58+11:00</lastmod>
   </url><url>
+    <loc>https://nirlipo.github.io/tag/reinforcement-learning/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nirlipo.github.io/tag/seminar/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nirlipo.github.io/talk/tractable-novelty-exploration/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nirlipo.github.io/tag/width-based-planning/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nirlipo.github.io/publication/singh-2021-approximate/</loc>
     <lastmod>2021-09-22T16:27:16+10:00</lastmod>
   </url><url>
@@ -518,9 +539,6 @@
     <loc>https://nirlipo.github.io/publication/polyvyanyy-2020-goal/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nirlipo.github.io/tag/width-based-planning/</loc>
-    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nirlipo.github.io/project/width-based-planning/</loc>
     <lastmod>2020-04-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -560,6 +578,9 @@
     <loc>https://nirlipo.github.io/publication/gerevini-2019-best/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://nirlipo.github.io/talk/best-first-width-multi-agent/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nirlipo.github.io/author/daniele-magazzeni/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -569,10 +590,16 @@
     <loc>https://nirlipo.github.io/author/haoyuan-tang/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://nirlipo.github.io/tag/icaps/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nirlipo.github.io/tag/modeling/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nirlipo.github.io/author/mohammed-sharukh-syed/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nirlipo.github.io/tag/multi-agent-planning/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nirlipo.github.io/author/nico-peli/</loc>
@@ -588,6 +615,9 @@
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nirlipo.github.io/publication/syed-2019-planimation/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nirlipo.github.io/tag/privacy/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nirlipo.github.io/author/stefan-otoole/</loc>
@@ -776,7 +806,16 @@
     <loc>https://nirlipo.github.io/author/miguel-ram%C4%B1rez/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://nirlipo.github.io/tag/mining/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nirlipo.github.io/publication/lipovetzky-2014-planning/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nirlipo.github.io/talk/planning-mining-operations/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nirlipo.github.io/tag/scheduling/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nirlipo.github.io/publication/lipovetzky-2014-structure/</loc>
@@ -803,10 +842,16 @@
     <loc>https://nirlipo.github.io/tag/synthesis/</loc>
     <lastmod>2013-06-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://nirlipo.github.io/tag/dissertation/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nirlipo.github.io/author/fabio-patrizi/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nirlipo.github.io/publication/patrizi-2013-fair/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nirlipo.github.io/talk/structure-inference-classical-planning/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nirlipo.github.io/author/hector-geffner/</loc>
@@ -827,7 +872,16 @@
     <loc>https://nirlipo.github.io/publication/lipovetzky-2011-searching/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://nirlipo.github.io/tag/decomposition/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nirlipo.github.io/tag/inference/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nirlipo.github.io/publication/lipovetzky-2009-inference/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nirlipo.github.io/talk/inference-decomposition-causal-consistent-chains/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nirlipo.github.io/publication/lipovetzky-2009-path/</loc>

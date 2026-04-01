@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Width Based Planning | Nir Lipovetzky</title>
+    <title>Width-Based-Planning | Nir Lipovetzky</title>
     <link>https://nirlipo.github.io/tag/width-based-planning/</link>
       <atom:link href="https://nirlipo.github.io/tag/width-based-planning/index.xml" rel="self" type="application/rss+xml" />
-    <description>Width Based Planning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <description>Width-Based-Planning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Width Based Planning</title>
+      <title>Width-Based-Planning</title>
       <link>https://nirlipo.github.io/tag/width-based-planning/</link>
     </image>
+    
+    <item>
+      <title>Tractable novelty exploration over Continuous and Discrete Sequential Decision Problems</title>
+      <link>https://nirlipo.github.io/talk/tractable-novelty-exploration/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/talk/tractable-novelty-exploration/</guid>
+      <description>&lt;p&gt;Video available via the link above.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Width Based Planning</title>
@@ -182,6 +191,15 @@
 
 &lt;h2 id=&#34;more-youtube-atari-videoshttpswwwyoutubecomplaylistlistplxpqcxuq_cwenuazuivhxyyvjus6kqoi0&#34;&gt;
 &lt;a href=&#34;https://www.youtube.com/playlist?list=PLXpQcXUQ_CwenUazUivhXyYvjuS6KQOI0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;More Youtube Atari videos&lt;/a&gt;&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Structure and Inference In Classical Planning</title>
+      <link>https://nirlipo.github.io/talk/structure-inference-classical-planning/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/talk/structure-inference-classical-planning/</guid>
+      <description>&lt;p&gt;Video available via the link above.&lt;/p&gt;
 </description>
     </item>
     

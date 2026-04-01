@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Icaps | Nir Lipovetzky</title>
+    <link>https://nirlipo.github.io/tag/icaps/</link>
+      <atom:link href="https://nirlipo.github.io/tag/icaps/index.xml" rel="self" type="application/rss+xml" />
+    <description>Icaps</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Icaps</title>
+      <link>https://nirlipo.github.io/tag/icaps/</link>
+    </image>
+    
+    <item>
+      <title>Best-First Width Search for Multi Agent Privacy-preserving Planning</title>
+      <link>https://nirlipo.github.io/talk/best-first-width-multi-agent/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/talk/best-first-width-multi-agent/</guid>
+      <description>&lt;p&gt;Video available via the link above.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Planning for Mining Operations with Time and Resource Constraints</title>
+      <link>https://nirlipo.github.io/talk/planning-mining-operations/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/talk/planning-mining-operations/</guid>
+      <description>&lt;p&gt;Video available via the link above.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Structure and Inference In Classical Planning</title>
+      <link>https://nirlipo.github.io/talk/structure-inference-classical-planning/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/talk/structure-inference-classical-planning/</guid>
+      <description>&lt;p&gt;Video available via the link above.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inference and Decomposition in Planning Using Causal Consistent Chains</title>
+      <link>https://nirlipo.github.io/talk/inference-decomposition-causal-consistent-chains/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/talk/inference-decomposition-causal-consistent-chains/</guid>
+      <description>&lt;p&gt;Video available via the link above.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
