@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Associate Professor in Artificial Intelligence">
+  <meta name="description" content="ICAPS 2017 talk on polynomial variants of best-first width search that outperform LAMA and FF empirically.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://nirlipo.github.io/tag/width-based-planning/">
+  <link rel="alternate" hreflang="en-us" href="https://nirlipo.github.io/talk/polynomial-planning-beats-lama-ff/">
 
   
 
@@ -251,14 +251,12 @@
 
 
   
-  <link rel="alternate" href="/tag/width-based-planning/index.xml" type="application/rss+xml" title="Nir Lipovetzky">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_hu10978985619530458252.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu5609693425197255918.png">
 
-  <link rel="canonical" href="https://nirlipo.github.io/tag/width-based-planning/">
+  <link rel="canonical" href="https://nirlipo.github.io/talk/polynomial-planning-beats-lama-ff/">
 
   
   
@@ -275,18 +273,49 @@
   <meta property="twitter:creator" content="@nirlipo">
   
   <meta property="og:site_name" content="Nir Lipovetzky">
-  <meta property="og:url" content="https://nirlipo.github.io/tag/width-based-planning/">
-  <meta property="og:title" content="Width-Based-Planning | Nir Lipovetzky">
-  <meta property="og:description" content="Associate Professor in Artificial Intelligence"><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
+  <meta property="og:url" content="https://nirlipo.github.io/talk/polynomial-planning-beats-lama-ff/">
+  <meta property="og:title" content="A Polynomial Planning Algorithm That Beats LAMA and FF | Nir Lipovetzky">
+  <meta property="og:description" content="ICAPS 2017 talk on polynomial variants of best-first width search that outperform LAMA and FF empirically."><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
   <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2021-09-01T00:00:00&#43;00:00">
+    
+      <meta property="article:published_time" content="2026-04-01T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2017-06-05T00:00:00&#43;00:00">
   
 
   
 
 
 
+  
+    
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://nirlipo.github.io/talk/polynomial-planning-beats-lama-ff/"
+  },
+  "name": "A Polynomial Planning Algorithm That Beats LAMA and FF",
+  
+  
+  "startDate": "2017-06-05T00:00:00Z",
+  
+  
+  "performer": {
+    "@type": "Person",
+    "name": "Nir Lipovetzky"
+  },
+  
+  "description": "ICAPS 2017 talk on polynomial variants of best-first width search that outperform LAMA and FF empirically."
+}
+</script>
 
   
 
@@ -294,10 +323,13 @@
   
 
 
+  
 
 
 
-  <title>Width-Based-Planning | Nir Lipovetzky</title>
+
+
+  <title>A Polynomial Planning Algorithm That Beats LAMA and FF | Nir Lipovetzky</title>
 
 </head>
 
@@ -690,6 +722,71 @@
 </nav>
 
 
+  <div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>A Polynomial Planning Algorithm That Beats LAMA and FF</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
   
 
 
@@ -699,83 +796,231 @@
 
 
 
-
-
-
-
   
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://ojs.aaai.org/index.php/ICAPS/article/view/13822" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   
   
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1>Width-Based-Planning</h1>
-
   
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://www.youtube.com/watch?v=pJGaVLwZYGM" target="_blank" rel="noopener">
+    <i class="fab fa-youtube mr-1"></i>
+    Video
+  </a>
+
+
+</div>
+
 
   
 </div>
 
 
 
-<div class="universal-wrapper">
+  <div class="article-container">
+
+    
+      <h3>Abstract</h3>
+      <p class="pub-abstract">It has been shown recently that heuristic and width-based search can be combined to produce planning algorithms with a performance that goes beyond the state-of-the-art. Such algorithms are based on best-first width search (BFWS), a plain best-first search set with evaluation functions combined lexicographically to break ties, some of which express novelty based preferences. In BFWS(f5), for example, the evaluation function f5 weights nodes by a novelty measure, breaking ties by the number of non-achieved goals. BFWS(f5) is a best-first algorithm, and hence, it is complete but not polynomial, and its performance doesn’t match the state of the art. In this work we show, however, that incomplete versions of BFWS(f5) where nodes with novelty greater than k are pruned, are not only polynomial but have an empirical performance that is better than both BFWS(f5) and state-of-the-art planners. This is shown by considering all the international planning competition instances. This is the first time where polynomial algorithms with meaningful bounds are shown to achieve state-of-the-art performance in planning. Practical and theoretical implications of this empirical finding are briefly sketched.</p>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9">
+            05 Jun 2017 00:00
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Event</div>
+          <div class="col-12 col-md-9">
+            <a href="https://ojs.aaai.org/index.php/ICAPS/article/view/13822" target="_blank" rel="noopener">
+            ICAPS 2017
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style">
+      <p>Video available via the link above.</p>
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
   
+  <a class="badge badge-light" href="/tag/planning/">planning</a>
+  
+  <a class="badge badge-light" href="/tag/width-based-planning/">width-based-planning</a>
+  
+  <a class="badge badge-light" href="/tag/bfws/">bfws</a>
+  
+  <a class="badge badge-light" href="/tag/icaps/">icaps</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://nirlipo.github.io/talk/polynomial-planning-beats-lama-ff/&amp;text=A%20Polynomial%20Planning%20Algorithm%20That%20Beats%20LAMA%20and%20FF" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://nirlipo.github.io/talk/polynomial-planning-beats-lama-ff/&amp;t=A%20Polynomial%20Planning%20Algorithm%20That%20Beats%20LAMA%20and%20FF" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=A%20Polynomial%20Planning%20Algorithm%20That%20Beats%20LAMA%20and%20FF&amp;body=https://nirlipo.github.io/talk/polynomial-planning-beats-lama-ff/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://nirlipo.github.io/talk/polynomial-planning-beats-lama-ff/&amp;title=A%20Polynomial%20Planning%20Algorithm%20That%20Beats%20LAMA%20and%20FF" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   
   
-    
-    
-    
-    <div>
-      <h2><a href="/talk/tractable-novelty-exploration/" >Tractable novelty exploration over Continuous and Discrete Sequential Decision Problems</a></h2>
-      <div class="article-style">
-        
-          Seminar talk at the School of Computing and Information Systems, The University of Melbourne, on width-based planning for continuous and discrete sequential decision problems.
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/project/width-based-planning/" >Width Based Planning</a></h2>
-      <div class="article-style">
-        
-          Width Based Planning searches for solutions through a general measure of state novelty. Performs well over black-box simulators and PDDL problems.
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/talk/polynomial-planning-beats-lama-ff/" >A Polynomial Planning Algorithm That Beats LAMA and FF</a></h2>
-      <div class="article-style">
-        
-          ICAPS 2017 talk on polynomial variants of best-first width search that outperform LAMA and FF empirically.
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/talk/structure-inference-classical-planning/" >Structure and Inference In Classical Planning</a></h2>
-      <div class="article-style">
-        
-          ICAPS 2013 Best Dissertation Award talk on reasoning-based approaches to classical planning and planning width.
-        
-      </div>
-    </div>
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/talk/structure-inference-classical-planning/">Structure and Inference In Classical Planning</a></li>
+      
+      <li><a href="/talk/best-first-width-multi-agent/">Best-First Width Search for Multi Agent Privacy-preserving Planning</a></li>
+      
+      <li><a href="/talk/inference-decomposition-causal-consistent-chains/">Inference and Decomposition in Planning Using Causal Consistent Chains</a></li>
+      
+      <li><a href="/talk/planning-mining-operations/">Planning for Mining Operations with Time and Resource Constraints</a></li>
+      
+      <li><a href="/talk/tractable-novelty-exploration/">Tractable novelty exploration over Continuous and Discrete Sequential Decision Problems</a></li>
+      
+    </ul>
+  </div>
   
 
-  
 
+
+  </div>
 </div>
 
       
