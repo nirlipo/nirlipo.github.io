@@ -5,12 +5,20 @@
     <link>https://nirlipo.github.io/author/enrico-scala/</link>
       <atom:link href="https://nirlipo.github.io/author/enrico-scala/index.xml" rel="self" type="application/rss+xml" />
     <description>Enrico Scala</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Enrico Scala</title>
       <link>https://nirlipo.github.io/author/enrico-scala/</link>
     </image>
+    
+    <item>
+      <title>A Notion of Width for Numeric Planning Problems</title>
+      <link>https://nirlipo.github.io/publication/rosa-2026-notion/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/rosa-2026-notion/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Integrated Hybrid Planning and Programmed Control for Real--Time UAV Maneuvering</title>

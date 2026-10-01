@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jean Honorio | Nir Lipovetzky</title>
+    <link>https://nirlipo.github.io/author/jean-honorio/</link>
+      <atom:link href="https://nirlipo.github.io/author/jean-honorio/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jean Honorio</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Jean Honorio</title>
+      <link>https://nirlipo.github.io/author/jean-honorio/</link>
+    </image>
+    
+    <item>
+      <title>IPC 2026 Numeric Track: The Panino Solver</title>
+      <link>https://nirlipo.github.io/publication/rosa-2026-panino/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/rosa-2026-panino/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Winner of the Satisficing and Agile tracks (Overall)&lt;/strong&gt; at the 
+&lt;a href=&#34;https://ipc2026-numeric.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Planning Competition 2026 - Numeric Tracks&lt;/a&gt;. The Overall category places no restriction on the problems: both Simple Numeric and Linear Numeric expressions are allowed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Planning as Goal Recognition: Deriving Heuristics from Intention Models</title>
+      <link>https://nirlipo.github.io/publication/rosa-2026-planning/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/rosa-2026-planning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Notion of Width for Numeric Planning Problems</title>
+      <link>https://nirlipo.github.io/publication/rosa-2026-notion/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/rosa-2026-notion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Divergence Identities for Probabilistic Goal Recognition</title>
+      <link>https://nirlipo.github.io/publication/rosa-2026-divergence/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/rosa-2026-divergence/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

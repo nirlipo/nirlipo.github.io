@@ -5,7 +5,7 @@
     <link>https://nirlipo.github.io/authors/</link>
       <atom:link href="https://nirlipo.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -17,18 +17,22 @@
       <link>https://nirlipo.github.io/author/nir-lipovetzky/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nirlipo.github.io/author/nir-lipovetzky/</guid>
-      <description>&lt;p&gt;I am an Associate Professor in Artificial intelligencee at the School of 
-&lt;a href=&#34;https://cis.unimelb.edu.au/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Computing and Information Systems&lt;/a&gt;, 
-&lt;a href=&#34;https://www.unimelb.edu.au/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The University of Melbourne&lt;/a&gt;. I&amp;rsquo;m a member of the 
-&lt;a href=&#34;https://cis.unimelb.edu.au/agentlab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Agent Lab group&lt;/a&gt; and the 
+      <description>&lt;p&gt;I am an Associate Professor in Artificial Intelligence in the School of 
+&lt;a href=&#34;https://cis.unimelb.edu.au/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Computing and Information Systems&lt;/a&gt;, Faculty of Engineering and Information Technology, at 
+&lt;a href=&#34;https://www.unimelb.edu.au/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The University of Melbourne&lt;/a&gt; (Australia), where I lead the 
+&lt;a href=&#34;https://cis.unimelb.edu.au/research/artificial-intelligence/research&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Artificial Intelligence group&lt;/a&gt;. I serve as Course Director of the 
+&lt;a href=&#34;https://onlineunimelb.edu.au/ppc/master-artificial-intelligence&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Master of Artificial Intelligence (Online)&lt;/a&gt;, and as a member of the 
+&lt;a href=&#34;https://www.icaps-conference.org/icaps-executive-council/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICAPS Executive Council&lt;/a&gt;, where I am the Mentoring and Diversity Chair. My research and teaching interests span AI planning, search, learning, reasoning with large language models, intention recognition, and autonomous systems. I&amp;rsquo;m a member of the 
+&lt;a href=&#34;https://cis.unimelb.edu.au/agentlab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AI and Autonomous Agents Lab&lt;/a&gt; and the 
 &lt;a href=&#34;https://fvas.unimelb.edu.au/research/groups/digital-agriculture-food-and-wine&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Agriculture, Food and Wine&lt;/a&gt; lab.&lt;/p&gt;
 &lt;p&gt;My research focuses on how to introduce different approaches to the problem of inference in &lt;strong&gt;sequential decision problems&lt;/strong&gt;, as well as applications to &lt;strong&gt;autonomous systems in agriculture&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;I completed my PhD at the 
 &lt;a href=&#34;https://www.upf.edu/web/ai-ml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Artificial Intelligence and Machine Learning Group&lt;/a&gt;, Universitat Pompeu Fabra, under the supervision of Prof. 
-&lt;a href=&#34;http://www.dtic.upf.edu/~hgeffner/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hector Geffner&lt;/a&gt;. I was a research fellow for 3 years under the supervision of Prof. 
+&lt;a href=&#34;https://www-i6.informatik.rwth-aachen.de/~hector.geffner/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hector Geffner&lt;/a&gt;. I was a research fellow for 3 years under the supervision of Prof. 
 &lt;a href=&#34;https://people.eng.unimelb.edu.au/pstuckey/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peter Stuckey&lt;/a&gt; and Prof. 
 &lt;a href=&#34;https://people.eng.unimelb.edu.au/adrianrp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adrian Pearce&lt;/a&gt;, working on solving 
-&lt;a href=&#34;https://cis.unimelb.edu.au/agentlab/projects/mining&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mining Scheduling&lt;/a&gt; problems through automated planning, constraint programming and operations research techniques.&lt;/p&gt;
+&lt;a href=&#34;https://cis.unimelb.edu.au/agentlab/projects/mining&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mining Scheduling&lt;/a&gt; problems through automated planning, constraint programming and operations research techniques. Since then, I have built a research program around width-based search and novelty, whose planners have been awarded in several 
+&lt;a href=&#34;https://nirlipo.github.io/project/planners-competitions/&#34;&gt;International Planning Competitions&lt;/a&gt;, most recently winning the Satisficing and Agile tracks of the IPC 2026 Numeric Tracks. This program has grown to intersect with other areas, from goal and intention recognition with humans, to the integration of reasoning and learning, where planning meets machine learning and large language models.&lt;/p&gt;
 &lt;!-- My interests span across research areas in **AI planning, search, learning, verification, constraint programming, operations research and intention recognition**.  --&gt;
 &lt;!-- I&#39;m involved in the development of the Lightweight Automated Planning ToolKiT (LAPKT), aimed to make your life easier if your purpose is to create, use or extend basic to advanced Automated Planners. --&gt;</description>
     </item>

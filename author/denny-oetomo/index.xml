@@ -5,12 +5,30 @@
     <link>https://nirlipo.github.io/author/denny-oetomo/</link>
       <atom:link href="https://nirlipo.github.io/author/denny-oetomo/index.xml" rel="self" type="application/rss+xml" />
     <description>Denny Oetomo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Denny Oetomo</title>
       <link>https://nirlipo.github.io/author/denny-oetomo/</link>
     </image>
+    
+    <item>
+      <title>Design and Evaluation of AR-Based Real-Time Feedback System for Kinesthetic Robot Teaching</title>
+      <link>https://nirlipo.github.io/publication/bilal-2026-design/</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/bilal-2026-design/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Best Paper Honourable Mention&lt;/strong&gt; at the 
+&lt;a href=&#34;https://dis.acm.org/2026/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2026 ACM Designing Interactive Systems Conference (DIS 2026)&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Investigating the Impact of Robot Degree of Redundancy on Learning from Demonstration</title>
+      <link>https://nirlipo.github.io/publication/bilal-2026-investigating/</link>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/bilal-2026-investigating/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Process Mining over Sensor Data: Goal Recognition for Powered Transhumeral Prostheses</title>

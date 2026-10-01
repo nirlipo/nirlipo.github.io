@@ -5,7 +5,7 @@
     <link>https://nirlipo.github.io/</link>
       <atom:link href="https://nirlipo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Nir Lipovetzky</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Nir Lipovetzky</title>
@@ -52,6 +52,106 @@
 &lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>From Reasoning to Generalization: Knowledge-Augmented LLMs for ARC Benchmark</title>
+      <link>https://nirlipo.github.io/publication/lei-2026-reasoning/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/lei-2026-reasoning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mind the Perspective: Let&#39;s Reason Recursively for Theory of Mind</title>
+      <link>https://nirlipo.github.io/publication/lei-2026-mind/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/lei-2026-mind/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SVoT: State-aware Visualization-of-Thought for Spatial Reasoning via Reinforcement Learning</title>
+      <link>https://nirlipo.github.io/publication/lei-2026-svot/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/lei-2026-svot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IPC 2026 Numeric Track: The Panino Solver</title>
+      <link>https://nirlipo.github.io/publication/rosa-2026-panino/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/rosa-2026-panino/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Winner of the Satisficing and Agile tracks (Overall)&lt;/strong&gt; at the 
+&lt;a href=&#34;https://ipc2026-numeric.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Planning Competition 2026 - Numeric Tracks&lt;/a&gt;. The Overall category places no restriction on the problems: both Simple Numeric and Linear Numeric expressions are allowed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Design and Evaluation of AR-Based Real-Time Feedback System for Kinesthetic Robot Teaching</title>
+      <link>https://nirlipo.github.io/publication/bilal-2026-design/</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/bilal-2026-design/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Best Paper Honourable Mention&lt;/strong&gt; at the 
+&lt;a href=&#34;https://dis.acm.org/2026/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2026 ACM Designing Interactive Systems Conference (DIS 2026)&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computing Planning Width: How Hard Is It, Really?</title>
+      <link>https://nirlipo.github.io/publication/song-2026-computing/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/song-2026-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Planning as Goal Recognition: Deriving Heuristics from Intention Models</title>
+      <link>https://nirlipo.github.io/publication/rosa-2026-planning/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/rosa-2026-planning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Notion of Width for Numeric Planning Problems</title>
+      <link>https://nirlipo.github.io/publication/rosa-2026-notion/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/rosa-2026-notion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Divergence Identities for Probabilistic Goal Recognition</title>
+      <link>https://nirlipo.github.io/publication/rosa-2026-divergence/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/rosa-2026-divergence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mining Role-based Behavioral Patterns From Event Data for Effective Process Simulation</title>
+      <link>https://nirlipo.github.io/publication/shen-2026-mining/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/shen-2026-mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding and Improving Novice Kinesthetic Teaching for Robot Learning from Demonstration</title>
+      <link>https://nirlipo.github.io/publication/muhammad-phdthesis/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/muhammad-phdthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the Impact of Robot Degree of Redundancy on Learning from Demonstration</title>
+      <link>https://nirlipo.github.io/publication/bilal-2026-investigating/</link>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/bilal-2026-investigating/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -1452,11 +1552,11 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Classical Planners</title>
-      <link>https://nirlipo.github.io/project/classical-planners/</link>
+      <title>Planners &amp; Competitions</title>
+      <link>https://nirlipo.github.io/project/planners-competitions/</link>
       <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://nirlipo.github.io/project/classical-planners/</guid>
-      <description>&lt;p&gt;One of our AI planners &lt;strong&gt;has been used ove 1M times @ 
+      <guid>https://nirlipo.github.io/project/planners-competitions/</guid>
+      <description>&lt;p&gt;One of our AI planners &lt;strong&gt;has been used over 1M times @ 
 &lt;a href=&#34;http://editor.planning.domains&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;editor.planning.domains&lt;/a&gt;&lt;/strong&gt;. It was developed using 
 &lt;a href=&#34;http://lapkt.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LAPKT&lt;/a&gt; and deployed as solver in the cloud.
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Quite proud of something today. In 2015 I launched &lt;a href=&#34;https://t.co/DpTk3PQKYn&#34;&gt;https://t.co/DpTk3PQKYn&lt;/a&gt; -- a set of services for my area of research, including a remote solver for researchers to use.&lt;br&gt;&lt;br&gt;Roughly 5 years after going live, we just passed the 1 million solver call mark.&lt;br&gt;&lt;br&gt;1/n &lt;a href=&#34;https://t.co/YArjEkuoqA&#34;&gt;pic.twitter.com/YArjEkuoqA&lt;/a&gt;&lt;/p&gt;&amp;mdash; Christian Muise (@cjmuise) &lt;a href=&#34;https://twitter.com/cjmuise/status/1263538966046916608?ref_src=twsrc%5Etfw&#34;&gt;May 21, 2020&lt;/a&gt;&lt;/blockquote&gt;
@@ -1464,6 +1564,95 @@ $$&lt;/p&gt;
 
 &lt;/p&gt;
 &lt;p&gt;Several AI Planners have been awarded in  &lt;strong&gt;International Planning Competitions&lt;/strong&gt; (IPC):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Panino&lt;/code&gt; numeric planner (PArtitioned NumerIc NOvelty), 
+&lt;a href=&#34;https://nirlipo.github.io/publication/rosa-2026-panino/&#34;&gt;IPC-2026 
+  &lt;i class=&#34;fas fa-file-pdf  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;/a&gt;, 
+&lt;a href=&#34;https://nirlipo.github.io/publication/rosa-2026-notion/&#34;&gt;HSDIP-2026 
+  &lt;i class=&#34;fas fa-file-pdf  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://ipc2026-numeric.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Winner&lt;/strong&gt;&lt;/a&gt; Satisficing Track (Overall) IPC 2026 Numeric Tracks, with &lt;code&gt;Panino-anytime&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://ipc2026-numeric.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Winner&lt;/strong&gt;&lt;/a&gt; Agile Track (Overall) IPC 2026 Numeric Tracks, with &lt;code&gt;Panino&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;The Overall category places no restriction on the problems: both Simple Numeric and Linear Numeric expressions are allowed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://nirlipo.github.io/project/planners-competitions/ipc2026-numeric-agile_hu16306066966896235641.jpg&#34; data-caption=&#34;Overall Award, Agile Track: Panino at the IPC 2026 Numeric Tracks, ICAPS 2026, Dublin.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://nirlipo.github.io/project/planners-competitions/ipc2026-numeric-agile_hu16306066966896235641.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1280&#34; height=&#34;960&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Overall Award, Agile Track: Panino at the IPC 2026 Numeric Tracks, ICAPS 2026, Dublin.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://nirlipo.github.io/project/planners-competitions/ipc2026-numeric-satisficing_hu16571082781413633984.jpg&#34; data-caption=&#34;Overall Award, Satisficing Track: Panino-anytime at the IPC 2026 Numeric Tracks, ICAPS 2026, Dublin.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://nirlipo.github.io/project/planners-competitions/ipc2026-numeric-satisficing_hu16571082781413633984.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1280&#34; height=&#34;960&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Overall Award, Satisficing Track: Panino-anytime at the IPC 2026 Numeric Tracks, ICAPS 2026, Dublin.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;code&gt;Best First Width Search (BFWS)&lt;/code&gt; polynomial and complete planners,
@@ -1503,7 +1692,7 @@ $$&lt;/p&gt;
   &lt;i class=&#34;fas fa-file-pdf  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;/a&gt;,&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;http://icaps-conference.org/ipc2008/deterministic/data/results/ipc2008-talk.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jury Award Award&lt;/strong&gt;&lt;/a&gt;   IPC-6, 2008&lt;/li&gt;
+&lt;a href=&#34;http://icaps-conference.org/ipc2008/deterministic/data/results/ipc2008-talk.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jury Award&lt;/strong&gt;&lt;/a&gt;   IPC-6, 2008&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -1572,6 +1761,29 @@ $$&lt;/p&gt;
 
 
 
+&lt;p&gt;&lt;strong&gt;[10/26]&lt;/strong&gt; New NeurIPS 2026 paper on 
+&lt;a href=&#34;https://nirlipo.github.io/publication/lei-2026-svot/&#34;&gt;SVoT: State-aware Visualization-of-Thought for Spatial Reasoning via Reinforcement Learning&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[10/26]&lt;/strong&gt; New EMNLP 2026 paper on 
+&lt;a href=&#34;https://nirlipo.github.io/publication/lei-2026-mind/&#34;&gt;Mind the Perspective: Let&amp;rsquo;s Reason Recursively for Theory of Mind&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[10/26]&lt;/strong&gt; New EMNLP 2026 Findings paper on 
+&lt;a href=&#34;https://nirlipo.github.io/publication/lei-2026-reasoning/&#34;&gt;From Reasoning to Generalization: Knowledge-Augmented LLMs for ARC Benchmark&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[07/26]&lt;/strong&gt; Our Panino planner &lt;strong&gt;won the Satisficing and Agile tracks (Overall)&lt;/strong&gt; at the 
+&lt;a href=&#34;https://ipc2026-numeric.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IPC 2026 Numeric Tracks&lt;/a&gt; (
+&lt;a href=&#34;https://nirlipo.github.io/publication/rosa-2026-panino/&#34;&gt;planner abstract&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[06/26]&lt;/strong&gt; New DIS 2026 &lt;strong&gt;Best Paper Honourable Mention&lt;/strong&gt; on 
+&lt;a href=&#34;https://nirlipo.github.io/publication/bilal-2026-design/&#34;&gt;Design and Evaluation of AR-Based Real-Time Feedback System for Kinesthetic Robot Teaching&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[06/26]&lt;/strong&gt; New ICAPS paper on 
+&lt;a href=&#34;https://nirlipo.github.io/publication/rosa-2026-planning/&#34;&gt;Planning as Goal Recognition: Deriving Heuristics from Intention Models&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[06/26]&lt;/strong&gt; New ICAPS paper on 
+&lt;a href=&#34;https://nirlipo.github.io/publication/song-2026-computing/&#34;&gt;Computing Planning Width: How Hard Is It, Really?&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[06/26]&lt;/strong&gt; New HSDIP workshop paper on 
+&lt;a href=&#34;https://nirlipo.github.io/publication/rosa-2026-notion/&#34;&gt;A Notion of Width for Numeric Planning Problems&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[06/26]&lt;/strong&gt; New PR-BGI workshop paper on 
+&lt;a href=&#34;https://nirlipo.github.io/publication/rosa-2026-divergence/&#34;&gt;Divergence Identities for Probabilistic Goal Recognition&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[06/26]&lt;/strong&gt; New CAiSE paper on 
+&lt;a href=&#34;https://nirlipo.github.io/publication/shen-2026-mining/&#34;&gt;Mining Role-based Behavioral Patterns From Event Data for Effective Process Simulation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[03/26]&lt;/strong&gt; New HRI paper on 
+&lt;a href=&#34;https://nirlipo.github.io/publication/bilal-2026-investigating/&#34;&gt;Investigating the Impact of Robot Degree of Redundancy on Learning from Demonstration&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[02/26]&lt;/strong&gt; Invited talk at 
 &lt;a href=&#34;https://llmforplanning.github.io/ICAPS25/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LM4Plan @ ICAPS 2025&lt;/a&gt; on 
 &lt;a href=&#34;https://nirlipo.github.io/talk/icaps25-lm4plan/&#34;&gt;Towards Model-Based Reasoning in Large Language Models: A Planning Perspective&lt;/a&gt; (
@@ -2126,18 +2338,22 @@ $$&lt;/p&gt;
       <link>https://nirlipo.github.io/author/nir-lipovetzky/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nirlipo.github.io/author/nir-lipovetzky/</guid>
-      <description>&lt;p&gt;I am an Associate Professor in Artificial intelligencee at the School of 
-&lt;a href=&#34;https://cis.unimelb.edu.au/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Computing and Information Systems&lt;/a&gt;, 
-&lt;a href=&#34;https://www.unimelb.edu.au/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The University of Melbourne&lt;/a&gt;. I&amp;rsquo;m a member of the 
-&lt;a href=&#34;https://cis.unimelb.edu.au/agentlab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Agent Lab group&lt;/a&gt; and the 
+      <description>&lt;p&gt;I am an Associate Professor in Artificial Intelligence in the School of 
+&lt;a href=&#34;https://cis.unimelb.edu.au/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Computing and Information Systems&lt;/a&gt;, Faculty of Engineering and Information Technology, at 
+&lt;a href=&#34;https://www.unimelb.edu.au/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The University of Melbourne&lt;/a&gt; (Australia), where I lead the 
+&lt;a href=&#34;https://cis.unimelb.edu.au/research/artificial-intelligence/research&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Artificial Intelligence group&lt;/a&gt;. I serve as Course Director of the 
+&lt;a href=&#34;https://onlineunimelb.edu.au/ppc/master-artificial-intelligence&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Master of Artificial Intelligence (Online)&lt;/a&gt;, and as a member of the 
+&lt;a href=&#34;https://www.icaps-conference.org/icaps-executive-council/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICAPS Executive Council&lt;/a&gt;, where I am the Mentoring and Diversity Chair. My research and teaching interests span AI planning, search, learning, reasoning with large language models, intention recognition, and autonomous systems. I&amp;rsquo;m a member of the 
+&lt;a href=&#34;https://cis.unimelb.edu.au/agentlab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AI and Autonomous Agents Lab&lt;/a&gt; and the 
 &lt;a href=&#34;https://fvas.unimelb.edu.au/research/groups/digital-agriculture-food-and-wine&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Agriculture, Food and Wine&lt;/a&gt; lab.&lt;/p&gt;
 &lt;p&gt;My research focuses on how to introduce different approaches to the problem of inference in &lt;strong&gt;sequential decision problems&lt;/strong&gt;, as well as applications to &lt;strong&gt;autonomous systems in agriculture&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;I completed my PhD at the 
 &lt;a href=&#34;https://www.upf.edu/web/ai-ml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Artificial Intelligence and Machine Learning Group&lt;/a&gt;, Universitat Pompeu Fabra, under the supervision of Prof. 
-&lt;a href=&#34;http://www.dtic.upf.edu/~hgeffner/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hector Geffner&lt;/a&gt;. I was a research fellow for 3 years under the supervision of Prof. 
+&lt;a href=&#34;https://www-i6.informatik.rwth-aachen.de/~hector.geffner/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hector Geffner&lt;/a&gt;. I was a research fellow for 3 years under the supervision of Prof. 
 &lt;a href=&#34;https://people.eng.unimelb.edu.au/pstuckey/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peter Stuckey&lt;/a&gt; and Prof. 
 &lt;a href=&#34;https://people.eng.unimelb.edu.au/adrianrp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adrian Pearce&lt;/a&gt;, working on solving 
-&lt;a href=&#34;https://cis.unimelb.edu.au/agentlab/projects/mining&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mining Scheduling&lt;/a&gt; problems through automated planning, constraint programming and operations research techniques.&lt;/p&gt;
+&lt;a href=&#34;https://cis.unimelb.edu.au/agentlab/projects/mining&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mining Scheduling&lt;/a&gt; problems through automated planning, constraint programming and operations research techniques. Since then, I have built a research program around width-based search and novelty, whose planners have been awarded in several 
+&lt;a href=&#34;https://nirlipo.github.io/project/planners-competitions/&#34;&gt;International Planning Competitions&lt;/a&gt;, most recently winning the Satisficing and Agile tracks of the IPC 2026 Numeric Tracks. This program has grown to intersect with other areas, from goal and intention recognition with humans, to the integration of reasoning and learning, where planning meets machine learning and large language models.&lt;/p&gt;
 &lt;!-- My interests span across research areas in **AI planning, search, learning, verification, constraint programming, operations research and intention recognition**.  --&gt;
 &lt;!-- I&#39;m involved in the development of the Lightweight Automated Planning ToolKiT (LAPKT), aimed to make your life easier if your purpose is to create, use or extend basic to advanced Automated Planners. --&gt;</description>
     </item>

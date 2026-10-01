@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markus Hiller | Nir Lipovetzky</title>
+    <link>https://nirlipo.github.io/author/markus-hiller/</link>
+      <atom:link href="https://nirlipo.github.io/author/markus-hiller/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markus Hiller</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Markus Hiller</title>
+      <link>https://nirlipo.github.io/author/markus-hiller/</link>
+    </image>
+    
+    <item>
+      <title>SVoT: State-aware Visualization-of-Thought for Spatial Reasoning via Reinforcement Learning</title>
+      <link>https://nirlipo.github.io/publication/lei-2026-svot/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/lei-2026-svot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

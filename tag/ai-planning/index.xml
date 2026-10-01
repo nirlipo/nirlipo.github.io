@@ -361,11 +361,11 @@
     </item>
     
     <item>
-      <title>Classical Planners</title>
-      <link>https://nirlipo.github.io/project/classical-planners/</link>
+      <title>Planners &amp; Competitions</title>
+      <link>https://nirlipo.github.io/project/planners-competitions/</link>
       <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://nirlipo.github.io/project/classical-planners/</guid>
-      <description>&lt;p&gt;One of our AI planners &lt;strong&gt;has been used ove 1M times @ 
+      <guid>https://nirlipo.github.io/project/planners-competitions/</guid>
+      <description>&lt;p&gt;One of our AI planners &lt;strong&gt;has been used over 1M times @ 
 &lt;a href=&#34;http://editor.planning.domains&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;editor.planning.domains&lt;/a&gt;&lt;/strong&gt;. It was developed using 
 &lt;a href=&#34;http://lapkt.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LAPKT&lt;/a&gt; and deployed as solver in the cloud.
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Quite proud of something today. In 2015 I launched &lt;a href=&#34;https://t.co/DpTk3PQKYn&#34;&gt;https://t.co/DpTk3PQKYn&lt;/a&gt; -- a set of services for my area of research, including a remote solver for researchers to use.&lt;br&gt;&lt;br&gt;Roughly 5 years after going live, we just passed the 1 million solver call mark.&lt;br&gt;&lt;br&gt;1/n &lt;a href=&#34;https://t.co/YArjEkuoqA&#34;&gt;pic.twitter.com/YArjEkuoqA&lt;/a&gt;&lt;/p&gt;&amp;mdash; Christian Muise (@cjmuise) &lt;a href=&#34;https://twitter.com/cjmuise/status/1263538966046916608?ref_src=twsrc%5Etfw&#34;&gt;May 21, 2020&lt;/a&gt;&lt;/blockquote&gt;
@@ -373,6 +373,95 @@
 
 &lt;/p&gt;
 &lt;p&gt;Several AI Planners have been awarded in  &lt;strong&gt;International Planning Competitions&lt;/strong&gt; (IPC):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Panino&lt;/code&gt; numeric planner (PArtitioned NumerIc NOvelty), 
+&lt;a href=&#34;https://nirlipo.github.io/publication/rosa-2026-panino/&#34;&gt;IPC-2026 
+  &lt;i class=&#34;fas fa-file-pdf  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;/a&gt;, 
+&lt;a href=&#34;https://nirlipo.github.io/publication/rosa-2026-notion/&#34;&gt;HSDIP-2026 
+  &lt;i class=&#34;fas fa-file-pdf  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://ipc2026-numeric.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Winner&lt;/strong&gt;&lt;/a&gt; Satisficing Track (Overall) IPC 2026 Numeric Tracks, with &lt;code&gt;Panino-anytime&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://ipc2026-numeric.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Winner&lt;/strong&gt;&lt;/a&gt; Agile Track (Overall) IPC 2026 Numeric Tracks, with &lt;code&gt;Panino&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;The Overall category places no restriction on the problems: both Simple Numeric and Linear Numeric expressions are allowed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://nirlipo.github.io/project/planners-competitions/ipc2026-numeric-agile_hu16306066966896235641.jpg&#34; data-caption=&#34;Overall Award, Agile Track: Panino at the IPC 2026 Numeric Tracks, ICAPS 2026, Dublin.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://nirlipo.github.io/project/planners-competitions/ipc2026-numeric-agile_hu16306066966896235641.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1280&#34; height=&#34;960&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Overall Award, Agile Track: Panino at the IPC 2026 Numeric Tracks, ICAPS 2026, Dublin.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://nirlipo.github.io/project/planners-competitions/ipc2026-numeric-satisficing_hu16571082781413633984.jpg&#34; data-caption=&#34;Overall Award, Satisficing Track: Panino-anytime at the IPC 2026 Numeric Tracks, ICAPS 2026, Dublin.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://nirlipo.github.io/project/planners-competitions/ipc2026-numeric-satisficing_hu16571082781413633984.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1280&#34; height=&#34;960&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Overall Award, Satisficing Track: Panino-anytime at the IPC 2026 Numeric Tracks, ICAPS 2026, Dublin.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;code&gt;Best First Width Search (BFWS)&lt;/code&gt; polynomial and complete planners,
@@ -412,7 +501,7 @@
   &lt;i class=&#34;fas fa-file-pdf  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;/a&gt;,&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;http://icaps-conference.org/ipc2008/deterministic/data/results/ipc2008-talk.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jury Award Award&lt;/strong&gt;&lt;/a&gt;   IPC-6, 2008&lt;/li&gt;
+&lt;a href=&#34;http://icaps-conference.org/ipc2008/deterministic/data/results/ipc2008-talk.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jury Award&lt;/strong&gt;&lt;/a&gt;   IPC-6, 2008&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;

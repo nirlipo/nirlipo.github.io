@@ -5,12 +5,28 @@
     <link>https://nirlipo.github.io/author/krista-a-ehinger/</link>
       <atom:link href="https://nirlipo.github.io/author/krista-a-ehinger/index.xml" rel="self" type="application/rss+xml" />
     <description>Krista a Ehinger</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Krista a Ehinger</title>
       <link>https://nirlipo.github.io/author/krista-a-ehinger/</link>
     </image>
+    
+    <item>
+      <title>From Reasoning to Generalization: Knowledge-Augmented LLMs for ARC Benchmark</title>
+      <link>https://nirlipo.github.io/publication/lei-2026-reasoning/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/lei-2026-reasoning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SVoT: State-aware Visualization-of-Thought for Spatial Reasoning via Reinforcement Learning</title>
+      <link>https://nirlipo.github.io/publication/lei-2026-svot/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://nirlipo.github.io/publication/lei-2026-svot/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Planning-Driven Programming: A Large Language Model Programming Workflow</title>
